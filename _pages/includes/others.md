@@ -13,9 +13,9 @@
 - 2023.12, Outstanding Student Scholarship (优秀学生奖学金, Top 1%)
 
 # 💻 Internship Experience
-- *2025.10 – present*, 北京三快科技有限公司(美团), Large Language Models Algorithm Intern (LongCat Team).
-- *2025.07 - 2025.09*, 百度在线网络技术(北京)有限公司, Large Language Models Algorithm Intern (ERNIE Team).
-- *2025.03 - 2025.05*, 北京人形机器人创新中心有限公司(天工机器人), Large Language Models Algorithm Intern (Large Model Department).
+- *2025.10 – present*, 北京三快科技有限公司(美团), LongCat Team.
+- *2025.07 - 2025.09*, 百度在线网络技术(北京)有限公司, ERNIE Team.
+- *2025.03 - 2025.05*, 北京人形机器人创新中心有限公司(天工机器人), Large Model Department.
 
 # 📌 Academic Service
 - Reviewer for: ACL, AAAI
