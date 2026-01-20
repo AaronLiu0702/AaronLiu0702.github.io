@@ -18,4 +18,5 @@
 - *2025.03 - 2025.05*, X-humanoid, 北京人形机器人创新中心有限公司 (天工机器人), Large Language Models Algorithm Intern (Large Model Department).
 
 # 📌 Academic Service
-Reviewer for: ACL, AAAI
+- Reviewer for: ACL, AAAI
+- Reviewer for: Applied Sciences
