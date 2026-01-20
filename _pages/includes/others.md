@@ -1,6 +1,7 @@
 
 # 📖 Educations
-- *2025.09 – present*, Institute of Automation, Chinese Academy of Sciences (CASIA) & University of Chinese Academy of Sciences (UCAS), Master's Degree (Artificial Intelligence).
+- *2025.09 – present*, Institute of Automation, Chinese Academy of Sciences (CASIA), Master's Degree (Artificial Intelligence).
+- *2025.09 – present*, University of Chinese Academy of Sciences (UCAS), Master's Degree (Artificial Intelligence).
 - *2021.09 – 2025.06*, Sichuan Agricultural University (SiCAU), Bachelor's Degree (Computer Sciences).
 
 
