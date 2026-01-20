@@ -6,21 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shengnan An"
-description              : "Joint Ph.D. Candidate in Xi'an Jiaotong University & Microsoft Research Asia. Focusing on NLP and Deep Learning."
-repository               : "ShengnanAn/ShengnanAn.github.io"
+title                    : "Junlin Liu"
+description              : "A graduate student at the Institute of Automation, Chinese Academy of Sciences (CASIA), majoring in Artificial Intelligence."
+repository               : "https://aaronliu0702.github.io/"
 google_scholar_stats_use_cdn : False
 
 # Site Author
 author:
-  name             : "Shengnan An"
+  name             : "Junlin Liu"
   avatar           : "images/my_photo.png"
   bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=oPiRHWMAAAAJ&hl=en"
-  email            : "an1006634493@stu.xjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en"
+  email            : "liujunlin626@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
