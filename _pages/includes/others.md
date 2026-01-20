@@ -12,5 +12,8 @@
 - China National Scholarship (国家奖学金, Top 0.2%), 2024.12
 - Outstanding Student Scholarship (优秀学生奖学金, Top 2%), 2023.12
 
-# 🌿 Academic Service
+# 💻 Internship Experience
+- 北京三快科技有限公司 (美团) ,Large Language Models Algorithm Intern (LongCat Team)
+
+# 📌 Academic Service
 Reviewer for: ACL, AAAI
