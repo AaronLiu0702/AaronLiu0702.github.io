@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- *2020.09 - 2025.06*, Xi’an Jiaotong University, Ph.D Candidate. Adviser: Prof. Nanning Zheng.
-- *2019.09 - 2025.06*, Microsoft Research Asia, Joint Ph.D Program. Adviser: Jian-Guang Lou. Mentor: Zeqi Lin.
-- *2016.09 - 2020.06*, Xi’an Jiaotong University, Bachelor’s Degree. Honorable Degree for Qian Xuesen Class (钱学森班).
+- *2025.09 – present*, Institute of Automation, Chinese Academy of Sciences (CASIA) & University of Chinese Academy of Sciences (UCAS), Master's Degree (Artificial Intelligence).
+- *2021.09 – 2025.06*, Sichuan Agricultural University (SiCAU), Bachelor's Degree (Computer Sciences).
+
 
 # ☀️ Honors and Awards
 - Outstanding Graduate (2025)
