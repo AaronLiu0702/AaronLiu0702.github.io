@@ -4,15 +4,12 @@
 - *2021.09 – 2025.06*, Sichuan Agricultural University (SiCAU), Bachelor's Degree (Computer Sciences).
 
 
-# ☀️ Honors and Awards
-- Outstanding Graduate (2025)
-- National Scholarship (2024)
-- China Mobile Scholarship (2024)
-- Outstanding Graduate Student (2023)
-- Outstanding Graduate Cadre (2020)
-- Star of Tomorrow in MSRA (2019, 2020)
-- Outstanding Student Cadre (2017, 2018, 2019)
-- First Class Scholarship (2017, 2019)
+# 🏆 Honors and Awards
+- Outstanding Graduates of Sichuan Province (四川省优秀毕业生, Top 4%), 2025.06
+- Outstanding Graduation Thesis (优秀毕业论文, Top 1%), 2025.06
+- Outstanding Student Model (优秀学生标兵, The highest honor of the university), 2024.12
+- China National Scholarship (国家奖学金, Top 0.2%), 2024.12
+- Outstanding Student Scholarship (优秀学生奖学金, Top 2%), 2023.12
 
 # 🌿 Academic Service
-Reviewer for: NeurIPS, ICLR, ICML, ACL Rolling Review（ACL, EMNLP, NAACL, EACL）
+Reviewer for: ACL, AAAI
