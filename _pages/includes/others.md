@@ -10,7 +10,7 @@
 - Outstanding Graduation Thesis (优秀毕业论文, Top 1%), 2025.06
 - Outstanding Student Model (优秀学生标兵, The highest honor of the university), 2024.12
 - China National Scholarship (国家奖学金, Top 0.2%), 2024.12
-- Outstanding Student Scholarship (优秀学生奖学金, Top 2%), 2023.12
+- Outstanding Student Scholarship (优秀学生奖学金, Top 1%), 2023.12
 
 # 💻 Internship Experience
 - *2025.10 – present*, 北京三快科技有限公司(美团), Large Language Models Algorithm Intern (LongCat Team).
