@@ -1,7 +1,6 @@
-Hi! I'm Shengnan An (安晟男).
-I'm currently a researcher in Meituan.
-I graduated with a Ph.D from Xi'an Jiaotong University and MSRA in 2025.
-My Ph.D advisor is Prof. Nanning Zheng.
+Hi! I'm Junlin Liu (刘俊麟).
+I am currently a graduate student majoring in Artificial Intelligence at the Institute of Automation, Chinese Academy of Sciences (CASIA), and the University of Chinese Academy of Sciences (UCAS).
 
-My current research interest is to explore the capability boundaries of large language models, such as mathematical reasoning, inductive reasoning, coding, and long-context understanding & generation.
+My research interests include reinforcement learning, large language models and multi-agent cooperation and games. I am particularly interested in evaluating and improving the reasoning capabilities of foundation models, with a focus on challenging mathematical reasoning and general reasoning.
+
 
