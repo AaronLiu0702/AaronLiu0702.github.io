@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
--	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat**
+-	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026, under review)**
 \
   Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, hao Zhao.
 
