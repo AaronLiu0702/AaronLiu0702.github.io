@@ -1,6 +1,10 @@
 
 # 📝 Publications 
 
+-	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat**
+\
+  Chengwei Li, <ins>**Junlin Liu**</ins>, Yang Gao, Hui Chang, Xinchen Zhang, hao Zhao.\
+
 -	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions. (ACL 2026, under review)**
   [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
  	[![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.48550/arXiv.2510.26768)](https://arxiv.org/abs/2510.26768)
