@@ -18,9 +18,11 @@
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
  	
  	
--	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences)**
-  [![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/app14125322)](https://www.mdpi.com/2076-3417/14/12/5322)
+-	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images.**
+\
+  (Applied Sciences)
+ 	[[Paper]](https://www.mdpi.com/2076-3417/14/12/5322) [[Code]](https://github.com/AaronLiu0702/LCAS-DetNet)
+ 	[![Citations](https://api.juleskreuer.eu/citation-badge.php?doi=10.3390/app14125322)](https://www.mdpi.com/2076-3417/14/12/5322)
 \
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
-\
- 	[[Paper]](https://www.mdpi.com/2076-3417/14/12/5322) [[Code]](https://github.com/AaronLiu0702/LCAS-DetNet)
+ 	
