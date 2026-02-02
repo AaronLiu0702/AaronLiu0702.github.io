@@ -5,7 +5,7 @@
 - *2021.09 – 2025.06*, Sichuan Agricultural University (SiCAU), Bachelor's Degree (Computer Sciences).
 
 # 💻 Internship Experience
-- *2025.10 – present*, 北京三快科技有限公司 (美团), LongCat Team.
+- *2025.10 – present*, 北京三快科技有限公司 (美团), LongCat Team, advised by Dr.Shengnan An.
 - *2025.07 - 2025.09*, 百度在线网络技术有限公司, ERNIE Team.
 - *2025.03 - 2025.05*, 北京人形机器人创新中心有限公司 (天工机器人), Large Model Department.
 
