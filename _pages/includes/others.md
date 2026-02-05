@@ -3,7 +3,7 @@
 - *2025.09 – present*, Institute of Automation Chinese Academy of Sciences (CASIA), Master's Degree (Artificial Intelligence).
 - *2025.09 – present*, University of Chinese Academy of Sciences (UCAS).
 - *2021.09 – 2025.06*, Sichuan Agricultural University (SiCAU), Bachelor's Degree (Computer Sciences).
-  - GPA: 94.18/100, Rank: 1/198, Adviser: Prof.Jun Li.
+  - GPA: 94.31/100, Rank: 1/198, Adviser: Prof.Jun Li.
 
 # 💻 Internship Experience
 - *2025.10 – present*, 北京三快科技有限公司 (美团), LongCat Team. Mentor: [Dr.Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ).
