@@ -10,7 +10,7 @@ Full list of publications in Google Scholar.
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
 \
  	[[Paper]](https://arxiv.org/abs/2510.26768) [[Code]](https://github.com/meituan-longcat/AMO-Bench)
- 	[[HomePage]](https://amo-bench.github.io/) [[HuggingFace]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
+ 	[[ProjectPage]](https://amo-bench.github.io/) [[HuggingFace]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 
 
 -	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026, under review)**
