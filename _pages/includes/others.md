@@ -8,7 +8,7 @@
 # 💻 Internship Experience
 - *2025.10 – present*, 北京三快科技有限公司 (美团), LongCat Team <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;">. Mentor: [Dr.Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ).
 - *2025.07 - 2025.09*, 百度在线网络技术有限公司, ERNIE Team <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;">. Mentor: Dr.Xin Wang.
-- *2025.03 - 2025.05*, 北京人形机器人创新中心有限公司 (天工机器人), Large Model Department. Mentor: Dr.Xiaoyi Chen.
+- *2025.03 - 2025.05*, 北京人形机器人创新中心有限公司 (天工机器人), Large Model Department <img src="../images/x-humanoid.svg" alt="icon" style="height:25px; vertical-align:middle;">. Mentor: Dr.Xiaoyi Chen.
 
 # 🏆 Honors and Awards
 - 2025.06, Outstanding Graduates of Sichuan Province (四川省优秀毕业生, Top 2%)
