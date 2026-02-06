@@ -1,7 +1,7 @@
 
 # 📖 Educations
-- *2025.09 – present*, Institute of Automation Chinese Academy of Sciences (CASIA), Master's Degree (Artificial Intelligence).
-- *2025.09 – present*, University of Chinese Academy of Sciences (UCAS).
+- *2025.09 – present*,  <img src="../images/casia.svg" alt="icon" style="height:25px; vertical-align:middle;"> Institute of Automation Chinese Academy of Sciences (CASIA), Master's Degree (Artificial Intelligence).
+- *2025.09 – present*,  <img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> University of Chinese Academy of Sciences (UCAS).
 - *2021.09 – 2025.06*, Sichuan Agricultural University (SiCAU), Bachelor's Degree (Computer Sciences).
   - GPA: 94.31/100, Rank: 1/198, Adviser: Prof.Jun Li.
 
