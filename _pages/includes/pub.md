@@ -8,9 +8,6 @@ Full list of publications in Google Scholar.
   [![Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FarXiv%3A2510.26768%3Ffields%3DcitationCount&color=EBB215)](https://arxiv.org/abs/2510.26768)
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
- 	<span style="display:inline-flex;align-items:center;padding:0.18rem 0.55rem;border-radius:0.5rem;font-size:0.95rem;font-weight:600;line-height:1;letter-spacing:0.2px;color:rgba(255,255,255,0.85);background:rgba(255,255,255,0.14);border:1px solid rgba(255,255,255,0.08);vertical-align:middle;margin-right:0.65rem;">
-    🚀 CCF-A
-  </span>
 \
  	[[Paper]](https://arxiv.org/abs/2510.26768) [[Code]](https://github.com/meituan-longcat/AMO-Bench)
  	[[ProjectPage]](https://amo-bench.github.io/) [[HuggingFace]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
