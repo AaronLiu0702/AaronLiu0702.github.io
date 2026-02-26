@@ -9,7 +9,7 @@
 - **2025.09 – present｜<img src="../images/meituan.png" alt="icon" style="height:18px; vertical-align:middle;">  Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
   - Research Intern on Mathematical & General Reasoning of Large Language Models.
   - Mentor: [Dr.Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ).
-- **2025.07 - 2025.09｜Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
+- **2025.07 - 2025.09｜<img src="../images/baidu.png" alt="icon" style="height:18px; vertical-align:middle;">  Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
   - Mentor: Dr.Xin Wang.
 - *2025.03 - 2025.05*, 北京人形机器人创新中心有限公司 (天工机器人), <img src="../images/x-humanoid.svg" alt="icon" style="height:25px; vertical-align:middle;"> Large Model Department. Mentor: Dr.Xiaoyi Chen.
 
