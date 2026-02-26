@@ -6,7 +6,7 @@
   - GPA: 94.31/100, Rank: 1/198, Adviser: Prof.Jun Li.
 
 # 💻 Internship Experience
-- **2025.09 – present｜Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Team.**
+- **2025.09 – present｜Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat  Foundation LLM Team.**
   - Research Intern on Mathematical & General Reasoning of Large Language Models.
   - Mentor: [Dr.Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ).
 - *2025.07 - 2025.09*, 百度在线网络技术有限公司, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Team. Mentor: Dr.Xin Wang.
