@@ -8,7 +8,7 @@
 # 💻 Internship Experience
 - **2025.09 – present｜<img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">   Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
   - Research Intern on Mathematical & General Reasoning of Large Language Models.
-  - Mentor: [Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [Xuezhi cao](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ).
+  - Mentor: [Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [Xuezhi Cao](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ).
  
 
 - **2025.07 - 2025.09｜<img src="../images/baidu.png" alt="icon" style="height:20px; vertical-align:middle;">   Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
