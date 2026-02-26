@@ -17,6 +17,7 @@
 
 
 - **2025.03 - 2025.05｜<img src="../images/x-humanoid.svg" alt="icon" style="height:25px; vertical-align:middle;">  X-Humanoid, Large Model Department.**
+  - Research Intern on Embodied Agent for Real-world Interaction.
   - Mentor: Dr.Xiaoyi Chen.
 
 # 🏆 Honors and Awards
