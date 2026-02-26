@@ -6,12 +6,12 @@
   - GPA: 94.31/100, Rank: 1/198, Adviser: Prof.Jun Li.
 
 # 💻 Internship Experience
-- **2025.09 – present｜<img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">  Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
+- **2025.09 – present｜<img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">   Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
   - Research Intern on Mathematical & General Reasoning of Large Language Models.
   - Mentor: [Shengnan An](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [xuezhi cao](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ).
-- **2025.07 - 2025.09｜<img src="../images/baidu.png" alt="icon" style="height:18px; vertical-align:middle;">  Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
+- **2025.07 - 2025.09｜<img src="../images/baidu.png" alt="icon" style="height:20px; vertical-align:middle;">   Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
   - Mentor: Dr.Xin Wang.
-- **2025.03 - 2025.05｜<img src="../images/beijingrenxing.png" alt="icon" style="height:18px; vertical-align:middle;"> X-Humanoid, <img src="../images/x-humanoid.svg" alt="icon" style="height:25px; vertical-align:middle;"> Large Model Department.**
+- **2025.03 - 2025.05｜<img src="../images/beijingrenxing.png" alt="icon" style="height:18px; vertical-align:middle;">   X-Humanoid, <img src="../images/x-humanoid.svg" alt="icon" style="height:25px; vertical-align:middle;"> Large Model Department.**
   - Mentor: Dr.Xiaoyi Chen.
 
 # 🏆 Honors and Awards
