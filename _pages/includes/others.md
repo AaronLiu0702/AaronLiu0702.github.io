@@ -4,7 +4,7 @@
   - Master’s Degree in Artificial Intelligence.
 - **2025.09 – present｜<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> University of Chinese Academy of Sciences (UCAS).**
   - Master’s Degree in Artificial Intelligence.
-- **2021.09 – 2025.06｜<img src="../images/sicau.svg" alt="icon" style="height:25px; vertical-align:middle;"> Sichuan Agricultural University (SiCAU). [Student Spotlight](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)**
+- **2021.09 – 2025.06｜<img src="../images/sicau.svg" alt="icon" style="height:25px; vertical-align:middle;"> Sichuan Agricultural University (SiCAU). 🌟 [Student Spotlight](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)**
   - Bachelor’s Degree in Computer Science and Technology.
   - GPA: 94.31/100, Rank: 1/198, Adviser: Prof.Jun Li.
 
