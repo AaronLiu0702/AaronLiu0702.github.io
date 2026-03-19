@@ -24,11 +24,11 @@
   - Mentor: Dr.Xiaoyi Chen.
 
 # 🏆 Honors and Awards
-- 2025.06, Outstanding Graduates of Sichuan Province (四川省优秀毕业生, Top 2%)
-- 2025.06, Outstanding Graduation Thesis (优秀毕业论文, Top 1%)
-- 2024.12, Outstanding Student Model (优秀学生标兵, The highest honor of the university, awarded to only 10 students)
-- 2024.12, China National Scholarship (国家奖学金, Top 0.2%)
-- 2023.12, Outstanding Student Scholarship (优秀学生奖学金, Top 1%)
+- **2025.06**, Outstanding Graduates of Sichuan Province, China (Top 2%).
+- **2025.06**, Outstanding Graduation Thesis (Top 1%).
+- **2024.12**, Outstanding Student Model (The highest honor of the university, awarded to only 10 students).
+- **2024.12**, China National Scholarship (Top 0.2%).
+- **2023.12**, Outstanding Student Scholarship (Top 1%).
 
 # 📌 Academic Service
 - Reviewer for: ACL, AAAI
