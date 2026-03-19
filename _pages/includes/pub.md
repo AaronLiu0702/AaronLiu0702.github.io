@@ -1,3 +1,7 @@
+# 🔥 News
+
+- **2025.06：** 🎉🎉 I received my B.E. degree from Sichuan Agricultural University(SICAU),Ranking 1^st^/198 in overall scores for three years(2022-205)!
+
 
 # 📝 Publications 
 
