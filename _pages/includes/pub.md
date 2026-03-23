@@ -1,5 +1,5 @@
 # 🔥 News
-- **2026.03:**  ✈️✈️  We released **General365**, advancing LLM reasoning beyond domain-specific tasks toward general-purpose real-world scenarios.
+- **2026.03:**  ✈️✈️  We released **General365**, advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
 - **2026.03:**  ✈️✈️  One paper has been accepted by **IJCNN 2026!**  **ACE-MAPPO** !
 - **2025.10:**  📐📐  We released [**AMO-Bench**](https://amo-bench.github.io/), a comprehensive benchmark for pushing the boundaries of mathematical reasoning in LLMs.
 - **2025.06:**  🎉🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking **1<sup>st</sup>**/198 in overall GPA for three years (2022-2025) !  **[🌟🌟Student Spotlight🌟🌟](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)**
