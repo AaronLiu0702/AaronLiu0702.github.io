@@ -13,7 +13,7 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
 
--	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions. (ACL 2026, under review)**
+-	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions.**
 <span style="
     background-color: #5bc0de; 
     color: white; 
