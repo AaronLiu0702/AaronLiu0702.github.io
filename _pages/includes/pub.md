@@ -9,20 +9,11 @@
 
 Full list of publications in [Google Scholar](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
--	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (Longcat Technical Report, arXiv 2026)**
+-	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (Longcat Technical Report)**
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
 
--	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions.**
-<span style="
-    background-color: #5bc0de; 
-    color: white; 
-    padding: 2px 8px; 
-    border-radius: 4px; 
-    font-size: 14px;
-    font-weight: 600;
-    font-family: sans-serif;
-  "> ACL 2026, under review </span>
+-	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions. (ACL 2026, under revie)**
   [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
   [![Citations](https://img.shields.io/badge/Citations-12-EBB215)](https://arxiv.org/abs/2510.26768)
 \
@@ -32,30 +23,12 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
  	[[ProjectPage]](https://amo-bench.github.io/) [[HuggingFace]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 
 
--	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**
-<span style="
-    background-color: #5bc0de; 
-    color: white; 
-    padding: 2px 8px; 
-    border-radius: 4px; 
-    font-size: 14px;
-    font-weight: 600;
-    font-family: sans-serif;
-  "> IJCNN 2026 </span>
+-	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026)**
 \
  	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, hao Zhao.
 
 
--	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images.**
-<span style="
-    background-color: #5bc0de; 
-    color: white; 
-    padding: 2px 8px; 
-    border-radius: 4px; 
-    font-size: 14px;
-    font-weight: 600;
-    font-family: sans-serif;
-  "> Applied Sciences </span>
+-	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences)**
 \
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
