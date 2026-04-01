@@ -28,15 +28,16 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
  	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, hao Zhao.
 
 
--	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences)**
+-	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. **
 <span style="
     background-color: #5bc0de; 
     color: white; 
     padding: 2px 8px; 
     border-radius: 4px; 
     font-size: 12px;
+    font-weight: 600;
     font-family: sans-serif;
-  ">EMNLP 2025</span>
+  ">Applied Sciences</span>
 \
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
