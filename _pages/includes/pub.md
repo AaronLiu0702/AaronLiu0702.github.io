@@ -7,7 +7,7 @@
 
 # 📝 Publications 
 
-Full list of publications in [Google Scholar](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
+Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
 -	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (MeiTuan LongCat Technical Report)**
 \
@@ -19,8 +19,8 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
 \
- 	[[Paper]](https://arxiv.org/abs/2510.26768) [[Code]](https://github.com/meituan-longcat/AMO-Bench)
- 	[[ProjectPage]](https://amo-bench.github.io/) [[HuggingFace]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
+ 	[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
+ 	[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 
 
 -	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026)**
@@ -32,4 +32,4 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
 \
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
-  [[Paper]](https://www.mdpi.com/2076-3417/14/12/5322) [[Code]](https://github.com/AaronLiu0702/LCAS-DetNet)	
+  [[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
