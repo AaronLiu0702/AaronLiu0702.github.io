@@ -23,7 +23,16 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
  	[[ProjectPage]](https://amo-bench.github.io/) [[HuggingFace]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 
 
--	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026)**
+-	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. **
+<span style="
+    background-color: #5bc0de; 
+    color: white; 
+    padding: 2px 8px; 
+    border-radius: 4px; 
+    font-size: 12px;
+    font-weight: 600;
+    font-family: sans-serif;
+  "> IJCNN 2026 </span>
 \
  	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, hao Zhao.
 
@@ -37,7 +46,7 @@ Full list of publications in [Google Scholar](https://scholar.google.com.hk/cita
     font-size: 12px;
     font-weight: 600;
     font-family: sans-serif;
-  ">Applied Sciences</span>
+  "> Applied Sciences </span>
 \
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
