@@ -9,6 +9,10 @@
 
 Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
+-	**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling for Cooperative Air Combat. (Under Review)**
+\
+ 	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
+
 -	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (MeiTuan LongCat Technical Report)**
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
