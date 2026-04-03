@@ -28,7 +28,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 
 -	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026)**
 \
- 	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, hao Zhao.
+ 	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
 
 
 -	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences)**
