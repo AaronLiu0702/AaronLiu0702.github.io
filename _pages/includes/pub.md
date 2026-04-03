@@ -9,10 +9,6 @@
 
 Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
--	**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling for Cooperative Air Combat. (Under Review)**
-\
- 	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
-
 -	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (MeiTuan LongCat Technical Report)**
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
@@ -26,6 +22,9 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
  	[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
  	[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 
+-	**Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling for Cooperative Air Combat. (Under Review)**
+\
+ 	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
 
 -	**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026)**
 \
