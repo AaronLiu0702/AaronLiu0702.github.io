@@ -14,7 +14,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
 
--	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions. <span style="color:red">(ACL 2026)</span>**
+-	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions. <span style="color:red">(ACL 2026, CCF-A)</span>**
   [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
   [![Citations](https://img.shields.io/badge/Citations-12-EBB215)](https://arxiv.org/abs/2510.26768)
 \
@@ -27,12 +27,12 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 \
  	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
 
--	**ACE-MAPPO: Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026)**
+-	**ACE-MAPPO: Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026, CCF-C)**
 \
  	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
 
 
--	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences)**
+-	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences, SCI)**
 \
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
