@@ -32,5 +32,5 @@
 - **2023.12**, Outstanding Student Scholarship (Top 1%).
 
 # 📌 Academic Service
-- Reviewer for: AAAI, ACL Rolling (ACL, EMNLP, NAACL, EACL), IJCNN
+- Reviewer for: AAAI, ACL Rolling (ACL, EMNLP, NAACL, EACL, AACL), IJCNN
 - Reviewer for: Applied Sciences
