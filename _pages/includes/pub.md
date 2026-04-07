@@ -10,7 +10,7 @@
 
 Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
--	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (MeiTuan LongCat Technical Report)**
+-	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. (<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Technical Report)**
 \
   <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
 
