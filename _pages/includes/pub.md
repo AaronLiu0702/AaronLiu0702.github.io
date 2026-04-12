@@ -9,7 +9,7 @@
 <div class="news" markdown="1">
 <div class="scroll-window" markdown="1">
 - **2026.04**: &nbsp;🧩🧩 We released <a href="https://general365.github.io/"><strong>General365</strong></a>, advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
-- **2026.04**: &nbsp;🎉🎉 One paper has been accepted by <strong style="color: #990000;">ACL 2026</strong>! <a href="https://amo-bench.github.io/"><strong>AMO-Bench</strong></a>!
+- **2026.04**: &nbsp;🎉🎉 One paper has been accepted by <strong style="color: red;">ACL 2026</strong>! <a href="https://amo-bench.github.io/"><strong>AMO-Bench</strong></a>!
 - **2026.03**: &nbsp;✈️✈️ One paper has been accepted by <strong>IJCNN 2026</strong>! <strong>ACE-MAPPO</strong>!
 - **2025.10**: &nbsp;📐📐 We released <a href="https://amo-bench.github.io/"><strong>AMO-Bench</strong></a>, a comprehensive benchmark for pushing the boundaries of mathematical reasoning in LLMs.
 - **2025.06**: &nbsp;🎉🎉 I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong>1<sup>st</sup>/198</strong> in overall GPA for three years (2022–2025)! 🌟🌟<a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w"><strong>Student Spotlight</strong></a>🌟🌟
