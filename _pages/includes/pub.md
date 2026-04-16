@@ -32,9 +32,9 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/MeiTuan LongCat Technical Report</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://arxiv.org/abs/2402.03271)
+**<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;">[General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks.](https://arxiv.org/abs/2604.11778)**
 
-**Zhiyuan Hu**, Chumin Liu, Xidong Feng, Yilun Zhao, See-Kiong Ng, Anh Tuan Luu, Junxian He, Pang Wei Koh, Bryan Hooi.
+<ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
 
 </div>
 </div>
