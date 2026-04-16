@@ -32,9 +32,29 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white;">LongCat Technical Report</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> [General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks.](https://arxiv.org/abs/2604.11778)**  [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
+**<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks.**  
+  [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
 
 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, Yifan Zhou, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai
+<br>
+  [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
+ 	[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white;">**ACL 2026**</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> AMO-Bench: Large Language Models Still Struggle in High School Math Competitions.**  
+  [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
+  [![Citations](https://img.shields.io/badge/Citations-16-EBB215)](https://arxiv.org/abs/2510.26768)
+
+<ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
+<br>
+ 	[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
+ 	[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 
 </div>
 </div>
