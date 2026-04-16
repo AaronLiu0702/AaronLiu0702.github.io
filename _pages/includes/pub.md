@@ -117,6 +117,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
+
+<!--
 -	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> <span style="color:red">(LongCat Technical Report)</span>**
   [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
 \
@@ -148,3 +150,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
   [[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
+-->
+-	**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling. (Under Review)**
+\
+ 	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
