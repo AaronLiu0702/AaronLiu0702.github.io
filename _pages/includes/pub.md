@@ -29,7 +29,7 @@
 
 Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white;">LongCat Technical Report</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">LongCat Technical Report</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks.**  
@@ -44,7 +44,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white;">**ACL 2026**</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">ACL 2026</div><img src='images/AMO-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> AMO-Bench: Large Language Models Still Struggle in High School Math Competitions.**  
