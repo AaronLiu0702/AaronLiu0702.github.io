@@ -29,6 +29,17 @@
 
 Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/ICLR 2024@LLM Agent Workshop</div><img src='images/UoT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://arxiv.org/abs/2402.03271)
+
+**Zhiyuan Hu**, Chumin Liu, Xidong Feng, Yilun Zhao, See-Kiong Ng, Anh Tuan Luu, Junxian He, Pang Wei Koh, Bryan Hooi.
+
+</div>
+</div>
+
+
 -	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> <span style="color:red">(LongCat Technical Report)</span>**
   [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
 \
