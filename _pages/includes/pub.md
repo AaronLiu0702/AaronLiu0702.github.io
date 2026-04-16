@@ -62,7 +62,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">IJCNN 2026</div><img src='images/AMO-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">IJCNN 2026</div><img src='images/ACE-MAPPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
