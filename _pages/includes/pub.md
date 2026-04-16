@@ -65,7 +65,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">IJCNN 2026</div><img src='images/AMO-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling.**  
+**Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
 Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
 
 </div>
