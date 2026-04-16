@@ -73,7 +73,7 @@ Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Ha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">IJCNN 2026</div><img src='images/ACE-MAPPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">Applied Sciences, JCR-Q1</div><img src='images/ACE-MAPPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images.**  
