@@ -29,7 +29,7 @@
 
 Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/ICLR 2024@LLM Agent Workshop</div><img src='images/UoT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/MeiTuan LongCat Technical Report</div><img src='images/General365.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://arxiv.org/abs/2402.03271)
