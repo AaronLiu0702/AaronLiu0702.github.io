@@ -35,7 +35,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         LongCat Technical Report
       </div>
-      <a href="https://amo-bench.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
+      <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -58,7 +58,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ACL 2026
       </div>
-      <img src='images/AMO-Bench.png' alt="sym" width="100%">
+      <a href="https://amo-bench.github.io/"><img src='images/AMO-Bench.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
