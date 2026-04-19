@@ -1,6 +1,6 @@
 
 # 💻 Internship Experience
-- **2026.04 – present｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Alibaba, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Group (MOS Lab).**
+- **2026.04 – present｜ <img src="../images/ali.svg" alt="icon" style="height:20px; vertical-align:middle;">    Alibaba, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Group (MOS Lab).**
   - Research Intern on Agentic RL & Agent self-evolution.
   - Mentor: .
 
