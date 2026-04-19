@@ -27,6 +27,17 @@
 
 
 
+# 📖 Educations
+- **2025.09 – present｜<img src="../images/casia.svg" alt="icon" style="height:25px; vertical-align:middle;"> Institute of Automation Chinese Academy of Sciences (CASIA).**
+  - Master’s Degree in Artificial Intelligence.
+- **2025.09 – present｜<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> University of Chinese Academy of Sciences (UCAS).**
+  - Master’s Degree in Artificial Intelligence.
+- **2021.09 – 2025.06｜<img src="../images/sicau.svg" alt="icon" style="height:25px; vertical-align:middle;"> Sichuan Agricultural University (SiCAU).** 
+  - Bachelor’s Degree in Computer Science and Technology.
+
+
+
+
 # 💻 Internship Experience
 - **2026.04 – present｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Group (MOS Lab).**
   - Research Intern on Agentic RL & Agent self-evolution.
@@ -46,14 +57,6 @@
   - Research Intern on Embodied Agent for Real-world Interaction.
   - Mentor: Dr.Xiaoyi Chen.
 
- 
-# 📖 Educations
-- **2025.09 – present｜<img src="../images/casia.svg" alt="icon" style="height:25px; vertical-align:middle;"> Institute of Automation Chinese Academy of Sciences (CASIA).**
-  - Master’s Degree in Artificial Intelligence.
-- **2025.09 – present｜<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> University of Chinese Academy of Sciences (UCAS).**
-  - Master’s Degree in Artificial Intelligence.
-- **2021.09 – 2025.06｜<img src="../images/sicau.svg" alt="icon" style="height:25px; vertical-align:middle;"> Sichuan Agricultural University (SiCAU).** 
-  - Bachelor’s Degree in Computer Science and Technology.
  
 
 
