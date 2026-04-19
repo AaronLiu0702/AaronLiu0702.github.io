@@ -1,5 +1,5 @@
 # Academic Activities
-- - **2026.03**, BeiJing, Tencent QingYun Project "Stars of the Future: Technology Exchange Exhibition".
+- **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Project**</span> "Stars of the Future: Technology Exchange Exhibition".
 
 
 # 🏆 Honors and Awards
