@@ -1,4 +1,4 @@
-# Academic Activities
+# 🎫 Academic Activities
 - **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Program**</span> "Stars of the Future: Technology Exchange Exhibition".
 
 
