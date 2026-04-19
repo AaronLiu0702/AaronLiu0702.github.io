@@ -43,7 +43,7 @@
   - Research Intern on Agentic RL & Agent self-evolution.
  
 
-- **2025.09 – present｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
+- **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
   - Research Intern on Mathematical & General Reasoning of Large Language Models.
   - Mentor: [**Shengnan An**](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [**Xuezhi Cao**](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ), [**Xunliang Cai**](https://scholar.google.com/citations?hl=zh-EN&user=ZEAfy1QAAAAJ).
  
