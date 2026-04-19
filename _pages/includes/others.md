@@ -1,5 +1,6 @@
 # 🎫 Academic Activities
 - **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Program**</span> "Stars of the Future: Technology Exchange Exhibition".
+- **2025.09**, BeiJing, **Wave Summit 2025**, Deep Learning Developers Conference.
 
 
 # 🏆 Honors and Awards
