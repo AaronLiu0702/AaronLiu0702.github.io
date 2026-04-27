@@ -7,6 +7,6 @@ I’m currently a research intern focusing on Agentic RL and Agent Self-Evolutio
 
 My research interests include Reinforcement Learning, Large Language Models and Multi-Agent Cooperation and Games. I am particularly interested in evaluating and improving the reasoning capabilities of foundation models, with a focus on challenging mathematical and general reasoning. 
 
-💬 Please feel free to add me on WeChat: [**AaronLiu0702**](../../images/wx.png).
+💬 Please feel free to add me on <img src="../images/wx.svg" alt="icon" style="height:22px; vertical-align:middle;">WeChat: [**AaronLiu0702**](../../images/wx.png).
 
 
