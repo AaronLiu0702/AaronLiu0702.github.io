@@ -2,7 +2,7 @@
 # 💻 Internship Experience
 
 - **2026.04 – present｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Group, MOS Lab.**
-  - Research Intern on Agentic RL & Agent Self-Evolution.
+  - Research Intern on Agentic RL & Self-Evolving Agent.
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en).
 
 - **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
