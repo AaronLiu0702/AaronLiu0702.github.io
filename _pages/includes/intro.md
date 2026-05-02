@@ -10,7 +10,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 -->
 
 **Research Interests：**
-- **🤖 Agentic Reinforcement Learning** — Training general agent intelligence via fundamental RL-based optimization
+- **🤖 Agentic Reinforcement Learning** — Training general agent intelligence via fundamental RL-based optimization.
 - **🧬 Self-Evolving Agent** — Cultivating continuously adapting autonomous systems via RL and agent-environment co-evolution.
 - **🔬 LLM Evaluation and Benchmark** — Evaluating and improving the reasoning capabilities of foundation models. 
 
