@@ -36,29 +36,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        LongCat Technical Report
-      </div>
-      <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks.**  
-  
-  <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, Yifan Zhou, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
-  <br>
-    [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
-   	[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
-    [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
-    [![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2604.11778)
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ACL 2026
       </div>
       <a href="https://amo-bench.github.io/"><img src='images/AMO-Bench.png' alt="sym" width="100%"></a>
@@ -78,6 +55,29 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
 </div>
 
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        LongCat Technical Report
+      </div>
+      <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks.**  
+  
+  <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, Yifan Zhou, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
+  <br>
+    [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
+   	[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
+    [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
+    [![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2604.11778)
+  </div>
+</div>
 
 
 
