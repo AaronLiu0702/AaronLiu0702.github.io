@@ -85,6 +85,26 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        ICONIP 2026
+      </div>
+      <a href="https://amo-bench.github.io/"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
+  
+  <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
+  
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         IJCNN 2026
       </div>
       <img src='images/ACE-MAPPO.png' alt="sym" width="100%">
