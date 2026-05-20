@@ -61,7 +61,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        LongCat Technical Report
+        EMNLP 2026 (Under Review)
       </div>
       <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
     </div>
@@ -85,7 +85,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ICONIP 2026
+        ICONIP 2026 (Under Review)
       </div>
       <a href="https://amo-bench.github.io/"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
@@ -173,7 +173,9 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
 \
   [[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
--->
+
 -	**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling. (Under Review)**
 \
  	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
+
+-->
