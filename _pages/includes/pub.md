@@ -45,7 +45,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> AMO-Bench: Large Language Models Still Struggle in High School Math Competitions.**  
   
-  <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
+  🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
   <br>
    	[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
    	[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
