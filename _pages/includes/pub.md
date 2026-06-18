@@ -99,7 +99,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
-  
+  <br>
+  🏛️ International Conference on Neural Information Processing **(ICONIP)**, 2026. **CCF-C**.
   </div>
 </div>
 
@@ -118,7 +119,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   🧑‍💻 Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
-  
+  <br>
+  🏛️ International Joint Conference on Neural Networks **(IJCNN)**, 2026. **CCF-C**.
   </div>
 </div>
 
