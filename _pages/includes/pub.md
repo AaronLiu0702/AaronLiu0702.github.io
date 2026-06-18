@@ -36,7 +36,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ACL 2026
+        ACL 2026 (CCF-A)
       </div>
       <a href="https://amo-bench.github.io/"><img src='images/AMO-Bench.png' alt="sym" width="100%"></a>
     </div>
@@ -46,9 +46,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> AMO-Bench: Large Language Models Still Struggle in High School Math Competitions.**  
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
-  <br>
-  <br>
-  🏛️ Association for Computational Linguistics **(ACL)**, 2026. **<span style="color:red">CCF-A</span>**.
   <br>
    	[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
    	[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
@@ -75,9 +72,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, Yifan Zhou, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
   <br>
-  <br>
-  🏛️ Empirical Methods in Natural Language Processing **(EMNLP)**, 2026. **<span style="color:red">CCF-B</span>**.
-  <br>
     [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
    	[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
     [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
@@ -101,9 +95,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
-  <br>
-  <br>
-  🏛️ International Conference on Neural Information Processing **(ICONIP)**, 2026. **CCF-C**.
   </div>
 </div>
 
@@ -113,7 +104,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        IJCNN 2026
+        IJCNN 2026 (CCF-C)
       </div>
       <img src='images/ACE-MAPPO.png' alt="sym" width="100%">
     </div>
@@ -122,9 +113,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   🧑‍💻 Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
-  <br>
-  <br>
-  🏛️ International Joint Conference on Neural Networks **(IJCNN)**, 2026. **CCF-C**.
   </div>
 </div>
 
@@ -134,7 +122,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        Applied Sciences, JCR-Q1
+        Applied Sciences (JCR-Q1)
       </div>
       <img src='images/LCAS-DetNet.png' alt="sym" width="100%">
     </div>
