@@ -53,6 +53,17 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+    <div class="activities-item">
+      <img src="../images/activities/qingyun.jpg" alt="UCAS 2026">
+      <p>中国科学院大学(北京·2026.06)</p>
+    </div>
+    <div class="activities-item">
+      <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
+      <p>
+        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
+        (成都·2024.12)
+      </p>
+    </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2">
@@ -63,7 +74,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
       </div>
       <p>
         <a href="https://mp.weixin.qq.com/s/_YP_MzFDGz5jZImE7hYadg" target="_blank">阿里星热爱之旅</a>
-        (Beijing·2026.05)
+        (北京·2026.05)
       </p>
     </div>
      <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
@@ -77,19 +88,19 @@ My research interests include Reinforcement Learning, Large Language Models and 
       </div>
       <p>
         <a href="https://www.xiaohongshu.com/explore/6a117406000000003600109f?note_flow_source=wechat&xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw=" target="_blank">VALSE2026</a>
-        (Wuhan·2026.05)
+        (武汉·2026.05)
       </p>
     </div>
     <!-- ① 单张图卡片 -->
     <div class="activities-item">
       <img src="../images/activities/qingyun.jpg" alt="VALSE 2026">
-      <p>腾讯青云人才计划(Beijing·2026.03)</p>
+      <p>腾讯青云计划(北京·2026.03)</p>
     </div>
     <div class="activities-item">
       <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
       <p>
         <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
-        (Chengdu·2024.12)
+        (成都·2024.12)
       </p>
     </div>
   </div>
