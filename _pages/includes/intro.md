@@ -55,10 +55,13 @@ My research interests include Reinforcement Learning, Large Language Models and 
       <div class="slide-view" data-count="2">
         <div class="slide-track">
           <img src="../images/activities/UCAS2026.jpg" alt="">
-          <img src="../images/activities/UCAS20262.jpg" alt="">
+          <img src="../images/activities/UCAS202602.jpg" alt="">
         </div>
       </div>
-      <p>中国科学院大学 人工智能学院(北京· 2026.06)</p>
+      <p>
+          <a href="https://mp.weixin.qq.com/s/_YP_MzFDGz5jZImE7hYadg" target="_blank">阿里星热爱之旅</a>
+          (北京·2026.05)
+      </p>
     </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
@@ -86,36 +89,14 @@ My research interests include Reinforcement Learning, Large Language Models and 
         (武汉·2026.05)
       </p>
     </div>
-
     <!-- ① 单张图卡片 -->
     <div class="activities-item">
-      <img src="../images/activities/valse2026.jpg" alt="VALSE 2026">
-      <p>VALSE 2026, Wuhan · AI Talent Corner</p>
+      <img src="../images/activities/Outstanding Student Model.jpg" alt="Outstanding Student Model">
+      <p>
+        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">优秀学生标兵</a>
+        (成都·2024.12)
+      </p>
     </div>
-
-    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
-    <div class="activities-item">
-      <div class="slide-view" data-count="2">
-        <div class="slide-track">
-          <img src="../images/activities/qingyun1.jpg" alt="">
-          <img src="../images/activities/qingyun2.jpg" alt="">
-        </div>
-      </div>
-      <p>Tencent QingYun Program, Beijing · 2026.03</p>
-    </div>
-
-    <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
-    <div class="activities-item">
-      <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
-        <div class="slide-track">
-          <img src="../images/activities/wave1.jpg" alt="">
-          <img src="../images/activities/wave2.jpg" alt="">
-          <img src="../images/activities/wave3.jpg" alt="">
-        </div>
-      </div>
-      <p>WAVE Summit 2025, Beijing</p>
-    </div>
-
   </div>
 </div>
 <div style="margin-top: 5px; font-size: small; color:#888;">⬆ Scrollable</div>
