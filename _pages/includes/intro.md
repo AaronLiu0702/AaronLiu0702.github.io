@@ -63,7 +63,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-        <a href="[[https://valse.mioffice.cn/](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w](https://www.xiaohongshu.com/explore/6a117406000000003600109f?note_flow_source=wechat&xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw=))" target="_blank">VALSE2026</a>
+        <a href="https://www.xiaohongshu.com/explore/6a117406000000003600109f?note_flow_source=wechat&xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw=" target="_blank">VALSE2026</a>
         (Wuhan·2026.05)
       </p>
     </div>
@@ -75,7 +75,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <div class="activities-item">
       <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
       <p>
-        <a href="[https://valse.mioffice.cn/](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)" target="_blank">Outstanding Student Model</a>
+        <a href="https://valse.mioffice.cn/](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
         (Chengdu·2024.12)
       </p>
     </div>
