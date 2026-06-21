@@ -62,7 +62,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
           <img src="../images/activities/valse3.jpg" alt="">
         </div>
       </div>
-      <p>WAVE Summit 2025, Beijing</p>
+      <p>VALSE2026(Wuhan·2026.05)</p>
     </div>
     <!-- ① 单张图卡片 -->
     <div class="activities-item">
