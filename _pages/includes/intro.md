@@ -56,7 +56,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <!-- ① 单张图卡片 -->
     <div class="activities-item">
       <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
-      <p>VALSE 2026, Wuhan · AI Talent Corner</p>
+      <p>Outstanding Student Model(Chengdu, 2024.12)</p>
     </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
