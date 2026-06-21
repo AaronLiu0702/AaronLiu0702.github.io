@@ -53,6 +53,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+     <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
     <div class="activities-item">
       <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
         <div class="slide-track">
