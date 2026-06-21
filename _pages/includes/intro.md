@@ -54,13 +54,6 @@ My research interests include Reinforcement Learning, Large Language Models and 
       <img src="../images/activities/UCAS2026.jpg" alt="UCAS 2026">
       <p>中国科学院大学(北京·2026.06)</p>
     </div>
-    <div class="activities-item">
-      <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
-      <p>
-        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
-        (成都·2024.12)
-      </p>
-    </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2">
