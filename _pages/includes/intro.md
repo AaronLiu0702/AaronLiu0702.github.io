@@ -54,7 +54,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-        中国科学院大学 人工智能学院(北京·2026.06)
+        中国科学院大学 人工智能学院 (北京·2026.06)
       </p>
     </div>
     <!-- ② 轮播卡片：2 张图 -->
@@ -87,7 +87,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <!-- ④ 单张图卡片 -->
     <div class="activities-item">
       <img src="../images/activities/qingyun.jpg" alt="腾讯青云计划">
-      <p>腾讯青云计划(北京·2026.03)</p>
+      <p>腾讯青云计划 (北京·2026.03)</p>
     </div>
     <!-- ⑤ 单张图卡片 -->
     <div class="activities-item">
