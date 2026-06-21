@@ -53,6 +53,16 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+    <div class="activities-item">
+      <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
+        <div class="slide-track">
+          <img src="../images/activities/valse1.jpg" alt="">
+          <img src="../images/activities/valse2.jpg" alt="">
+          <img src="../images/activities/valse3.jpg" alt="">
+        </div>
+      </div>
+      <p>WAVE Summit 2025, Beijing</p>
+    </div>
     <!-- ① 单张图卡片 -->
     <div class="activities-item">
       <img src="../images/activities/qingyun.jpg" alt="VALSE 2026">
@@ -62,6 +72,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
       <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
       <p>Outstanding Student Model(Chengdu·2024.12)</p>
     </div>
+    
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2">
@@ -72,6 +83,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
       </div>
       <p>Tencent QingYun Program, Beijing · 2026.03</p>
     </div>
+    
     <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
     <div class="activities-item">
       <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
