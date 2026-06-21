@@ -93,7 +93,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <div class="activities-item">
       <img src="../images/activities/Outstanding Student Model.jpg" alt="Outstanding Student Model">
       <p>
-        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
+        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">优秀学生标兵</a>
         (成都·2024.12)
       </p>
     </div>
