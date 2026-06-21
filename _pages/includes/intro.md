@@ -53,6 +53,19 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
+    <div class="activities-item">
+      <div class="slide-view" data-count="2">
+        <div class="slide-track">
+          <img src="../images/activities/alistar2026.jpg" alt="">
+          <img src="../images/activities/alistar20262.jpg" alt="">
+        </div>
+      </div>
+      <p>
+        <a href="https://mp.weixin.qq.com/s/_YP_MzFDGz5jZImE7hYadg" target="_blank">阿里星热爱之旅</a>
+        (Beijing·2026.05)
+      </p>
+    </div>
      <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
     <div class="activities-item">
       <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
@@ -79,30 +92,6 @@ My research interests include Reinforcement Learning, Large Language Models and 
         (Chengdu·2024.12)
       </p>
     </div>
-    
-    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
-    <div class="activities-item">
-      <div class="slide-view" data-count="2">
-        <div class="slide-track">
-          <img src="../images/activities/qingyun1.jpg" alt="">
-          <img src="../images/activities/qingyun2.jpg" alt="">
-        </div>
-      </div>
-      <p>Tencent QingYun Program, Beijing · 2026.03</p>
-    </div>
-    
-    <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
-    <div class="activities-item">
-      <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
-        <div class="slide-track">
-          <img src="../images/activities/wave1.jpg" alt="">
-          <img src="../images/activities/wave2.jpg" alt="">
-          <img src="../images/activities/wave3.jpg" alt="">
-        </div>
-      </div>
-      <p>WAVE Summit 2025, Beijing</p>
-    </div>
-
   </div>
 </div>
 
