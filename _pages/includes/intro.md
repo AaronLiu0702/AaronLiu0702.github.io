@@ -75,7 +75,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <div class="activities-item">
       <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
       <p>
-        <a href="https://valse.mioffice.cn/](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
+        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
         (Chengdu·2024.12)
       </p>
     </div>
