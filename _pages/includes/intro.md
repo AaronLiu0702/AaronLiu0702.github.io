@@ -18,9 +18,6 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 💬 Please feel free to add me on WeChat: [**AaronLiu0702**](../../images/wx.png).
 
-
-# 🎈 Activities
-
 <style>
 .activities-scroll {
   max-height: 320px; overflow-y: auto; padding: 8px 6px;
