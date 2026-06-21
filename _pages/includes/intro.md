@@ -70,7 +70,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <!-- ① 单张图卡片 -->
     <div class="activities-item">
       <img src="../images/activities/qingyun.jpg" alt="VALSE 2026">
-      <p>Tencent QingYun Program(Beijing·2026.03)</p>
+      <p>腾旭青云人才计划(Beijing·2026.03)</p>
     </div>
     <div class="activities-item">
       <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
