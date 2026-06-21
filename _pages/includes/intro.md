@@ -102,7 +102,6 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
   </div>
 </div>
-<div style="margin-top: 5px; font-size: small; color:#888;">⬆ Scrollable</div>
 
 <script>
 (function () {
