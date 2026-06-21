@@ -37,7 +37,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 .slide-track { display: flex; height: 100%; will-change: transform; }
 .slide-track img { height: 100%; object-fit: cover; display: block; min-width: 0; }
 /* 2 images: pure-CSS back-and-forth */
-.slide-view[data-count="2"] .slide-track { width: 200%; animation: slide2 6s ease-in-out infinite; }
+.slide-view[data-count="2"] .slide-track { width: 200%; animation: slide2 8s ease-in-out infinite; }
 @keyframes slide2 { 0%,42% {transform:translateX(0);} 50%,92% {transform:translateX(-50%);} 100% {transform:translateX(0);} }
 /* 3+ images: JS-driven loop */
 .slide-view[data-count]:not([data-count="2"]) .slide-track { width: calc(var(--n,3) * 100%); transition: transform .55s ease-in-out; }
