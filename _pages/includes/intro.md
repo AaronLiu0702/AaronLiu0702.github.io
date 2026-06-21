@@ -32,20 +32,15 @@ My research interests include Reinforcement Learning, Large Language Models and 
 .activities-item p { font-size: 0.88em; color: #666; margin: 0; font-weight: bold; line-height: 1.3; }
 @media (max-width: 768px) { .activities-item { flex: 0 0 100%; } }
 
-/* ---- carousel ---- */
+/* ---- carousel (unified: 2 张和 3+ 张都由 JS 驱动) ---- */
 .slide-view { position: relative; width: 100%; overflow: hidden; border-radius: 8px; margin-bottom: 10px; height: 200px; background: #f3f3f3; }
-.slide-track { display: flex; height: 100%; will-change: transform; }
-.slide-track img { height: 100%; object-fit: cover; display: block; min-width: 0; }
-/* 2 images: pure-CSS back-and-forth */
-.slide-view[data-count="2"] .slide-track { width: 200%; animation: slide2 6s ease-in-out infinite; }
-@keyframes slide2 { 0%,42% {transform:translateX(0);} 50%,92% {transform:translateX(-50%);} 100% {transform:translateX(0);} }
-/* 3+ images: JS-driven loop */
-.slide-view[data-count]:not([data-count="2"]) .slide-track { width: calc(var(--n,3) * 100%); transition: transform .55s ease-in-out; }
-.slide-view[data-count]:not([data-count="2"]) .slide-track img { flex: 0 0 calc(100% / var(--n,3)); }
-@media (prefers-reduced-motion: reduce) {
-  .slide-view[data-count="2"] .slide-track { animation: none !important; transform: none !important; }
-  .slide-view[data-count]:not([data-count="2"]) .slide-track { transition: none !important; }
+.slide-track {
+  display: flex; height: 100%; will-change: transform;
+  width: calc(var(--n,2) * 100%);
+  transition: transform .55s ease-in-out;
 }
+.slide-track img { height: 100%; object-fit: cover; display: block; flex: 0 0 calc(100% / var(--n,2)); min-width: 0; }
+@media (prefers-reduced-motion: reduce) { .slide-track { transition: none !important; } }
 </style>
 
 <div class="activities-scroll">
@@ -55,9 +50,9 @@ My research interests include Reinforcement Learning, Large Language Models and 
       <img src="../images/activities/UCAS2026.jpg" alt="UCAS 2026">
       <p>中国科学院大学(北京·2026.06)</p>
     </div>
-    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
+    <!-- ② 轮播卡片：2 张图 -->
     <div class="activities-item">
-      <div class="slide-view" data-count="2">
+      <div class="slide-view" data-count="2" style="--n:2;">
         <div class="slide-track">
           <img src="../images/activities/alistar2026.jpg" alt="">
           <img src="../images/activities/alistar20262.jpg" alt="">
@@ -68,9 +63,9 @@ My research interests include Reinforcement Learning, Large Language Models and 
         (北京·2026.05)
       </p>
     </div>
-     <!-- ③ 轮播卡片：3 张图（JS 顺序循环，记得 data-count 和 --n 都要等于张数） -->
+     <!-- ③ 轮播卡片：3 张图 -->
     <div class="activities-item">
-      <div class="slide-view" data-count="3" data-interval="4000" style="--n:3;">
+      <div class="slide-view" data-count="3" style="--n:3;">
         <div class="slide-track">
           <img src="../images/activities/valse1.jpg" alt="">
           <img src="../images/activities/valse2.jpg" alt="">
@@ -82,13 +77,14 @@ My research interests include Reinforcement Learning, Large Language Models and 
         (武汉·2026.05)
       </p>
     </div>
-    <!-- ① 单张图卡片 -->
+    <!-- ④ 单张图卡片 -->
     <div class="activities-item">
-      <img src="../images/activities/qingyun.jpg" alt="VALSE 2026">
+      <img src="../images/activities/qingyun.jpg" alt="腾讯青云计划">
       <p>腾讯青云计划(北京·2026.03)</p>
     </div>
+    <!-- ⑤ 单张图卡片 -->
     <div class="activities-item">
-      <img src="../images/activities/Outstanding Student Model.jpg" alt="VALSE 2026">
+      <img src="../images/activities/Outstanding Student Model.jpg" alt="Outstanding Student Model">
       <p>
         <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">Outstanding Student Model</a>
         (成都·2024.12)
@@ -100,12 +96,13 @@ My research interests include Reinforcement Learning, Large Language Models and 
 <script>
 (function () {
   if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var INTERVAL = 4000;   // ★ 统一的切换间隔（毫秒）。想全局调速只改这一个数字
   document.querySelectorAll(".slide-view[data-count]").forEach(function (view) {
     var n = parseInt(view.getAttribute("data-count"), 10);
-    if (!n || n <= 2) return;            // 2 张由 CSS 动画处理
+    if (!n || n < 2) return;
     var track = view.querySelector(".slide-track");
     if (!track) return;
-    var ms = parseInt(view.getAttribute("data-interval") || "4000", 10);
+    var ms = parseInt(view.getAttribute("data-interval") || INTERVAL, 10);
     var i = 0;
     setInterval(function () {
       i = (i + 1) % n;
