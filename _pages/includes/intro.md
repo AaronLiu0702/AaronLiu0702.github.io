@@ -50,6 +50,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+    <!-- ① 单张图卡片 -->
     <div class="activities-item">
       <img src="../images/activities/UCAS2026.jpg" alt="UCAS 2026">
       <p>中国科学院大学(北京·2026.06)</p>
