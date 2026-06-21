@@ -78,8 +78,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-        <a
-href="https://www.xiaohongshu.com/explore/6a117406000000003600xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw="target="_blank">VALSE2026</a>
+        <a href="https://www.xiaohongshu.com/explore/6a117406000000003600xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw="target="_blank">VALSE2026</a>
         (武汉·2026.05)
       </p>
     </div>
@@ -92,7 +91,7 @@ href="https://www.xiaohongshu.com/explore/6a117406000000003600xsec_token=CBc7sUm
     <div class="activities-item">
       <img src="../images/activities/Outstanding-Student-Model
       <p>
-        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspL 标兵</a>
+        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">优秀学生标兵</a>
         (成都·2024.12)
       </p>
     </div>
