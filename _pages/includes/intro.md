@@ -54,7 +54,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-        中国科学院大学(北京·2026.06)
+        中国科学院大学 人工智能学院(北京·2026.06)
       </p>
     </div>
     <!-- ② 轮播卡片：2 张图 -->
