@@ -39,12 +39,22 @@ My research interests include Reinforcement Learning, Large Language Models and 
 /* 2 images: pure-CSS back-and-forth */
 .slide-view[data-count="2"] .slide-track { width: 200%; animation: slide2 8s ease-in-out infinite; }
 @keyframes slide2 { 0%,42% {transform:translateX(0);} 50%,92% {transform:translateX(-50%);} 100% {transform:translateX(0);} }
-/* 3+ images: JS-driven loop */
-.slide-view[data-count]:not([data-count="2"]) .slide-track { width: calc(var(--n,3) * 100%); transition: transform .55s ease-in-out; }
-.slide-view[data-count]:not([data-count="2"]) .slide-track img { flex: 0 0 calc(100% / var(--n,3)); }
+/* 3 images: pure-CSS loop */
+.slide-view[data-count="3"] .slide-track {
+  width: 300%;
+  animation: slide3 12s ease-in-out infinite;
+}
+.slide-view[data-count="3"] .slide-track img { flex: 0 0 33.3333%; }
+
+@keyframes slide3 {
+  0%,    28.75% { transform: translateX(0); }          /* 图1 停留 */
+  33.33%, 62.08% { transform: translateX(-33.3333%); } /* 图2 停留 */
+  66.67%, 95.42% { transform: translateX(-66.6667%); } /* 图3 停留 */
+  100%   { transform: translateX(0); }                 /* 回到图1 */
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .slide-view[data-count="2"] .slide-track { animation: none !important; transform: none !important; }
-  .slide-view[data-count]:not([data-count="2"]) .slide-track { transition: none !important; }
+  .slide-view[data-count="3"] .slide-track { animation: none !important; }
 }
 </style>
 
