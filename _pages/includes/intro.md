@@ -57,7 +57,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         中国科学院大学 人工智能学院 (北京·2026.06)
       </p>
     </div>
-    <!-- ② 轮播卡片：2 张图 -->
+     <!-- ② 轮播卡片：2 张图（阿里星） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2" style="--n:2;">
         <div class="slide-track">
@@ -103,7 +103,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 <script>
 (function () {
   if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-  var INTERVAL = 4000;   // ★ 统一的切换间隔（毫秒）。想全局调速只改这一个数字
+  var INTERVAL = 4000;
   document.querySelectorAll(".slide-view[data-count]").forEach(function (view) {
     var n = parseInt(view.getAttribute("data-count"), 10);
     if (!n || n < 2) return;
