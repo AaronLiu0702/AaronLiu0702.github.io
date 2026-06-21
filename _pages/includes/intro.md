@@ -25,27 +25,27 @@ My research interests include Reinforcement Learning, Large Language Models and 
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04);
 }
 .activities-scroll::-webkit-scrollbar { width: 8px; }
-.activities-scroll::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
+.activities-scroll::-webkit-scrollbar-thumb { background: #ddd
 .activities-container { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; }
-.activities-item { flex: 0 0 calc(32.5% - 10px); text-align: center; min-width: 0; }
+.activities-item { flex: 0 0 calc(32.5% - 10px); text-align: c
 .activities-item > img { display: block; margin-bottom: 10px; width: 100%; height: 200px; object-fit: cover; border-radius: 8px; }
-.activities-item p { font-size: 0.88em; color: #666; margin: 0; font-weight: bold; line-height: 1.3; }
+.activities-item p { font-size: 0.88em; color: #666; margin: 0ght: 1.3; }
 @media (max-width: 768px) { .activities-item { flex: 0 0 100%; } }
 
-/* ---- carousel (unified: 2 张和 3+ 张都由 JS 驱动) ---- */
-.slide-view { position: relative; width: 100%; overflow: hidden; border-radius: 8px; margin-bottom: 10px; height: 200px; background: #f3f3f3; }
+/* ---- carousel (unified) ---- */
+.slide-view { position: relative; width: 100%; overflow: hidde-bottom: 10px; height: 200px; background: #f3f3f3; }
 .slide-track {
   display: flex; height: 100%; will-change: transform;
   width: calc(var(--n,2) * 100%);
   transition: transform .55s ease-in-out;
 }
-.slide-track img { height: 100%; object-fit: cover; display: block; flex: 0 0 calc(100% / var(--n,2)); min-width: 0; }
+.slide-track img { height: 100%; object-fit: cover; display: bar(--n,2)); min-width: 0; }
 @media (prefers-reduced-motion: reduce) { .slide-track { transition: none !important; } }
 </style>
 
 <div class="activities-scroll">
   <div class="activities-container">
-    <!-- ② 轮播卡片：2 张图 -->
+    <!-- ① 轮播卡片：2 张图（中科院） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2" style="--n:2;">
         <div class="slide-track">
@@ -53,15 +53,13 @@ My research interests include Reinforcement Learning, Large Language Models and 
           <img src="../images/activities/UCAS202602.jpg" alt="">
         </div>
       </div>
-      <p>
-        中国科学院大学 人工智能学院 (北京·2026.06)
-      </p>
+      <p>中国科学院大学 人工智能学院 (北京·2026.06)</p>
     </div>
-     <!-- ② 轮播卡片：2 张图（阿里星） -->
+    <!-- ② 轮播卡片：2 张图（阿里星） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2" style="--n:2;">
         <div class="slide-track">
-          <img src="../images/activities/alistar2026.jpg" alt="">
+          <img src="../images/activities/alistar2026.jpg" alt=
           <img src="../images/activities/alistar20262.jpg" alt="">
         </div>
       </div>
@@ -70,7 +68,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         (北京·2026.05)
       </p>
     </div>
-     <!-- ③ 轮播卡片：3 张图 -->
+    <!-- ③ 轮播卡片：3 张图（VALSE） -->
     <div class="activities-item">
       <div class="slide-view" data-count="3" style="--n:3;">
         <div class="slide-track">
@@ -80,20 +78,21 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-        <a href="https://www.xiaohongshu.com/explore/6a117406000000003600109f?note_flow_source=wechat&xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw=" target="_blank">VALSE2026</a>
+        <a
+href="https://www.xiaohongshu.com/explore/6a117406000000003600xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw="target="_blank">VALSE2026</a>
         (武汉·2026.05)
       </p>
     </div>
-    <!-- ④ 单张图卡片 -->
+    <!-- ④ 单张图卡片（青云） -->
     <div class="activities-item">
       <img src="../images/activities/qingyun.jpg" alt="腾讯青云计划">
       <p>腾讯青云计划 (北京·2026.03)</p>
     </div>
-    <!-- ⑤ 单张图卡片 -->
+    <!-- ⑤ 单张图卡片（标兵） -->
     <div class="activities-item">
-      <img src="../images/activities/Outstanding Student Model.jpg" alt="Outstanding Student Model">
+      <img src="../images/activities/Outstanding-Student-Model
       <p>
-        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">优秀学生标兵</a>
+        <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspL 标兵</a>
         (成都·2024.12)
       </p>
     </div>
@@ -109,11 +108,11 @@ My research interests include Reinforcement Learning, Large Language Models and 
     if (!n || n < 2) return;
     var track = view.querySelector(".slide-track");
     if (!track) return;
-    var ms = parseInt(view.getAttribute("data-interval") || INTERVAL, 10);
+    var ms = parseInt(view.getAttribute("data-interval") || IN
     var i = 0;
     setInterval(function () {
       i = (i + 1) % n;
-      track.style.transform = "translateX(calc(-100% * " + i + " / " + n + "))";
+      track.style.transform = "translateX(calc(-100% * " + i +
     }, ms);
   });
 })();
