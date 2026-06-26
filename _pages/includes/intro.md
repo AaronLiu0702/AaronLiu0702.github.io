@@ -45,6 +45,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
   animation: slide3 12s ease-in-out infinite;
 }
 .slide-view[data-count="3"] .slide-track img { flex: 0 0 33.3333%; }
+.slide-view[data-count="2"] .slide-track img { flex: 0 0 50%; }
 
 @keyframes slide3 {
   0%,    28.75% { transform: translateX(0); }          /* 图1 停留 */
