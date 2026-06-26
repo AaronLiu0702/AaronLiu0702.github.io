@@ -93,7 +93,18 @@ My research interests include Reinforcement Learning, Large Language Models and 
         (武汉·2026.05)
       </p>
     </div>
-    <!-- ① 单张图卡片 -->
+    <!-- 青云计划 -->
+    <div class="activities-item">
+      <div class="slide-view" data-count="2">
+        <div class="slide-track">
+          <img src="../images/activities/qingyun2603.jpg" alt="">
+          <img src="../images/activities/qingyun.jpg" alt="qingyun">
+        </div>
+      </div>
+      <p>
+          腾讯青云计划 (北京·2026.03)
+      </p>
+    </div>
     <div class="activities-item">
       <img src="../images/activities/qingyun.jpg" alt="qingyun">
       <p>
