@@ -61,11 +61,17 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
-    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
+   <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
-     <img src="../images/activities/UCAS2026.jpg" alt="">
+      <div class="slide-view" data-count="2">
+        <div class="slide-track">
+          <img src="../images/activities/ICML1.jpg" alt="">
+          <img src="../images/activities/ICML_UBIQuest.jpg" alt="">
+        </div>
+      </div>
       <p>
-        ICML2026(首尔·2026.07)
+          <a href="https://mp.weixin.qq.com/s/_YP_MzFDGz5jZImE7hYadg" target="_blank">ICML2026</a>
+          (首尔·2026.07)
       </p>
     </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
