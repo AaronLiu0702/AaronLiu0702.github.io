@@ -114,8 +114,8 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <div class="activities-item">
       <div class="slide-view" data-count="2">
         <div class="slide-track">
-          <img src="../images/activities/qingyun2603.jpg" alt="">
           <img src="../images/activities/qingyun.jpg" alt="qingyun">
+          <img src="../images/activities/qingyun2603.jpg" alt="">
         </div>
       </div>
       <p>
