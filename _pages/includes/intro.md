@@ -72,6 +72,9 @@ My research interests include Reinforcement Learning, Large Language Models and 
       <p>
           <a href="https://mp.weixin.qq.com/s/_YP_MzFDGz5jZImE7hYadg" target="_blank">ICML2026</a>
           (首尔·2026.07)
+          <br>
+          <a href="https://mp.weixin.qq.com/s/tn4YPtIuhrTu-ozSp7Biog" target="_blank">青云</a>
+          ｜九坤｜超衍人才晚宴
       </p>
     </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
