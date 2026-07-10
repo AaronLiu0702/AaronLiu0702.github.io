@@ -65,6 +65,13 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <div class="activities-item">
      <img src="../images/activities/UCAS2026.jpg" alt="">
       <p>
+        ICML2026(首尔·2026.07)
+      </p>
+    </div>
+    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
+    <div class="activities-item">
+     <img src="../images/activities/UCAS2026.jpg" alt="">
+      <p>
         中国科学院大学 人工智能学院(北京·2026.06)
       </p>
     </div>
