@@ -16,7 +16,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 
 
-💬 Please feel free to add me on [**WeChat**](../../images/wx.png):.
+💬 Please feel free to add me on [**WeChat**](../../images/wx.png).
 
 <style>
 .activities-scroll {
