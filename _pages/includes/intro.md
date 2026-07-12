@@ -63,10 +63,11 @@ My research interests include Reinforcement Learning, Large Language Models and 
   <div class="activities-container">
    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
-      <div class="slide-view" data-count="2">
+      <div class="slide-view" data-count="3" style="--n:3;">
         <div class="slide-track">
           <img src="../images/activities/ICML1.jpg" alt="">
           <img src="../images/activities/ICML_UBIQuest.jpg" alt="">
+          <img src="../images/activities/ICML_Qingyun.jpg" alt="">
         </div>
       </div>
       <p>
