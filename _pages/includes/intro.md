@@ -71,7 +71,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-          ICML2026 (首尔·2026.07)
+          ICML2026 (Seoul·2026.07)
           <br>
           <a href="https://mp.weixin.qq.com/s/tn4YPtIuhrTu-ozSp7Biog" target="_blank">腾讯青云</a>｜
           <a href="https://m.alltuu.com/album/b11ca00419998cc4cc8acdfb2cd30d21/?menu=live" target="_blank">九坤投资</a>｜
@@ -87,7 +87,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-        中国科学院大学 人工智能学院 (北京·2026.06)
+        中国科学院大学 人工智能学院 (Beijing·2026.06)
       </p>
     </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
@@ -100,7 +100,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
       </div>
       <p>
           <a href="https://mp.weixin.qq.com/s/_YP_MzFDGz5jZImE7hYadg" target="_blank">阿里星热爱之旅</a>
-          (北京·2026.05)
+          (Beijing·2026.05)
       </p>
     </div>
     <div class="activities-item">
@@ -113,7 +113,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
       </div>
       <p>
         <a href="https://www.xiaohongshu.com/explore/6a117406000000003600109f?note_flow_source=wechat&xsec_token=CBc7sUmRT9tKrESqVvdRL30GH7cm5gZuAz_YVgmLQttqw=" target="_blank">VALSE2026</a>
-        (武汉·2026.05)
+        (Wuhan·2026.05)
       </p>
     </div>
     <!-- 青云计划 -->
@@ -125,7 +125,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-          腾讯青云计划 (北京·2026.03)
+          腾讯青云计划 (Beijing·2026.03)
       </p>
     </div>
     <!-- ① 单张图卡片 -->
@@ -133,7 +133,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
       <img src="../images/activities/Outstanding Student Model.jpg" alt="Outstanding Student Model">
       <p>
         <a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w" target="_blank">优秀学生标兵</a>
-        (成都·2024.12)
+        (Chengdu·2024.12)
       </p>
     </div>
   </div>
