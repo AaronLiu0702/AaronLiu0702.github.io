@@ -34,6 +34,7 @@
 
 
 # 🎫 Academic Activities
+- **2026.07**, Seoul, **<span style="color:red">"Qingyun|UBIQuent|Apex Intelligence Talent Dinner"</span>** at ICML 2026.
 - **2026.05**, Wuhan, **<span style="color:red">"AI Talent Corner"</span>** at VALSE 2026.
 - **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Program**</span>, "Stars of the Future: Technology Exchange Exhibition".
 - **2025.09**, BeiJing, **Wave Summit 2025**, Deep Learning Developers Conference.
