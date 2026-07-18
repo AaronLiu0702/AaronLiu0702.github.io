@@ -92,7 +92,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search.**  
+  **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search.**  
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Jiangwang Chen, Zixin Song, Xingjian Wu, Kailin Jiang, Bohan yu, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
