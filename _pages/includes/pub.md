@@ -126,7 +126,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
+      <a href="https://general365.github.io/"><img src='images/CRPO.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
