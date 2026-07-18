@@ -100,6 +100,24 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <a href="https://general365.github.io/"><img src='images/MAPD.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space.**  
+  
+  🧑‍💻 Jiangwang Chen, Zixin Song, <ins>**Junlin Liu**</ins>, Shuaiyu Zhou, Haiyan Wu, Haihan Shi, Chenxi Zhou, Hanqing Li, Xiao Yang, Da Zhu, Guanjun Jiang.
+  <br>
+  </div>
+</div>
+
 
 
 <div class='paper-box'>
