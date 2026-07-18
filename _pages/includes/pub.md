@@ -85,6 +85,31 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search.**  
+  
+  🧑‍💻 <ins>**Junlin Liu**</ins>, Jiangwang Chen, Zixin Song, Xingjian Wu, Kailin Jiang, Bohan yu, Xiao Yang, Da Zhu, Guanjun Jiang.
+  <br>
+    [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
+   	[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
+    [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
+    [![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2604.11778)
+  </div>
+</div>
+
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ICONIP 2026 (Under Review)
       </div>
       <a href="https://amo-bench.github.io/"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
