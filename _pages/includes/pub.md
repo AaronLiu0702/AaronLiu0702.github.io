@@ -172,7 +172,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> PReM: Learning What to Preserve and When to Refresh for Context Compression.**  
+  **<img src="../images/alibaba.svg" alt="icon" style="height:25px; vertical-align:middle;"> PReM: Learning What to Preserve and When to Refresh for Context Compression.**  
   
   🧑‍💻 Bohan Yu*, Lei Shen*, Chenxi Zhou, Chen Han, <ins>**Junlin Liu***</ins>, Wenbo Su, Yu Cheng, Bo Zheng.
   <br>
