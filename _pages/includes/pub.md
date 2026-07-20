@@ -87,7 +87,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <a href="https://general365.github.io/"><img src='images/MAPD.png' alt="sym" width="100%"></a>
+      <a href=""><img src='images/MAPD.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -128,7 +128,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <a href="https://general365.github.io/"><img src='images/CRPO.png' alt="sym" width="100%"></a>
+      <img src='images/CRPO.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -147,7 +147,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         KDD 2027 (Under Review)
       </div>
-      <a href="https://general365.github.io/"><img src='images/CRPO.png' alt="sym" width="100%"></a>
+      <img src='images/CRPO.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -155,6 +155,26 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> ClawTrack: Towards Trace-Level Evaluation and Improvement of Real-World Autonomous Agents.**  
   
   🧑‍💻 Xingjian Wu*, Xuhang Zhu, Xingchen Liu, <ins>**Junlin Liu***</ins>, Jianing Wang, Linsen Guo, Xiaoyu Li, Xuezhi Cao, Xunliang Cai.
+  <br>
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <img src='images/CRPO.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> PReM: Learning What to Preserve and When to Refresh for Context Compression.**  
+  
+  🧑‍💻 Bohan Yu*, Lei Shen*, Chenxi Zhou, Chen Han, <ins>**Junlin Liu***</ins>, Wenbo Su, Yu Cheng, Bo Zheng.
   <br>
   </div>
 </div>
