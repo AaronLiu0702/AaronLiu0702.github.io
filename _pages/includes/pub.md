@@ -176,7 +176,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Bohan Yu*, Lei Shen*, Chenxi Zhou, Chen Han, <ins>**Junlin Liu**</ins>, Wenbo Su, Yu Cheng, Bo Zheng.
   <br>
-   	[[**Paper**]](https://arxiv.org/abs/2607.14327)
+   	[[**Paper**]](https://arxiv.org/abs/2607.14327) [[**Code**]]()
+    [[**ProjectPage**]]() [[**HuggingFace**]]()
   </div>
 </div>
 
