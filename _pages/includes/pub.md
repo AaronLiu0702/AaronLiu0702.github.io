@@ -87,7 +87,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <a href=""><img src='images/MAPD.png' alt="sym" width="100%"></a>
+      <img src='images/MAPD.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
