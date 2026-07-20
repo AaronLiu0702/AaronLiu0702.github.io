@@ -189,7 +189,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ICONIP 2026 (Under Review)
       </div>
-      <a href="https://amo-bench.github.io/"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
+      <a href=""><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -208,7 +208,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         IJCNN 2026 (CCF-C)
       </div>
-      <img src='images/ACE-MAPPO.png' alt="sym" width="100%">
+      <a href="https://arxiv.org/abs/2605.25091"><img src='images/ACE-MAPPO.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
