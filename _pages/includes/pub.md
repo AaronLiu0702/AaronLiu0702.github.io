@@ -176,6 +176,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Kailin Jiang, Lei Liu, Jian Xi, Hui Xu, <ins>**Junlin Liu**</ins>, Baochen Fu, Shaoqing Ren, Bin Li, Vichwang, Yu Lu, Haibo Shi.
   <br>
+    [[**Paper**]](https://arxiv.org/pdf/2607.19747) [[**Code**]](https://github.com/Rubric4Setwise/Rubric4Setwise)
+   	[[**ProjectPage**]](https://rubric4setwise.github.io/) [[**HuggingFace**]](https://huggingface.co/collections/placeholder)
   </div>
 </div>
 
