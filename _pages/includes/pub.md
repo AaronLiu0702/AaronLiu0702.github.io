@@ -154,7 +154,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> ClawTrack: Towards Trace-Level Evaluation and Improvement of Real-World Autonomous Agents.**  
   
-  🧑‍💻 Xingjian Wu, Xuhang Zhu, Xingchen Liu, <ins>**Junlin Liu**</ins>, Jianing Wang, Linsen Guo, Xiaoyu Li, Xuezhi Cao, Xunliang Cai.
+  🧑‍💻 Xingjian Wu, Xuhang Zhu, Xingchen Liu, <ins>**Junlin Liu**</ins>, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
   <br>
   </div>
 </div>
