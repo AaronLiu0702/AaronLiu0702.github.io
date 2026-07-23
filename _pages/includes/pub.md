@@ -172,7 +172,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking.**  
+  **<img src="../images/yuanbao.svg" alt="icon" style="height:25px; vertical-align:middle;"> Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking.**  
   
   🧑‍💻 Kailin Jiang, Lei Liu, Jian Xi, Hui Xu, <ins>**Junlin Liu**</ins>, Baochen Fu, Shaoqing Ren, Bin Li, Vichwang, Yu Lu, Haibo Shi.
   <br>
