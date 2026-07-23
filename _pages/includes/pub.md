@@ -167,7 +167,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <img src='images/CRPO.png' alt="sym" width="100%">
+      <a href="https://arxiv.org/pdf/2607.19747"><img src='images/Rubric_set.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
