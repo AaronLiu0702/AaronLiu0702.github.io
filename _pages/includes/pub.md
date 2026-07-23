@@ -167,6 +167,26 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
+      <img src='images/CRPO.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking.**  
+  
+  🧑‍💻 Kailin Jiang, Lei Liu, Jian Xi, Hui Xu, <ins>**Junlin Liu**</ins>, Baochen Fu, Shaoqing Ren, Bin Li, Vichwang, Yu Lu, Haibo Shi.
+  <br>
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
       <a href="https://arxiv.org/abs/2607.14327"><img src='images/PReM.png' alt="sym" width="100%"></a>
     </div>
   </div>
