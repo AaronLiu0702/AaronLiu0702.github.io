@@ -120,6 +120,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -131,9 +132,9 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> HarnessOpt: Long-Horizon Harness Self-Improvement via Accumulated Optimizer State.**  
+  **<img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> HarnessOpt: Long-Horizon Harness Self-Improvement via Accumulated Optimizer State.**  
   
-  🧑‍💻 Shuaiyu Zhou*, Jiaying Zhang*, <ins>**Junlin Liu***</ins>, Jiangwang Chen, Zixin Song, Haiyan Wu, Hanqing Li, Jinzhou Song, <br>Xiao Yang, Da Zhu, Guanjun Jiang.
+  🧑‍💻 Shuaiyu Zhou*, Jiaying Zhang*, <ins>**Junlin Liu***</ins>, Jiangwang Chen, Zixin Song, Haiyan Wu, Hanqing Li, Jinzhou Song, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
   </div>
 </div>
