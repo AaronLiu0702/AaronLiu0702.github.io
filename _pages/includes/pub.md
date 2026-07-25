@@ -115,7 +115,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space.**  
   
   <div>
-  🧑‍💻 Jiangwang Chen*, Zixin Song*, <ins>**Junlin Liu***</ins>, Shuaiyu Zhou, Haiyan Wu, Haihan Shi, Chenxi Zhou, Hanqing Li, Xiao Yang, Da Zhu, Guanjun Jiang.
+  🧑‍💻 Jiangwang Chen**, Zixin Song**, <ins>**Junlin Liu***</ins>, Shuaiyu Zhou, Haiyan Wu, Haihan Shi, Chenxi Zhou, Hanqing Li, Xiao Yang, Da Zhu, Guanjun Jiang.
   </div>
   
   <br>
@@ -137,7 +137,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> HarnessOpt: Long-Horizon Harness Self-Improvement via Accumulated Optimizer State.**  
   
-  🧑‍💻 Shuaiyu Zhou**, Jiaying Zhang*, <ins>**Junlin Liu***</ins>, Jiangwang Chen, Zixin Song, Haiyan Wu, Hanqing Li, Jinzhou Song, Xiao Yang, Da Zhu, Guanjun Jiang.
+  🧑‍💻 Shuaiyu Zhou**, Jiaying Zhang**, <ins>**Junlin Liu***</ins>, Jiangwang Chen, Zixin Song, Haiyan Wu, Hanqing Li, Jinzhou Song, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
   </div>
 </div>
