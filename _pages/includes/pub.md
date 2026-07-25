@@ -120,6 +120,25 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <img src='images/paper_overview/HarnessOpt.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> HarnessOpt: Long-Horizon Harness Self-Improvement via Accumulated Optimizer State.**  
+  
+  🧑‍💻 Shuaiyu Zhou*, Jiaying Zhang*, <ins>**Junlin Liu***</ins>, Jiangwang Chen, Zixin Song, Haiyan Wu, Hanqing Li, Jinzhou Song, <br>Xiao Yang, Da Zhu, Guanjun Jiang.
+  <br>
+  </div>
+</div>
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
