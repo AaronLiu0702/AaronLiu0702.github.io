@@ -114,7 +114,10 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space.**  
   
+  <div>
   🧑‍💻 Jiangwang Chen*, Zixin Song*, <ins>**Junlin Liu***</ins>, Shuaiyu Zhou, Haiyan Wu, Haihan Shi, Chenxi Zhou, Hanqing Li, Xiao Yang, Da Zhu, Guanjun Jiang.
+  </div>
+  
   <br>
   </div>
 </div>
