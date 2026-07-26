@@ -157,6 +157,12 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Jiangwang Chen\*, Zixin Song\*, <ins>**Junlin Liu**\*</ins>, Shuaiyu Zhou, Haiyan Wu, Haihan Shi, Chenxi Zhou, Hanqing Li, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
+  <div class="paper-topics">
+    <span class="paper-topic">LLM Agents</span>
+    <span class="paper-topic">Self-Evolving Agent</span>
+    <span class="paper-topic">Skill and Rubric Learning</span>
+  </div>
+  
   </div>
 </div>
 
