@@ -1,3 +1,27 @@
+<style>
+  .paper-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+    margin-bottom: 4px;
+  }
+
+  .paper-topic {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 10px;
+    border: 1px solid #3182ce;
+    border-radius: 7px;
+    background-color: #ebf8ff;
+    color: #2b6cb0;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.4;
+    white-space: nowrap;
+  }
+  </style>
+
 # 🔥 News
 <!--
 <style>
@@ -96,6 +120,13 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Chunji Lv, Jiangwang Chen, Zixin Song, Shuaiyu Zhou, Xingjian Wu, Kailin Jiang, <br>Jinyang Wu, Bohan yu, Chenxi Zhou, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
+   <div class="paper-topics">
+    <span class="paper-topic">Agentic Search</span>
+    <span class="paper-topic">Knowledge Distillation</span>
+    <span class="paper-topic">Reinforcement Learning</span>
+    <span class="paper-topic">Multi-Agent Systems</span>
+  </div>
+  
   </div>
 </div>
 
