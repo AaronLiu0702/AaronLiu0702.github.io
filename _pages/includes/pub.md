@@ -207,6 +207,11 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Xingjian Wu*, <ins>**Junlin Liu***</ins>, Xingchen Liu, Xuhang Zhu, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
   <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Agentic RL</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
+    <span class="paper-topic">Contrastive Policy Optimization</span>
+  </div>
   </div>
 </div>
 
@@ -226,6 +231,10 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Xingjian Wu, Xuhang Zhu, Xingchen Liu, <ins>**Junlin Liu**</ins>, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
   <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Agent Evaluation</span>
+    <span class="paper-topic">Benchmark</span>
+  </div>
   </div>
 </div>
 
@@ -246,9 +255,14 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Kailin Jiang, Lei Liu, Jian Xi, Hui Xu, <ins>**Junlin Liu**</ins>, Baochen Fu, Shaoqing Ren, Bin Li, Vichwang, <br>Yu Lu, Haibo Shi.
   <br>
-    [[**Paper**]](https://arxiv.org/pdf/2607.19747) [[**Code**]](https://github.com/Rubric4Setwise/Rubric4Setwise)
-   	[[**ProjectPage**]](https://rubric4setwise.github.io/) [[**HuggingFace**]](https://huggingface.co/collections/placeholder)
-    [![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
+  <div class="paper-topics">
+    <span class="paper-topic">Retrieval-Augmented Generation</span>
+    <span class="paper-topic">Retrieval Evaluation</span>
+    <span class="paper-topic">Rubric-Guided</span>
+  </div>
+[[**Paper**]](https://arxiv.org/pdf/2607.19747) [[**Code**]](https://github.com/Rubric4Setwise/Rubric4Setwise)
+[[**ProjectPage**]](https://rubric4setwise.github.io/) [[**HuggingFace**]](https://huggingface.co/collections/placeholder)
+[![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
   </div>
 </div>
 
