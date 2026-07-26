@@ -42,6 +42,7 @@
 </div>
 -->
 
+- **2026.07:**  🎤🎤  I was honored to be invited to participate in the **<span style="color:red">Qingyun|UBIQuent|Apex Intelligence Talent Dinner</span>** at ICML 2026!
 - **2026.05:**  🎤🎤  I was honored to be invited to participate in the "AI Talent Corner" at VALSE 2026!
 - **2026.04:**  🧩🧩  We released [**General365**](https://general365.github.io/), advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
 - **2026.04:**  🎉🎉  One paper has been accepted by **<span style="color:red">ACL 2026</span>**! [**AMO-Bench**](https://amo-bench.github.io/)！
