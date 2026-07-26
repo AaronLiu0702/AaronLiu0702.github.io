@@ -132,7 +132,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <br>
    <div class="paper-topics">
     <span class="paper-topic">Agentic Search</span>
-    <span class="paper-topic">Knowledge Distillation</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Multi-Agent Systems</span>
   </div>
   
