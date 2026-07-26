@@ -76,7 +76,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
     [![Citations](https://img.shields.io/badge/Citations-31-EBB215)](https://arxiv.org/abs/2510.26768)
   <div class="paper-topics">
-    <span class="paper-topic">**CCF-A**</span>
+    <span class="paper-topic"><b>CCF-A</b></span>
     <span class="paper-topic">LLM Evaluation</span>
     <span class="paper-topic">Mathematical Reasoning</span>
   </div>
