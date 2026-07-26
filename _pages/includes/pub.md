@@ -284,7 +284,12 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Bohan Yu*, Lei Shen*, Chenxi Zhou, Chen Han, <ins>**Junlin Liu**</ins>, Wenbo Su, Yu Cheng, Bo Zheng.
   <br>
-   	[[**Paper**]](https://arxiv.org/abs/2607.14327) [[**Code**]]()
+  <div class="paper-topics">
+    <span class="paper-topic">Long-Context LLM</span>
+    <span class="paper-topic">Context Compression</span>
+    <span class="paper-topic">LLM Memory</span>
+  </div>
+[[**Paper**]](https://arxiv.org/abs/2607.14327) [[**Code**]]()
   </div>
 </div>
 
@@ -305,6 +310,11 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
+  <div class="paper-topics">
+    <span class="paper-topic">Reinforce Learning</span>
+    <span class="paper-topic">Multi-Agent System</span>
+    <span class="paper-topic">Agent Collaboration and Game</span>
+  </div>
   </div>
 </div>
 
@@ -323,6 +333,11 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   🧑‍💻 Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
+  <div class="paper-topics">
+    <span class="paper-topic">Reinforce Learning</span>
+    <span class="paper-topic">Multi-Agent System</span>
+    <span class="paper-topic">Agent Collaboration and Game</span>
+  </div>
   </div>
 </div>
 
@@ -342,7 +357,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images.**  
   🧑‍💻 <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
   <br>
-    [[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
+[[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
   
   </div>
 </div>
