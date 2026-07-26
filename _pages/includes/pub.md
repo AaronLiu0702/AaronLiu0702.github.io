@@ -182,6 +182,11 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 Shuaiyu Zhou\*, Jiaying Zhang\*, <ins>**Junlin Liu**\*</ins>, Jiangwang Chen, Zixin Song, Haiyan Wu, Hanqing Li, Jinzhou Song, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
+    <div class="paper-topics">
+    <span class="paper-topic">LLM Agents</span>
+    <span class="paper-topic">Self-Evolving Agent</span>
+    <span class="paper-topic">Harness Engineering</span>
+  </div>
   </div>
 </div>
 
