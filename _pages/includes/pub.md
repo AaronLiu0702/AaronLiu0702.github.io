@@ -281,7 +281,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/icon/tencent.svg" alt="icon" style="height:25px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
   
-  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, Bailin Liang, Ruibo Duan.
+  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, <br>Bailin Liang, Ruibo Duan.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Multi-modal Agents</span>
