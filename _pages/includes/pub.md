@@ -74,8 +74,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <br>
   <div class="paper-topics">
     <span class="paper-topic"><b>CCF-A</b></span>
-    <span class="paper-topic">LLM Evaluation</span>
     <span class="paper-topic">Mathematical Reasoning</span>
+    <span class="paper-topic">LLM Evaluation</span>
   </div>
   
 [[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
@@ -103,8 +103,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, Yifan Zhou, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
   <br>
   <div class="paper-topics">
-    <span class="paper-topic">LLM Evaluation</span>
     <span class="paper-topic">General Reasoning</span>
+    <span class="paper-topic">LLM Evaluation</span>
   </div>
   
 [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
