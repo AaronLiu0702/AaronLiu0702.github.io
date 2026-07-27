@@ -268,6 +268,29 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <a href="https://arxiv.org/pdf/2607.19747"><img src='images/paper_overview/HalluAgent.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/icon/tencent.svg" alt="icon" style="height:25px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
+  
+  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, Bailin Liang, Ruibo Duan.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Multi-modal Agents</span>
+    <span class="paper-topic">Agent Hallucination</span>
+    <span class="paper-topic">Tool-Use</span>
+  </div>
+  </div>
+</div>
+
 
 
 <div class='paper-box'>
