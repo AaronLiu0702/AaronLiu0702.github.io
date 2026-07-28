@@ -122,7 +122,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <img src='images/MAPD.png' alt="sym" width="100%">
+      <a href="https://arxiv.org/pdf/2607.24280"><img src='images/MAPD.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -137,6 +137,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     <span class="paper-topic">Multi-Agent Systems</span>
   </div>
   
+[[**Paper**]](https://arxiv.org/pdf/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
+[[**HuggingFace**]](https://huggingface.co/papers/2607.24280)
   </div>
 </div>
 
