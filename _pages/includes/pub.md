@@ -219,6 +219,32 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <img src='images/paper_overview/PCSD.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning.**  
+  
+  🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Yang Gao, Ming Liu, Xinming Wang, Jinyang Wu, <br>Guoren Wang, Changsheng Li.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Agentic RL</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
+    <span class="paper-topic">Contrastive Policy Optimization</span>
+  </div>
+  </div>
+</div>
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -242,29 +268,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
 </div>
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        AAAI 2027 (Under Review)
-      </div>
-      <img src='images/paper_overview/PCSD.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Contrastive Reinforced Policy Optimization via Privileged Self-Distillation.**  
-  
-  🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Yang Gao, Ming Liu, Xinming Wang, Jinyang Wu, <br>Guoren Wang, Changsheng Li.
-  <br>
-  <div class="paper-topics">
-    <span class="paper-topic">Agentic RL</span>
-    <span class="paper-topic">On-Policy Self-Distillation</span>
-    <span class="paper-topic">Contrastive Policy Optimization</span>
-  </div>
-  </div>
-</div>
 
 
 <div class='paper-box'>
