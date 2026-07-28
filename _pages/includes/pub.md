@@ -20,6 +20,28 @@
     line-height: 1.4;
     white-space: nowrap;
   }
+  
+  .paper-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    color: #8a6200;
+    background-color: #fff4c2;
+    border: 1px solid #f1d675;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .paper-badge:hover {
+    color: #704f00;
+    background-color: #ffe99a;
+    border-color: #e5c34f;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
   </style>
 
 # 🔥 News
@@ -139,6 +161,13 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
 [[**Paper**]](https://arxiv.org/pdf/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
 [[**HuggingFace**]](https://huggingface.co/papers/2607.24280)
+[![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
+  <a class="paper-badge"
+     href="https://huggingface.co/papers/2607.24280"
+     target="_blank"
+     rel="noopener noreferrer">
+    🤗 #3 Paper of the Day
+  </a>
   </div>
 </div>
 
