@@ -269,7 +269,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class="paper-topics">
     <span class="paper-topic">Agentic RL</span>
     <span class="paper-topic">On-Policy Self-Distillation</span>
-    <span class="paper-topic">Contrastive Policy Optimization</span>
+    <span class="paper-topic">Adaptive Weighting</span>
   </div>
   </div>
 </div>
