@@ -225,14 +225,14 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         KDD 2027 (Under Review)
       </div>
-      <img src='images/paper_overview/ClawTrack.png' alt="sym" width="100%">
+      <img src='images/paper_overview/PCSD.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   
   **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> ClawTrack: Towards Trace-Level Evaluation and Improvement of Real-World Autonomous Agents.**  
   
-  🧑‍💻 Xingjian Wu, Xuhang Zhu, Xingchen Liu, <ins>**Junlin Liu**</ins>, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
+  🧑‍💻 Xingjian Wu, Xuhang Zhu, Xingchen Liu, <ins>**Junlin Liu**</ins>, Yang Gao, Ming Liu, Xinming Wang, <br>Jinyang Wu, Guoren Wang, Changsheng Li.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Agent Evaluation</span>
@@ -242,6 +242,29 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <img src='images/PCSD.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Contrastive Reinforced Policy Optimization via Privileged Self-Distillation.**  
+  
+  🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Xingchen Liu, Xuhang Zhu, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Agentic RL</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
+    <span class="paper-topic">Contrastive Policy Optimization</span>
+  </div>
+  </div>
+</div>
 
 
 <div class='paper-box'>
