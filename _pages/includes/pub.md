@@ -225,7 +225,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         KDD 2027 (Under Review)
       </div>
-      <img src='images/paper_overview/PCSD.png' alt="sym" width="100%">
+      <img src='images/ClawTrack.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -256,7 +256,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Contrastive Reinforced Policy Optimization via Privileged Self-Distillation.**  
   
-  🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Yang Gao, Ming Liu, Xinming Wang, <br>Jinyang Wu, Guoren Wang, Changsheng Li.
+  🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Yang Gao, Ming Liu, Xinming Wang, Jinyang Wu, <br>Guoren Wang, Changsheng Li.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Agentic RL</span>
