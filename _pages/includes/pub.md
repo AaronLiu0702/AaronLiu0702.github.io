@@ -20,6 +20,7 @@
     line-height: 1.4;
     white-space: nowrap;
   }
+
   
   .paper-badge {
     display: inline-block;
@@ -31,7 +32,7 @@
     font-size: 13px;
     font-weight: 600;
     line-height: 1.4;
-    text-decoration: none;
+    text-decoration: none !important;
     transition: all 0.2s ease;
   }
 
@@ -39,7 +40,7 @@
     color: #704f00;
     background-color: #ffe99a;
     border-color: #e5c34f;
-    text-decoration: none;
+    text-decoration: none !important;
     transform: translateY(-1px);
   }
   </style>
