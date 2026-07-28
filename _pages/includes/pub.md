@@ -158,17 +158,18 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     <span class="paper-topic">Agentic Search</span>
     <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Multi-Agent Systems</span>
+     <a class="paper-badge"
+       href="https://huggingface.co/papers/2607.24280"
+       target="_blank"
+       rel="noopener noreferrer">
+      🤗 #3 Paper of the Day
+    </a>
   </div>
   
 [[**Paper**]](https://arxiv.org/pdf/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
 [[**HuggingFace**]](https://huggingface.co/papers/2607.24280)
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
-  <a class="paper-badge"
-     href="https://huggingface.co/papers/2607.24280"
-     target="_blank"
-     rel="noopener noreferrer">
-    🤗 #3 Paper of the Day
-  </a>
+  
   </div>
 </div>
 
