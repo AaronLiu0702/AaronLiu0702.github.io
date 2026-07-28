@@ -78,7 +78,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     <span class="paper-topic">LLM Evaluation</span>
   </div>
   
-[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
+[[**Paper**]](https://aclanthology.org/2026.findings-acl.101.pdf) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
 [[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
 [![Citations](https://img.shields.io/badge/Citations-31-EBB215)](https://arxiv.org/abs/2510.26768)
