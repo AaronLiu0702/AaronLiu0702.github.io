@@ -181,7 +181,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <img src='images/paper_overview/Decoevo.png' alt="sym" width="100%">
+      <a href="https://arxiv.org/abs/2607.25675"><img src='images/paper_overview/Decoevo.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -195,7 +195,10 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     <span class="paper-topic">Self-Evolving Agent</span>
     <span class="paper-topic">Skill and Rubric Learning</span>
   </div>
-  
+
+[[**Paper**]](https://arxiv.org/abs/2607.25675) 
+[[**HuggingFace**]](https://huggingface.co/papers/2607.25675)
+
   </div>
 </div>
 
