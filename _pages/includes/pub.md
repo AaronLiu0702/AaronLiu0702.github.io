@@ -104,7 +104,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 [[**Paper**]](https://aclanthology.org/2026.findings-acl.101.pdf) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
 [[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
-[![Citations](https://img.shields.io/badge/Citations-32-EBB215)](https://arxiv.org/abs/2510.26768)
+[![Citations](https://img.shields.io/badge/Citations-33-EBB215)](https://arxiv.org/abs/2510.26768)
   </div>
 </div>
 
@@ -133,7 +133,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 [[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
 [[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
-[![Citations](https://img.shields.io/badge/Citations-4-EBB215)](https://arxiv.org/abs/2604.11778)
+[![Citations](https://img.shields.io/badge/Citations-6-EBB215)](https://arxiv.org/abs/2604.11778)
   </div>
 </div>
 
@@ -285,7 +285,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         KDD 2027 (Under Review)
       </div>
-      <img src='images/paper_overview/ClawTrack.png' alt="sym" width="100%">
+      <a href="https://arxiv.org/abs/2607.28037"><img src='images/paper_overview/ClawTrack.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
