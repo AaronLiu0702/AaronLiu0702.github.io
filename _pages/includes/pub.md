@@ -145,7 +145,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <a href="https://arxiv.org/pdf/2607.24280"><img src='images/MAPD.png' alt="sym" width="100%"></a>
+      <a https://arxiv.org/abs/2607.24280"><img src='images/MAPD.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -166,10 +166,10 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     </a>
   </div>
   
-[[**Paper**]](https://arxiv.org/pdf/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
+[[**Paper**]](https://arxiv.org/abs/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
 [[**HuggingFace**]](https://huggingface.co/papers/2607.24280)
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
-  
+[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.24280)
   </div>
 </div>
 
