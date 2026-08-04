@@ -299,6 +299,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     <span class="paper-topic">Long-Horizon Agent</span>
     <span class="paper-topic">Real-World interaction</span>
   </div>
+[[**Paper**]](https://arxiv.org/abs/2607.28037)
+[[**ProjectPage**]](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/) 
   </div>
 </div>
 
