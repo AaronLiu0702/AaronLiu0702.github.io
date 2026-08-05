@@ -198,7 +198,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 
 [[**Paper**]](https://arxiv.org/abs/2607.25675) 
 [[**HuggingFace**]](https://huggingface.co/papers/2607.25675)
-
+[![Citations](https://img.shields.io/badge/Citations-2-EBB215)](https://arxiv.org/abs/2607.25675)
   </div>
 </div>
 
@@ -329,6 +329,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 [[**Paper**]](https://arxiv.org/pdf/2607.19747) [[**Code**]](https://github.com/Rubric4Setwise/Rubric4Setwise)
 [[**ProjectPage**]](https://rubric4setwise.github.io/) [[**HuggingFace**]](https://huggingface.co/collections/placeholder)
 [![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
+[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.19747)
   </div>
 </div>
 
