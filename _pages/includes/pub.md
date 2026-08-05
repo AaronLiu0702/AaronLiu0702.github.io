@@ -260,7 +260,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <img src='images/paper_overview/PCSD.png' alt="sym" width="100%">
+      <a href="https://arxiv.org/abs/2608.01837"><img src='images/paper_overview/PCSD.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -274,6 +274,8 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
     <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Adaptive Weighting</span>
   </div>
+[[**Paper**]](https://arxiv.org/abs/2608.01837)
+[[**HuggingFace**]](https://huggingface.co/papers/2608.01837)
   </div>
 </div>
 
