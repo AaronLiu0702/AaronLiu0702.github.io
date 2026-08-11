@@ -29,7 +29,7 @@
   - Master’s Degree in Artificial Intelligence.
 - **2021.09 – 2025.06｜<img src="../images/sicau.svg" alt="icon" style="height:25px; vertical-align:middle;"> Sichuan Agricultural University (SiCAU).** 
   - Bachelor’s Degree in Computer Science and Technology.
-- **2015.09 – 2021.06｜<img src="../images/sicau.svg" alt="icon" style="height:25px; vertical-align:middle;"> Chengdu Foreign Languages School (CFLS).** 
+- **2015.09 – 2021.06｜<img src="../images/CFLS.png" alt="icon" style="height:25px; vertical-align:middle;"> Chengdu Foreign Languages School (CFLS).** 
 
 
 
