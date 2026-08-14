@@ -344,7 +344,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
-      <a href="https://arxiv.org/abs/2607.14327"><img src='images/PReM.png' alt="sym" width="100%"></a>
+      <a href="https://arxiv.org/abs/2608.12996"><img src='images/paper_overview/ATOBench.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
