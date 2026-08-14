@@ -337,6 +337,32 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <a href="https://arxiv.org/abs/2607.14327"><img src='images/PReM.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> ATOBench: Tracing How Autonomous Penetration-Testing Agents Verify Vulnerabilities When Target Evidence Lies.**  
+  
+  🧑‍💻 Qiyang Chen, Yixi Li, Fengwei Zhang, <ins>**Junlin Liu**</ins>.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Agent Evaluation</span>
+    <span class="paper-topic">Penetration Testing</span>
+    <span class="paper-topic">Agent Security</span>
+  </div>
+[[**Paper**]](https://arxiv.org/abs/2608.12996) [[**Code**]](https://github.com/daxtar2/ATOBench)
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -348,7 +374,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/icon/tencent.svg" alt="icon" style="height:25px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
+  **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
   
   🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, <br>Bailin Liang, Ruibo Duan.
   <br>
@@ -359,7 +385,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   </div>
   </div>
 </div>
-
 
 
 <div class='paper-box'>
