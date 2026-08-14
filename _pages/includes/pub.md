@@ -418,7 +418,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ICONIP 2026 (Under Review)
+        ICONIP 2026 (CCF-C)
       </div>
       <a href=""><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
