@@ -432,6 +432,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <br>
   🏛️ **<span style="color: rgb(165, 28, 48);">International Conference on Neural Information Processing, 2026.</span>**
   <div class="paper-topics">
+    <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforce Learning</span>
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
@@ -457,6 +458,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   <br>
   🏛️ **<span style="color: rgb(165, 28, 48);">International Joint Conference on Neural Networks, 2026.</span>**
   <div class="paper-topics">
+    <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforce Learning</span>
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
