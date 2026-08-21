@@ -95,7 +95,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);"><i>The 64th Annual Meeting of the Association for Computational Linguistics, 2026.</i></span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);">The 64th Annual Meeting of the Association for Computational Linguistics, 2026.</span>**
   <div class="paper-topics">
     <span class="paper-topic"><b>CCF-A</b></span>
     <span class="paper-topic">Mathematical Reasoning</span>
@@ -430,7 +430,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);"><i>International Conference on Neural Information Processing, 2026.</i></span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);">International Conference on Neural Information Processing, 2026.</span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforce Learning</span>
@@ -456,7 +456,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   🧑‍💻 Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);"><i>International Joint Conference on Neural Networks, 2026.</i></span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);">International Joint Conference on Neural Networks, 2026.</span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforce Learning</span>
