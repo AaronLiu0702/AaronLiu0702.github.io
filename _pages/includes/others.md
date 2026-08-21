@@ -1,7 +1,7 @@
 
 # 💻 Internship Experience
 
-- **2026.04 – present｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Group, MOS Lab.**
+- **2026.04 – present｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
   - Research Intern on Agentic RL & Self-Evolving Agent.
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
 
