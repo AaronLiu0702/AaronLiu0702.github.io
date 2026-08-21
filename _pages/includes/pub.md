@@ -95,7 +95,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
   <br>
-  🏛️ <span style="color: rgb(139, 0, 0);">The 64th Annual Meeting of the Association for Computational Linguistics, 2026.</span>
+  🏛️ **<span style="color: rgb(165, 28, 48);">The 64th Annual Meeting of the Association for Computational Linguistics, 2026.</span>**
   <div class="paper-topics">
     <span class="paper-topic"><b>CCF-A</b></span>
     <span class="paper-topic">Mathematical Reasoning</span>
