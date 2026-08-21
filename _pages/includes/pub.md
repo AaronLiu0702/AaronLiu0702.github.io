@@ -95,7 +95,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);"><em>The 64th Annual Meeting of the Association for Computational Linguistics, 2026.</em></span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);"><i>The 64th Annual Meeting of the Association for Computational Linguistics, 2026.</i></span>**
   <div class="paper-topics">
     <span class="paper-topic"><b>CCF-A</b></span>
     <span class="paper-topic">Mathematical Reasoning</span>
@@ -430,7 +430,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);"><em>International Conference on Neural Information Processing, 2026.</em></span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);"><i>International Conference on Neural Information Processing, 2026.</i></span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforce Learning</span>
@@ -456,7 +456,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   **<img src="../images/ucas.svg" alt="icon" style="height:25px; vertical-align:middle;"> Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat.**  
   🧑‍💻 Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);"><em>International Joint Conference on Neural Networks, 2026.</em></span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);"><i>International Joint Conference on Neural Networks, 2026.</i></span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforce Learning</span>
@@ -486,44 +486,3 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
   
   </div>
 </div>
-
-
-
-<!--
--	**General365: Benchmarking General Reasoning in LLMs Across Diverse and Challenging Tasks. <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> <span style="color:red">(LongCat Technical Report)</span>**
-  [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
-\
-  <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Shixiong Luo, Ying Xie, Yuan Zhang, Wenling Yuan, et al.
- \
- 	[[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
- 	[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
-
--	**AMO-Bench: Large Language Models Still Struggle in High School Math Competitions. <span style="color:red">(ACL 2026, CCF-A)</span>**
-  [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
-  [![Citations](https://img.shields.io/badge/Citations-16-EBB215)](https://arxiv.org/abs/2510.26768)
-\
-  <ins>**Junlin Liu**</ins>, Shengnan An, Shuang Zhou, Dan Ma, Yehao Lin, Xinxuan Lv, Xuanlin Wang, Xiaoyu Li, Ziwen Wang, Xuezhi Cao, Xunliang Cai.
-\
- 	[[**Paper**]](https://arxiv.org/abs/2510.26768) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
- 	[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
-
--	**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling. (Under Review)**
-\
- 	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
-
--	**ACE-MAPPO: Evolutionary Enhanced Multi-Agent Reinforcement Learning for Cooperative Air Combat. (IJCNN 2026, CCF-C)**
-\
- 	Chengwei Li*, <ins>**Junlin Liu***</ins>, Yang Gao, Hui Chang, Xinchen Zhang, Hao Zhao.
-
-
--	**LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images. (Applied Sciences, JCR-Q1, SCI)**
-\
-  <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
-\
-  [[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
-
--	**DRG-MAPPO: Hierarchical Multi-Agent Reinforcement Learning with Dynamic Role Assignment and Graph Modeling. (Under Review)**
-\
- 	<ins>**Junlin Liu***</ins>, Yang Gao, Chengwei Li.
-
--->
