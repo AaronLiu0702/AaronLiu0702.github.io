@@ -1,7 +1,7 @@
 
 # 💻 Internship Experience
 
-- **2026.08 – Present｜ <img src="../images/icon/tencent-full.svg" alt="icon" style="height:16px; vertical-align:middle;">    Tencent, <img src="../images/icon/WeChat.png" alt="icon" style="height:25px; vertical-align:middle;"> WXG, WeLM Fundation LLM Team.**
+- **2026.08 – Present｜ <img src="../images/icon/tencent-full.svg" alt="icon" style="height:16px; vertical-align:middle;">    Tencent, <img src="../images/icon/WeChat.png" alt="icon" style="height:20px; vertical-align:middle;"> WXG, WeLM Fundation LLM Team.**
   - Research Intern on Agentic RL & MLLM Agent.
 
 - **2026.04 – 2026.08｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
