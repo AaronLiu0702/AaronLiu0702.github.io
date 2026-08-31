@@ -170,7 +170,7 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 [[**Paper**]](https://arxiv.org/abs/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
 [[**HuggingFace**]](https://huggingface.co/papers/2607.24280)
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
-[![Citations](https://img.shields.io/badge/Citations-3-EBB215)](https://arxiv.org/abs/2607.24280)
+[![Citations](https://img.shields.io/badge/Citations-4-EBB215)](https://arxiv.org/abs/2607.24280)
   </div>
 </div>
 
