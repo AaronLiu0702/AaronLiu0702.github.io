@@ -1,7 +1,11 @@
 
 # 💻 Internship Experience
 
-- **2026.04 – present｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
+- **2026.08 – Present｜ <img src="../images/icon/tencent.svg" alt="icon" style="height:18px; vertical-align:middle;">    Tencent, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> WXG, WeLM Fundation LLM Team.**
+  - Research Intern on Agentic RL & MLLM Agent.
+  - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
+
+- **2026.04 – 2026.08｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
   - Research Intern on Agentic RL & Self-Evolving Agent.
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
 
