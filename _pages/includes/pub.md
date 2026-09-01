@@ -467,22 +467,6 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        Applied Sciences (JCR-Q1)
-      </div>
-      <img src='images/LCAS-DetNet.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **LCAS-DetNet: A Ship Target Detection Network for Synthetic Aperture Radar Images.**  
-  🧑‍💻 <ins>**Junlin Liu**</ins>, Dingyi Liao, Xianyao Wang, Jun Li, Bing Yang, Guanyu Chen.
-  <br>
-[[**Paper**]](https://www.mdpi.com/2076-3417/14/12/5322) [[**Code**]](https://github.com/AaronLiu0702/LCAS-DetNet)	
   
   </div>
 </div>
