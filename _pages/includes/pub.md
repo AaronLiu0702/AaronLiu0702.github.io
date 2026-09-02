@@ -78,8 +78,6 @@
 
 # 📝 Publications 
 
-Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/citations?user=xseFPrcAAAAJ&hl=en-CN).
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -467,6 +465,3 @@ Full list of publications in [**Google Scholar**](https://scholar.google.com.hk/
 </div>
 
 
-  
-  </div>
-</div>
