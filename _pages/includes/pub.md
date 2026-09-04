@@ -364,8 +364,8 @@
     <span class="paper-topic">Long-Horizon Agent</span>
     <span class="paper-topic">Real-World interaction</span>
   </div>
-[[**Paper**]](https://arxiv.org/abs/2607.28037)
-[[**ProjectPage**]](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/) 
+[Paper](https://arxiv.org/abs/2607.28037){:.btn-link .btn-paper}
+[ProjectPage](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/){:.btn-link .btn-home}
   </div>
 </div>
 
@@ -391,8 +391,10 @@
     <span class="paper-topic">Retrieval Evaluation</span>
     <span class="paper-topic">Rubric-Guided</span>
   </div>
-[[**Paper**]](https://arxiv.org/pdf/2607.19747) [[**Code**]](https://github.com/Rubric4Setwise/Rubric4Setwise)
-[[**ProjectPage**]](https://rubric4setwise.github.io/) [[**HuggingFace**]](https://huggingface.co/collections/placeholder)
+[Paper](https://arxiv.org/pdf/2607.19747){:.btn-link .btn-paper}
+[Code](https://github.com/Rubric4Setwise/Rubric4Setwise){:.btn-link .btn-code}
+[ProjectPage](https://rubric4setwise.github.io/){:.btn-link .btn-home}
+[<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/collections/placeholder){:.btn-link .btn-hf}
 [![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
 [![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.19747)
   </div>
@@ -419,7 +421,8 @@
     <span class="paper-topic">Penetration Testing</span>
     <span class="paper-topic">Agent Security</span>
   </div>
-[[**Paper**]](https://arxiv.org/abs/2608.12996) [[**Code**]](https://github.com/daxtar2/ATOBench)
+[Paper](https://arxiv.org/abs/2608.12996){:.btn-link .btn-paper}
+[Code](https://github.com/daxtar2/ATOBench){:.btn-link .btn-code}
   </div>
 </div>
 
@@ -468,7 +471,8 @@
     <span class="paper-topic">Context Compression</span>
     <span class="paper-topic">LLM Memory</span>
   </div>
-[[**Paper**]](https://arxiv.org/abs/2607.14327) [[**Code**]]()
+[Paper](https://arxiv.org/abs/2607.14327){:.btn-link .btn-paper}
+[Code](){:.btn-link .btn-code}
   </div>
 </div>
 
