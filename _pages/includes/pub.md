@@ -160,9 +160,6 @@
   [ProjectPage](https://amo-bench.github.io/){:.btn-link .btn-home}
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/AMO-Bench){:.btn-link .btn-hf}
   <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amobench">BIB</a>
-
-[[**Paper**]](https://aclanthology.org/2026.findings-acl.101.pdf) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
-[[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
 [![Citations](https://img.shields.io/badge/Citations-40-EBB215)](https://arxiv.org/abs/2510.26768)
   </div>
@@ -190,8 +187,10 @@
     <span class="paper-topic">LLM Evaluation</span>
   </div>
   
-[[**Paper**]](https://arxiv.org/abs/2604.11778) [[**Code**]](https://github.com/meituan-longcat/General365)
-[[**ProjectPage**]](https://general365.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/General365_Public)
+[Paper](https://arxiv.org/abs/2604.11778){:.btn-link .btn-paper}
+[Code](https://github.com/meituan-longcat/General365){:.btn-link .btn-code}
+[ProjectPage](https://general365.github.io/){:.btn-link .btn-home}
+[<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/General365_Public){:.btn-link .btn-hf}
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
 [![Citations](https://img.shields.io/badge/Citations-6-EBB215)](https://arxiv.org/abs/2604.11778)
   </div>
@@ -226,8 +225,9 @@
     </a>
   </div>
   
-[[**Paper**]](https://arxiv.org/abs/2607.24280) [[**Code**]](https://github.com/AaronLiu0702/MAPD)
-[[**HuggingFace**]](https://huggingface.co/papers/2607.24280)
+[Paper](https://arxiv.org/abs/2607.24280){:.btn-link .btn-paper}
+[Code](https://github.com/AaronLiu0702/MAPD){:.btn-link .btn-code}
+[<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.24280){:.btn-link .btn-hf}
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
 [![Citations](https://img.shields.io/badge/Citations-4-EBB215)](https://arxiv.org/abs/2607.24280)
   </div>
