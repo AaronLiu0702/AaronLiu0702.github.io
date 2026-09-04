@@ -159,7 +159,7 @@
   [Code](https://github.com/meituan-longcat/AMO-Bench){:.btn-link .btn-code}
   [ProjectPage](https://amo-bench.github.io/){:.btn-link .btn-home}
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/AMO-Bench){:.btn-link .btn-hf}
-  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amobench">BIB</a>
+  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
 [![Citations](https://img.shields.io/badge/Citations-40-EBB215)](https://arxiv.org/abs/2510.26768)
   </div>
