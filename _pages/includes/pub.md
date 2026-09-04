@@ -161,7 +161,7 @@
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/AMO-Bench){:.btn-link .btn-hf}
   <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
-[![Citations](https://img.shields.io/badge/Citations-40-EBB215)](https://arxiv.org/abs/2510.26768)
+[![Citations](https://img.shields.io/badge/Citations-41-EBB215)](https://arxiv.org/abs/2510.26768)
   </div>
 </div>
 
@@ -258,7 +258,7 @@
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.24280){:.btn-link .btn-hf}
 <a href="#" class="btn-link btn-bib" data-bib-key="liu2026proprietary">BIB</a>
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
-[![Citations](https://img.shields.io/badge/Citations-4-EBB215)](https://arxiv.org/abs/2607.24280)
+[![Citations](https://img.shields.io/badge/Citations-5-EBB215)](https://arxiv.org/abs/2607.24280)
   </div>
 </div>
 
