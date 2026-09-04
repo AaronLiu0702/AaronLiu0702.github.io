@@ -18,7 +18,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 
 
-💬 If you are interested in collaborating with me, please feel free to add me on [**WeChat**](../../images/wx.png).
+💬 If you are interested in collaborating with me, please feel free to add me on **WeChat: AaronLiu0702**.
 
 <style>
 .entity-mention {
