@@ -204,6 +204,33 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         AAAI 2027 (Under Review)
       </div>
+      <a href="https://arxiv.org/abs/2607.28026"><img src='images/CRPO.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Contrastive Reinforced Policy Optimization via Privileged Self-Distillation.**  
+  
+  🧑‍💻 Xingjian Wu*, <ins>**Junlin Liu***</ins>, Xingchen Liu, Xuhang Zhu, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Agentic RL</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
+    <span class="paper-topic">Contrastive Policy Optimization</span>
+  </div>
+[Paper](https://arxiv.org/abs/2607.28026){:.btn-link .btn-paper}
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
       <a href="https://arxiv.org/abs/2607.24280"><img src='images/MAPD.png' alt="sym" width="100%"></a>
     </div>
   </div>
@@ -256,8 +283,8 @@
     <span class="paper-topic">Skill and Rubric Learning</span>
   </div>
 
-[[**Paper**]](https://arxiv.org/abs/2607.25675) 
-[[**HuggingFace**]](https://huggingface.co/papers/2607.25675)
+[Paper](https://arxiv.org/abs/2607.25675){:.btn-link .btn-paper}
+[<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.25675){:.btn-link .btn-hf}
 [![Citations](https://img.shields.io/badge/Citations-2-EBB215)](https://arxiv.org/abs/2607.25675)
   </div>
 </div>
@@ -289,32 +316,6 @@
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        AAAI 2027 (Under Review)
-      </div>
-      <a href="https://arxiv.org/abs/2607.28026"><img src='images/CRPO.png' alt="sym" width="100%"></a>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> Contrastive Reinforced Policy Optimization via Privileged Self-Distillation.**  
-  
-  🧑‍💻 Xingjian Wu*, <ins>**Junlin Liu***</ins>, Xingchen Liu, Xuhang Zhu, Jianing Wang, Linsen Guo, Xiaoyu Li, <br>Xuezhi Cao, Xunliang Cai.
-  <br>
-  <div class="paper-topics">
-    <span class="paper-topic">Agentic RL</span>
-    <span class="paper-topic">On-Policy Self-Distillation</span>
-    <span class="paper-topic">Contrastive Policy Optimization</span>
-  </div>
-[[**Paper**]](https://arxiv.org/abs/2607.28026)
-
-  </div>
-</div>
-
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -336,8 +337,8 @@
     <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Adaptive Weighting</span>
   </div>
-[[**Paper**]](https://arxiv.org/abs/2608.01837)
-[[**HuggingFace**]](https://huggingface.co/papers/2608.01837)
+[Paper](https://arxiv.org/abs/2608.01837){:.btn-link .btn-paper}
+[<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2608.01837){:.btn-link .btn-hf}
   </div>
 </div>
 
