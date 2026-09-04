@@ -44,10 +44,59 @@
     transform: translateY(-1px);
   }
 
-  .btn-link { display: inline-block; padding: 2px 9px; font-size: 0.85em;
-              font-weight: 600; border-radius: 4px; text-decoration: none !important; ... }
-  .btn-paper { background: #E8F0FE; color: #1A73E8; }   /* 每种按钮一组底色+文字色 */
-  .btn-link img { height: 1.05em; vertical-align: -0.15em; margin-right: 4px; ... }
+ /* ===== 链接按钮基础样式 ===== */
+  .btn-link {
+      display: inline-block;
+      padding: 2px 9px;
+      margin-right: 2px;
+      font-size: 0.85em;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      line-height: 1.55;
+      border-radius: 4px;
+      border-bottom: 0 !important;
+      text-decoration: none !important;
+      transition: filter 0.15s ease;
+  }
+
+  .btn-link:hover,
+  .btn-link:focus {
+      border-bottom: 0 !important;
+      text-decoration: none !important;
+      filter: brightness(0.94);        /* hover 时轻微变暗 */
+  }
+
+  /* 关键：抵消 minimal-mistakes 主题给正文链接加的下划线/阴影 */
+  .page__content .btn-link,
+  .page__content .btn-link:hover,
+  .page__content .btn-link:focus,
+  .paper-box .btn-link,
+  .paper-box .btn-link:hover,
+  .paper-box .btn-link:focus {
+      border-bottom: 0 !important;
+      box-shadow: none !important;
+      text-decoration: none !important;
+  }
+
+  /* ===== 各类型按钮配色（底色 + 文字色）===== */
+  .btn-paper, .btn-paper:hover { background: #E8F0FE; color: #1A73E8; }
+  .btn-code,  .btn-code:hover  { background: #E8EAED; color: #3C4043; }
+  .btn-home,  .btn-home:hover  { background: #EDE7F6; color: #7B61C9; }
+  .btn-hf,    .btn-hf:hover    { background: #FEEFE3; color: #B06000; }
+  .btn-bib,   .btn-bib:hover   { background: #E8EAF6; color: #3F51B5; cursor: pointer; }
+
+  /* ===== 按钮内嵌图标（HF logo）===== */
+  .btn-link img {
+      height: 1.05em;
+      width: auto;
+      vertical-align: -0.15em;
+      margin-right: 4px;
+      box-shadow: none;
+  }
+
+  .btn-link img:only-child {
+      margin-right: 0;                 /* 图标后没文字时不留空隙 */
+  }
   </style>
 
 # 🔥 News
