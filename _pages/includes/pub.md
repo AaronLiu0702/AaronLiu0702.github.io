@@ -220,7 +220,7 @@
     <span class="paper-topic">Contrastive Policy Optimization</span>
   </div>
 [Paper](https://arxiv.org/abs/2607.28026){:.btn-link .btn-paper}
-
+<a href="#" class="btn-link btn-bib" data-bib-key="wu2026contrastive">BIB</a>
   </div>
 </div>
 
@@ -256,6 +256,7 @@
 [Paper](https://arxiv.org/abs/2607.24280){:.btn-link .btn-paper}
 [Code](https://github.com/AaronLiu0702/MAPD){:.btn-link .btn-code}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.24280){:.btn-link .btn-hf}
+<a href="#" class="btn-link btn-bib" data-bib-key="liu2026proprietary">BIB</a>
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
 [![Citations](https://img.shields.io/badge/Citations-4-EBB215)](https://arxiv.org/abs/2607.24280)
   </div>
@@ -286,6 +287,7 @@
 
 [Paper](https://arxiv.org/abs/2607.25675){:.btn-link .btn-paper}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.25675){:.btn-link .btn-hf}
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026decoevo">BIB</a>
 [![Citations](https://img.shields.io/badge/Citations-2-EBB215)](https://arxiv.org/abs/2607.25675)
   </div>
 </div>
@@ -340,6 +342,7 @@
   </div>
 [Paper](https://arxiv.org/abs/2608.01837){:.btn-link .btn-paper}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2608.01837){:.btn-link .btn-hf}
+<a href="#" class="btn-link btn-bib" data-bib-key="lv2026pcsd">BIB</a>
   </div>
 </div>
 
@@ -367,6 +370,7 @@
   </div>
 [Paper](https://arxiv.org/abs/2607.28037){:.btn-link .btn-paper}
 [ProjectPage](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/){:.btn-link .btn-home}
+<a href="#" class="btn-link btn-bib" data-bib-key="wu2026clawtrack">BIB</a>
   </div>
 </div>
 
@@ -396,6 +400,7 @@
 [Code](https://github.com/Rubric4Setwise/Rubric4Setwise){:.btn-link .btn-code}
 [ProjectPage](https://rubric4setwise.github.io/){:.btn-link .btn-home}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/collections/placeholder){:.btn-link .btn-hf}
+<a href="#" class="btn-link btn-bib" data-bib-key="jiang2026beyond">BIB</a>
 [![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
 [![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.19747)
   </div>
@@ -424,6 +429,7 @@
   </div>
 [Paper](https://arxiv.org/abs/2608.12996){:.btn-link .btn-paper}
 [Code](https://github.com/daxtar2/ATOBench){:.btn-link .btn-code}
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026atobench">BIB</a>
   </div>
 </div>
 
@@ -474,6 +480,7 @@
   </div>
 [Paper](https://arxiv.org/abs/2607.14327){:.btn-link .btn-paper}
 [Code](){:.btn-link .btn-code}
+<a href="#" class="btn-link btn-bib" data-bib-key="yu2026prem">BIB</a>
   </div>
 </div>
 
@@ -528,6 +535,8 @@
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
   </div>
+  [Paper](https://arxiv.org/abs/2605.25091){:.btn-link .btn-paper}
+  <a href="#" class="btn-link btn-bib" data-bib-key="li2026evolutionary">BIB</a>
   </div>
 </div>
 
