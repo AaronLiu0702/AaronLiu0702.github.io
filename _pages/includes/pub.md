@@ -191,7 +191,7 @@
 [Code](https://github.com/meituan-longcat/General365){:.btn-link .btn-code}
 [ProjectPage](https://general365.github.io/){:.btn-link .btn-home}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/General365_Public){:.btn-link .btn-hf}
-<a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo">BIB</a>
+<a href="#" class="btn-link btn-bib" data-bib-key="liu2026general365">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
 [![Citations](https://img.shields.io/badge/Citations-6-EBB215)](https://arxiv.org/abs/2604.11778)
   </div>
