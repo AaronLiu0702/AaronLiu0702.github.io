@@ -2,12 +2,14 @@
 # 👋 About me
 Hi! I'm Junlin Liu, a graduate student majoring in Artificial Intelligence at **<a href="http://www.ia.cas.cn/"><span class="entity-mention" style="--entity-color: #0059e6"><img class="entity-logo" src="../images/casia.svg" alt="">Institute of Automation Chinese Academy of Sciences (CASIA)</span></a>** and **<a href="https://www.ucas.ac.cn/"><span class="entity-mention" style="--entity-color: #00479d"><img class="entity-logo" src="../images/ucas.svg" alt="">University of Chinese Academy of Sciences (UCAS)</span></a>**.
 
-I’m currently a research intern focusing on Agentic RL and Agent Self-Evolution at [**<img src="../images/icon/tencent.svg" alt="icon" style="height:22px; vertical-align:middle;">Tencent WXG WeLM Team**](https://welm.weixin.qq.com/). Previously, I held research intern positions at **<a href="https://github.com/Qwen-Applications"><span class="entity-mention" style="--entity-color: #8375f5"><img class="entity-logo" src="../images/qwen.svg" alt="">Alibaba Qwen MOS Lab</span></a>**, **<a href="https://github.com/meituan-longcat"><span class="entity-mention" style="--entity-color: #16A34A"><img class="entity-logo" src="../images/longcat.svg" alt="">Meituan LongCat Team</span></a>** and **<a href="https://github.com/ernie-research"><span class="entity-mention" style="--entity-color: #0d59c8"><img class="entity-logo" src="../images/wenxin.svg" alt="">Baidu Ernie Team</span></a>**. 
+I’m currently a research intern focusing on Agentic RL and Agent Self-Evolution at **<a href="https://welm.weixin.qq.com/"><span class="entity-mention" style="--entity-color: 136, 224, 71"><img class="entity-logo" src="../images/icon/WeChat.png" alt="">Tencent WeLM Team</span></a>**. Previously, I held research intern positions at **<a href="https://github.com/Qwen-Applications"><span class="entity-mention" style="--entity-color: #8375f5"><img class="entity-logo" src="../images/qwen.svg" alt="">Alibaba Qwen MOS Lab</span></a>**, **<a href="https://github.com/meituan-longcat"><span class="entity-mention" style="--entity-color: #16A34A"><img class="entity-logo" src="../images/longcat.svg" alt="">Meituan LongCat Team</span></a>** and **<a href="https://github.com/ernie-research"><span class="entity-mention" style="--entity-color: #0d59c8"><img class="entity-logo" src="../images/wenxin.svg" alt="">Baidu Ernie Team</span></a>**. 
+
 
 
 <!-- 
 My research interests include Reinforcement Learning, Large Language Models and Multi-Agent Cooperation and Games. I am particularly interested in evaluating and improving the reasoning capabilities of foundation models, with a focus on challenging mathematical and general reasoning. 
 
+[**<img src="../images/icon/tencent.svg" alt="icon" style="height:22px; vertical-align:middle;">Tencent WXG WeLM Team**](https://welm.weixin.qq.com/)
 **<a href="https://github.com/Open-X-Humanoid"><span class="entity-mention" style="--entity-color: #0066ff"><img class="entity-logo" src="../images/x-humanoid.svg" alt="">X-Humanoid LLM Team</span></a>**
 -->
 
