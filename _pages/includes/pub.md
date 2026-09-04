@@ -97,27 +97,28 @@
   .btn-link img:only-child {
       margin-right: 0;                 /* 图标后没文字时不留空隙 */
   }
+
+  /* BIB 悬停弹窗 */
+  .bib-tooltip {
+      position: absolute;
+      z-index: 1000;
+      display: none;
+      max-width: 520px;
+      padding: 10px 14px;
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 6px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+      font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      font-size: 0.78em;
+      line-height: 1.5;
+      color: #333;
+      white-space: pre-wrap;
+      pointer-events: none;
+  }
   </style>
 
 # 🔥 News
-<!--
-<style>
-/* News section scroll window styles (scoped) */
-.news .scroll-window { max-height: 640px; overflow-y: auto; padding: 8px 6px; border: 1px solid #eaeaea; border-radius: 12px; background: #fff; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 14px rgba(0,0,0,0.04); }
-.news .scroll-window::-webkit-scrollbar { width: 8px; }
-.news .scroll-window::-webkit-scrollbar-thumb { background: #ddd; border-radius: 4px; }
-</style>
-
-<div class="news" markdown="1">
-  <div class="scroll-window" markdown="1">
-  - **2026.04**: &nbsp;🧩🧩 We released <a href="https://general365.github.io/"><strong>General365</strong></a>, advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
-  - **2026.04**: &nbsp;🎉🎉 One paper has been accepted by <strong style="color: red;">ACL 2026</strong>! <a href="https://amo-bench.github.io/"><strong>AMO-Bench</strong></a>!
-  - **2026.03**: &nbsp;✈️✈️ One paper has been accepted by <strong style="color: red;">IJCNN 2026</strong>! <strong>ACE-MAPPO</strong>!
-  - **2025.10**: &nbsp;📐📐 We released <a href="https://amo-bench.github.io/"><strong>AMO-Bench</strong></a>, a comprehensive benchmark for pushing the boundaries of mathematical reasoning in LLMs.
-  - **2025.06**: &nbsp;🎉🎉 I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong style="color: red;">1<sup>st</sup>/198</strong> in overall GPA for three years (2022–2025)! 🌟🌟<a href="https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w"><strong>Student Spotlight</strong></a>🌟🌟
-  </div>
-</div>
--->
 
 - **2026.08:**  🎉🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**!
 - **2026.07:**  ✈️✈️  I was honored to be invited to participate in the **<span style="color:red">Qingyun|UBIQuent|Apex Intelligence Talent Dinner</span>** at ICML 2026!
