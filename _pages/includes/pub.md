@@ -43,6 +43,11 @@
     text-decoration: none !important;
     transform: translateY(-1px);
   }
+
+  .btn-link { display: inline-block; padding: 2px 9px; font-size: 0.85em;
+              font-weight: 600; border-radius: 4px; text-decoration: none !important; ... }
+  .btn-paper { background: #E8F0FE; color: #1A73E8; }   /* 每种按钮一组底色+文字色 */
+  .btn-link img { height: 1.05em; vertical-align: -0.15em; margin-right: 4px; ... }
   </style>
 
 # 🔥 News
