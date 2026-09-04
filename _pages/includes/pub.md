@@ -159,6 +159,7 @@
   [Code](https://github.com/meituan-longcat/AMO-Bench){:.btn-link .btn-code}
   [ProjectPage](https://amo-bench.github.io/){:.btn-link .btn-home}
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/AMO-Bench){:.btn-link .btn-hf}
+  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amobench">BIB</a>
 
 [[**Paper**]](https://aclanthology.org/2026.findings-acl.101.pdf) [[**Code**]](https://github.com/meituan-longcat/AMO-Bench)
 [[**ProjectPage**]](https://amo-bench.github.io/) [[**HuggingFace**]](https://huggingface.co/datasets/meituan-longcat/AMO-Bench)
