@@ -19,6 +19,38 @@ My research interests include Reinforcement Learning, Large Language Models and 
 💬 If you are interested in collaborating with me, please feel free to add me on [**WeChat**](../../images/wx.png).
 
 <style>
+.entity-mention {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      color: var(--entity-color);                                    /* 文字用品牌色 */
+      background: color-mix(in srgb, var(--entity-color) 8%, transparent);  /* 8% 同色底 */
+      border-radius: 4px;
+      padding: 1px 6px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;                                   /* 跨行换行时每段都保持 pill 样式 */
+  }
+
+  .entity-logo {
+      width: 1em; height: 1em;
+      object-fit: contain;
+      box-shadow: none !important;                                   /* 抵消主题默认的 img 阴影 */
+  }
+
+  .entity-mention:hover {
+      background: color-mix(in srgb, var(--entity-color) 13%, transparent);
+      box-shadow:
+          0 0 8px  color-mix(in srgb, var(--entity-color) 45%, transparent),
+          0 0 16px color-mix(in srgb, var(--entity-color) 22%, transparent);  /* 双层发光 */
+  }
+
+  a:has(> .entity-mention),
+  a:has(> .entity-mention):hover {
+      text-decoration: none;                                          /* 去掉主题的链接下划线 */
+      border-bottom: none;
+  }
+
+  
 .activities-scroll {
   max-height: 320px; overflow-y: auto; padding: 8px 6px;
   border: 1px solid #eaeaea; border-radius: 12px; background: #fff;
