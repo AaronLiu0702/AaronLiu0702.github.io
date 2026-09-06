@@ -9,12 +9,12 @@
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
 
 - **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
-  - Research Intern on Mathematical & General Reasoning of Large Language Models.
+  - Research Intern on Mathematical & General Reasoning of LLMs.
   - Mentor: [**Shengnan An**](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [**Xuezhi Cao**](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ), [**Xunliang Cai**](https://scholar.google.com/citations?hl=zh-EN&user=ZEAfy1QAAAAJ).
  
 
 - **2025.07 - 2025.09｜ <img src="../images/baidu.png" alt="icon" style="height:20px; vertical-align:middle;">    Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
-  - Research Intern on Multimodal Evaluation & Post-training Data Engineering of Large Language Models.
+  - Research Intern on Multimodal Evaluation & Post-training Data Engineering of LLMs.
   - Mentor: Dr.Xin Wang.
 
 <!--
