@@ -491,7 +491,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ICONIP 2026 (CCF-C)
+        ICONIP 2026
       </div>
       <a href=""><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
@@ -521,7 +521,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        IJCNN 2026 (CCF-C)
+        IJCNN 2026
       </div>
       <a href="https://arxiv.org/abs/2605.25091"><img src='images/ACE-MAPPO.png' alt="sym" width="100%"></a>
     </div>
