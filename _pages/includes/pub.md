@@ -493,7 +493,7 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ICONIP 2026
       </div>
-      <a href=""><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
+      <a href="https://arxiv.org/abs/2609.11155"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
