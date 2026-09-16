@@ -511,7 +511,7 @@
   </div>
   [Paper](https://arxiv.org/abs/2609.11155){:.btn-link .btn-paper}
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2609.11155){:.btn-link .btn-hf}
-  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo">BIB</a>
+  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026drg">BIB</a>
   </div>
 </div>
 
