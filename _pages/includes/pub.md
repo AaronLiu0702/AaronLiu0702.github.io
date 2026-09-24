@@ -319,6 +319,36 @@
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        ICLR 2027 (Under Review)
+      </div>
+      <a href="https://arxiv.org/abs/2607.25675"><img src='images/paper_overview/Onepred.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> OnePred: Next-Query Prediction via Recursive Intent Memory in Multi-Turn Conversations.**  
+  
+  🧑‍💻 Jiangwang Chen\*, Bowen Zhang\*, Zixin Song\*, Jiazheng Kang, <ins>**Junlin Liu**\*</ins>, Xiao Yang, Da Zhu, Guanjun Jiang.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">LLM Agents</span>
+    <span class="paper-topic">Self-Evolving Agent</span>
+    <span class="paper-topic">Skill and Rubric Learning</span>
+  </div>
+
+[Paper](https://arxiv.org/abs/2605.23668){:.btn-link .btn-paper}
+[Code](https://github.com/ZBWpro/OnePred){:.btn-link .btn-code}
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026decoevo">BIB</a>
+[![Citations](https://img.shields.io/badge/Citations-2-EBB215)](https://arxiv.org/abs/2607.25675)
+  </div>
+</div>
+
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
