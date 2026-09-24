@@ -99,6 +99,14 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+    <!-- ① 单张图卡片 -->
+    <div class="activities-item">
+      <img src="../images/activities/bilibili2609.jpg" alt="bilibili2609">
+      <p>
+        <a href="https://jobs.bilibili.com/campus/bup?isTrusted=true" target="_blank">B站"B-UP"人才计划交流会</a>
+        (北京·2026.09)
+      </p>
+    </div>
    <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
       <div class="slide-view" data-count="3" style="--n:3;">
