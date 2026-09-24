@@ -342,8 +342,8 @@
 
 [Paper](https://arxiv.org/abs/2605.23668){:.btn-link .btn-paper}
 [Code](https://github.com/ZBWpro/OnePred){:.btn-link .btn-code}
-<a href="#" class="btn-link btn-bib" data-bib-key="chen2026decoevo">BIB</a>
-[![Citations](https://img.shields.io/badge/Citations-2-EBB215)](https://arxiv.org/abs/2607.25675)
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026onepred">BIB</a>
+[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2605.23668)
   </div>
 </div>
 
