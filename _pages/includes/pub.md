@@ -335,9 +335,8 @@
   🧑‍💻 Jiangwang Chen\*, Bowen Zhang\*, Zixin Song\*, Jiazheng Kang, <ins>**Junlin Liu**\*</ins>, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
   <div class="paper-topics">
-    <span class="paper-topic">LLM Agents</span>
-    <span class="paper-topic">Self-Evolving Agent</span>
-    <span class="paper-topic">Skill and Rubric Learning</span>
+    <span class="paper-topic">Agent Memory</span>
+    <span class="paper-topic">Next-Query Prediction</span>
   </div>
 
 [Paper](https://arxiv.org/abs/2605.23668){:.btn-link .btn-paper}
