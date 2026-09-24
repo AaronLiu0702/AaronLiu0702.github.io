@@ -103,7 +103,7 @@ My research interests include Reinforcement Learning, Large Language Models and 
     <div class="activities-item">
       <img src="../images/activities/bilibili2609.jpg" alt="bilibili2609">
       <p>
-        <a href="https://jobs.bilibili.com/campus/bup?isTrusted=true" target="_blank">B站"B-UP"人才计划交流会</a>
+        <a href="https://jobs.bilibili.com/campus/bup?isTrusted=true" target="_blank">"B-UP"人才计划-B站</a>
         (北京·2026.09)
       </p>
     </div>
