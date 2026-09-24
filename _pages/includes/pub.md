@@ -332,7 +332,7 @@
   
   **<img src="../images/qwen.svg" alt="icon" style="height:22px; vertical-align:middle;"> OnePred: Next-Query Prediction via Recursive Intent Memory in Multi-Turn Conversations.**  
   
-  🧑‍💻 Jiangwang Chen\*, Bowen Zhang\*, Zixin Song\*, Jiazheng Kang, <ins>**Junlin Liu**\*</ins>, Xiao Yang, Da Zhu, Guanjun Jiang.
+  🧑‍💻 Jiangwang Chen\*, Bowen Zhang\*, Zixin Song\*, Jiazheng Kang, <ins>**Junlin Liu**</ins>, Xiao Yang, Da Zhu, Guanjun Jiang.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Agent Memory</span>
