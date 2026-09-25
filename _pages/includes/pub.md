@@ -353,7 +353,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        AAAI 2027 (Under Review)
+        ICLR 2027 (Under Review)
       </div>
       <a href="https://arxiv.org/abs/2608.01837"><img src='images/paper_overview/PCSD.png' alt="sym" width="100%"></a>
     </div>
@@ -402,6 +402,34 @@
 <a href="#" class="btn-link btn-bib" data-bib-key="wu2026clawtrack">BIB</a>
   </div>
 </div>
+
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        ICLR 2027 (Under Review)
+      </div>
+      <a href=""><img src='images/paper_overview/CreativeBench.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> CreativeBench2.0: Benchmarking Creative Method Discovery and Foresight Toward Recursive Self-Improvement.**  
+  
+  🧑‍💻 Zihan Wang, Chenxu Zhang, Linji Hao, Zhengzhou Cai, Jinyang Wu, Zhiyuan Yao, Zhengxi Lu, Chengcheng Han, Yueqing Sun, Huichi Zhou, <ins>**Junlin Liu**</ins>, Xierui SONG, Yujiu Yang.
+  <br>
+    <div class="paper-topics">
+      <span class="paper-topic">Agent Evaluation</span>
+      <span class="paper-topic">Recursive Self-Improvement</span>
+      <span class="paper-topic">Real-World interaction</span>
+    </div>
+  </div>
+</div>
+
+
 
 
 
