@@ -422,11 +422,11 @@
   
   🧑‍💻 Zihan Wang, Chenxu Zhang, Linji Hao, Zhengzhou Cai, Jinyang Wu, Zhiyuan Yao, Zhengxi Lu, Chengcheng Han, Yueqing Sun, Huichi Zhou, <ins>**Junlin Liu**</ins>, Xierui SONG, Yujiu Yang.
   <br>
-    <div class="paper-topics">
-      <span class="paper-topic">Agent Evaluation</span>
-      <span class="paper-topic">Recursive Self-Improvement</span>
-      <span class="paper-topic">Real-World interaction</span>
-    </div>
+  <div class="paper-topics">
+    <span class="paper-topic">Agent Evaluation</span>
+    <span class="paper-topic">Recursive Self-Improvement</span>
+    <span class="paper-topic">Real-World interaction</span>
+  </div>
   </div>
 </div>
 
