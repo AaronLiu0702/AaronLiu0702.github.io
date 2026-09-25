@@ -221,6 +221,7 @@
   </div>
 [Paper](https://arxiv.org/abs/2607.28026){:.btn-link .btn-paper}
 <a href="#" class="btn-link btn-bib" data-bib-key="wu2026contrastive">BIB</a>
+[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.28026)
   </div>
 </div>
 
