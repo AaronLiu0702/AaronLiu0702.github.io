@@ -552,7 +552,7 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ICLR 2027 (Under Review)
       </div>
-      <a href=""><img src='images/LRR.png' alt="sym" width="100%"></a>
+      <a href=""><img src='images/paper_overview/LRR.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
