@@ -562,8 +562,8 @@
   🧑‍💻 Yuxuan Liang, Xu Li, Haotian Chen, Xiaolei Chen, Zhe Liu, Yuchuan Wu, Rui Zhu, Bohan Zhang, Wenjuan Meng, <ins>**Junlin Liu**</ins>, Haiyang Yu, Fan Shi, Xiangyang Xue.
   <br>
   <div class="paper-topics">
-    <span class="paper-topic">Latent Reasoning</span>
-    <span class="paper-topic">VLM Self-Distillation</span>
+    <span class="paper-topic">Latent Space Reasoning</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Rule Induction & Execution</span>
   </div>
   </div>
