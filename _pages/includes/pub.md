@@ -171,7 +171,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        EMNLP 2026 (Under Review)
+        AAAI 2027 (Under Review)
       </div>
       <a href="https://general365.github.io/"><img src='images/General365.png' alt="sym" width="100%"></a>
     </div>
@@ -438,7 +438,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        AAAI 2027 (Under Review)
+        ICLR 2027 (Under Review)
       </div>
       <a href="https://arxiv.org/pdf/2607.19747"><img src='images/paper_overview/Rubric_set.png' alt="sym" width="100%"></a>
     </div>
