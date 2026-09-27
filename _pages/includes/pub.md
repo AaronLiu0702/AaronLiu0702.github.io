@@ -492,29 +492,6 @@
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        AAAI 2027 (Under Review)
-      </div>
-      <img src='images/paper_overview/HalluAgent.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
-  
-  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, <br>Bailin Liang, Ruibo Duan.
-  <br>
-  <div class="paper-topics">
-    <span class="paper-topic">Multi-modal Agents</span>
-    <span class="paper-topic">Agent Hallucination</span>
-    <span class="paper-topic">Tool-Use</span>
-  </div>
-  </div>
-</div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -542,6 +519,55 @@
   </div>
 </div>
 
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        AAAI 2027 (Under Review)
+      </div>
+      <img src='images/paper_overview/HalluAgent.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
+  
+  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, <br>Bailin Liang, Ruibo Duan.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Multi-modal Agents</span>
+    <span class="paper-topic">Agent Hallucination</span>
+    <span class="paper-topic">Tool-Use</span>
+  </div>
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        ICLR 2027 (Under Review)
+      </div>
+      <a href="https://arxiv.org/abs/2607.14327"><img src='images/LRR.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> Latent Rule Reasoning.**  
+  
+  🧑‍💻 Yuxuan Liang, Xu Li, Haotian Chen, Xiaolei Chen, Zhe Liu, Yuchuan Wu, Rui Zhu, Bohan Zhang, Wenjuan Meng, <ins>**Junlin Liu**</ins>, Haiyang Yu, Fan Shi, Xiangyang Xue.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Long-Context LLM</span>
+    <span class="paper-topic">Context Compression</span>
+    <span class="paper-topic">LLM Memory</span>
+  </div>
+  </div>
+</div>
 
 
 
