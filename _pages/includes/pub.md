@@ -552,19 +552,19 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ICLR 2027 (Under Review)
       </div>
-      <a href="https://arxiv.org/abs/2607.14327"><img src='images/LRR.png' alt="sym" width="100%"></a>
+      <a href=""><img src='images/LRR.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/icon/bytedance.svg" alt="icon" style="height:30px; vertical-align:middle;"> Latent Rule Reasoning.**  
+  **<img src="../images/icon/bytedance.svg" alt="icon" style="height:22px; vertical-align:middle;"> Latent Rule Reasoning.**  
   
   🧑‍💻 Yuxuan Liang, Xu Li, Haotian Chen, Xiaolei Chen, Zhe Liu, Yuchuan Wu, Rui Zhu, Bohan Zhang, Wenjuan Meng, <ins>**Junlin Liu**</ins>, Haiyang Yu, Fan Shi, Xiangyang Xue.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Latent Reasoning</span>
-    <span class="paper-topic">Context Compression</span>
-    <span class="paper-topic">LLM Memory</span>
+    <span class="paper-topic">VLM Self-Distillation</span>
+    <span class="paper-topic">Rule Induction & Execution</span>
   </div>
   </div>
 </div>
