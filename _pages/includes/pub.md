@@ -557,12 +557,12 @@
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> Latent Rule Reasoning.**  
+  **<img src="../images/icon/bytedance.svg" alt="icon" style="height:30px; vertical-align:middle;"> Latent Rule Reasoning.**  
   
   🧑‍💻 Yuxuan Liang, Xu Li, Haotian Chen, Xiaolei Chen, Zhe Liu, Yuchuan Wu, Rui Zhu, Bohan Zhang, Wenjuan Meng, <ins>**Junlin Liu**</ins>, Haiyang Yu, Fan Shi, Xiangyang Xue.
   <br>
   <div class="paper-topics">
-    <span class="paper-topic">Long-Context LLM</span>
+    <span class="paper-topic">Latent Reasoning</span>
     <span class="paper-topic">Context Compression</span>
     <span class="paper-topic">LLM Memory</span>
   </div>
