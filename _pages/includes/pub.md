@@ -361,7 +361,7 @@
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning.**  
+  **<img src="../images/meituan.svg" alt="icon" style="height:25px; vertical-align:middle;"> PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning.**  
   
   🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Yang Gao, Ming Liu, Xinming Wang, Jinyang Wu, <br>Guoren Wang, Changsheng Li.
   <br>
@@ -568,6 +568,34 @@
   </div>
   </div>
 </div>
+
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        ICLR 2027 (Under Review)
+      </div>
+      <a href=""><img src='images/paper_overview/SAW.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/icon/meituan.svg" alt="icon" style="height:22px; vertical-align:middle;"> SAW: Sink-Aware Weighting for Effective Video Reasoning.**  
+  
+  🧑‍💻 Gengyuan Liu, Shaoxiang Chen, Qinwen Wu, Jiajun Dong, Zhenhao Wang, Hong Wang, Haiyang Xin, Junxuan Du, <ins>**Junlin Liu**</ins>, jixv, Jiacong Wang.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">Latent Reasoning</span>
+    <span class="paper-topic">VLM Self-Distillation</span>
+    <span class="paper-topic">Rule Induction & Execution</span>
+  </div>
+  </div>
+</div>
+
+
 
 
 
