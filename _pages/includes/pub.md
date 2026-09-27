@@ -583,14 +583,14 @@
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/icon/meituan.svg" alt="icon" style="height:22px; vertical-align:middle;"> SAW: Sink-Aware Weighting for Effective Video Reasoning.**  
+  **<img src="../images/icon/meituan.svg" alt="icon" style="height:25px; vertical-align:middle;"> SAW: Sink-Aware Weighting for Effective Video Reasoning.**  
   
   🧑‍💻 Gengyuan Liu, Shaoxiang Chen, Qinwen Wu, Jiajun Dong, Zhenhao Wang, Hong Wang, Haiyang Xin, Junxuan Du, <ins>**Junlin Liu**</ins>, jixv, Jiacong Wang.
   <br>
   <div class="paper-topics">
-    <span class="paper-topic">Latent Reasoning</span>
-    <span class="paper-topic">VLM Self-Distillation</span>
-    <span class="paper-topic">Rule Induction & Execution</span>
+    <span class="paper-topic">Video Reasoning</span>
+    <span class="paper-topic">Multimodal RL</span>
+    <span class="paper-topic">Adaptive Reweighting</span>
   </div>
   </div>
 </div>
