@@ -361,7 +361,7 @@
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/meituan.svg" alt="icon" style="height:25px; vertical-align:middle;"> PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning.**  
+  **<img src="../images/icon/meituan.svg" alt="icon" style="height:25px; vertical-align:middle;"> PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning.**  
   
   🧑‍💻 Chunji Lv\*, Yangguang Wei\*, <ins>**Junlin Liu**\*</ins>, Yang Gao, Ming Liu, Xinming Wang, Jinyang Wu, <br>Guoren Wang, Changsheng Li.
   <br>
