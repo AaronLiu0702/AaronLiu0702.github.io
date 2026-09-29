@@ -6,6 +6,11 @@
   - Research Intern on Agentic RL & MLLM Agent.
 -->
 
+- **2026.09 – Present｜ <img src="../images/icon/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    AntGroup, <img src="../images/icon/bailing.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team.**
+  - Research Intern on DeepResearch Agents & LLM Post-training.
+  - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**XingYu Lu**](https://openreview.net/profile?id=~Yuan_Shen10).
+
+
 - **2026.04 – 2026.08｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
   - Research Intern on Search Agents & LLM Post-training.
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
