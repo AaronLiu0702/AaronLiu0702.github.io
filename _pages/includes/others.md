@@ -6,7 +6,7 @@
   - Research Intern on Agentic RL & MLLM Agent.
 -->
 
-- **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team.**
+- **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team. <span style="color:red">(Ant-Star Plan-A Program)</span>**
   - Research Intern on DeepResearch Agents & LLM Post-training.
   - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?hl=en&user=jhvR-JIAAAAJ), [**XingYu Lu**](https://scholar.google.com.hk/citations?hl=en&user=Dq9kHGwAAAAJ).
 
