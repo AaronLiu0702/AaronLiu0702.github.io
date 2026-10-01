@@ -123,7 +123,7 @@
     padding: 10px 16px;
     border: 1px solid #eaeaea;
     border-radius: 12px;
-    background: #fff;
+    background: #f9f9f9;
     box-shadow: ...;
     scrollbar-width: thin;  /* Firefox 适配 */
   }
