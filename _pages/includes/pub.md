@@ -161,6 +161,7 @@
 
 - **2026.04 – 2026.08｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
   - Research Intern on Search Agents & LLM Post-training.
+  - I worked on agentic LLM post-training, developing [MAPD](https://arxiv.org/pdf/2607.24280) for on-policy multi-agent distillation in agentic search, [DecoEvo](https://arxiv.org/pdf/2607.25675) for co-evolution of solver and rubric-generator skills, and HarnessOpt for long-horizon harness self-improvement.
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
 
 - **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
