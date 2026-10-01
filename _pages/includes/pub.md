@@ -116,19 +116,34 @@
       white-space: pre-wrap;
       pointer-events: none;
   }
+
+  .news-scroll {
+    max-height: 240px;      /* 盒子高度，超出部分滚动 */
+    overflow-y: auto;
+    padding: 10px 16px;
+    border: 1px solid #eaeaea;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: ...;
+    scrollbar-width: thin;  /* Firefox 适配 */
+  }
   </style>
 
 # 🔥 News
-- **2026.09:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2105335205741596911) (560B-A25B) is coming soon! So proud to have contributed to it! [Blog](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c312e7e0cca394ab48cf5b24749ec31cacc004506a72e6d48ef6950858102b49129831ccce6a&scene=126&sessionid=0&clicktime=1790771516&enterid=1790771516#rd){:.btn-link .btn-blog}
-- **2026.09:**  🥂  Invited to Bilibili "B-UP" Talent Program Networking Event!
-- **2026.08:**  🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
-- **2026.07:**  ✈️  I was honored to be invited to participate in the **<span style="color:red">Qingyun|UBIQuent|Apex Intelligence Talent Dinner</span>** at ICML 2026!
-- **2026.05:**  ✈️  I was honored to be invited to participate in the "AI Talent Corner" at VALSE 2026!
-- **2026.04:**  🧩  We released [**General365**](https://general365.github.io/), advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
-- **2026.04:**  🎉  One paper has been accepted by **<span style="color:red">ACL 2026</span>**! [**AMO-Bench**](https://amo-bench.github.io/)！See you in San Diego 🇺🇸!
-- **2026.03:**  🎉  One paper has been accepted by **<span style="color:red">IJCNN 2026</span>**! [**ACE-MAPPO**](https://arxiv.org/abs/2605.25091v1)！See you in Maastricht 🇳🇱!
-- **2026.03:**  ✈️  I was honored to be invited to participate in the **<span style="color:red">Tencent QingYun Talent Program</span>**! “Stars of the Future”
-- **2025.06:**  🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong style="color: red;">1<sup>st</sup>/198</strong> in overall GPA for three years (2022-2025) !  🌟🌟[**Student Spotlight**](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)🌟🌟
+
+<div class="news-scroll" markdown="1">
+  - **2026.09:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2105335205741596911) (560B-A25B) is coming soon! So proud to have contributed to it! [Blog](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c312e7e0cca394ab48cf5b24749ec31cacc004506a72e6d48ef6950858102b49129831ccce6a&scene=126&sessionid=0&clicktime=1790771516&enterid=1790771516#rd){:.btn-link .btn-blog}
+  - **2026.09:**  🥂  Invited to Bilibili "B-UP" Talent Program Networking Event!
+  - **2026.08:**  🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
+  - **2026.07:**  ✈️  I was honored to be invited to participate in the **<span style="color:red">Qingyun|UBIQuent|Apex Intelligence Talent Dinner</span>** at ICML 2026!
+  - **2026.05:**  ✈️  I was honored to be invited to participate in the "AI Talent Corner" at VALSE 2026!
+  - **2026.04:**  🧩  We released [**General365**](https://general365.github.io/), advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
+  - **2026.04:**  🎉  One paper has been accepted by **<span style="color:red">ACL 2026</span>**! [**AMO-Bench**](https://amo-bench.github.io/)！See you in San Diego 🇺🇸!
+  - **2026.03:**  🎉  One paper has been accepted by **<span style="color:red">IJCNN 2026</span>**! [**ACE-MAPPO**](https://arxiv.org/abs/2605.25091v1)！See you in Maastricht 🇳🇱!
+  - **2026.03:**  ✈️  I was honored to be invited to participate in the **<span style="color:red">Tencent QingYun Talent Program</span>**! “Stars of the Future”
+  - **2025.06:**  🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong style="color: red;">1<sup>st</sup>/198</strong> in overall GPA for three years (2022-2025) !  🌟🌟[**Student Spotlight**](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)🌟🌟
+</div>
+<div class="scroll-hint">⬆ Scrollable</div>
 
 
 
