@@ -119,7 +119,7 @@
   </style>
 
 # 🔥 News
-
+- **2026.09:**  🚀🚀  [**Ling-3.1-Flash**](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c312e7e0cca394ab48cf5b24749ec31cacc004506a72e6d48ef6950858102b49129831ccce6a&scene=126&sessionid=0&clicktime=1790771516&enterid=1790771516#rd) (560B-A25B, 1M context) is released and open-sourced — proud to have contributed to it!
 - **2026.08:**  🎉🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
 - **2026.07:**  ✈️✈️  I was honored to be invited to participate in the **<span style="color:red">Qingyun|UBIQuent|Apex Intelligence Talent Dinner</span>** at ICML 2026!
 - **2026.05:**  ✈️✈️  I was honored to be invited to participate in the "AI Talent Corner" at VALSE 2026!
