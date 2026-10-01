@@ -163,7 +163,7 @@
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
 
 - **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
-  - I worked on mathematical and general reasoning of LLMs, building [**AMO-Bench**](https://aclanthology.org/2026.findings-acl.101.pdf) and [**General365**](https://arxiv.org/pdf/2604.11778) for benchmarking, and developing [**CRPO**](https://arxiv.org/pdf/2607.28026) for contrastive agentic RL and [**ClawTrack**](https://arxiv.org/pdf/2607.28037) for trace-level agent evaluation.
+  - I worked on mathematical and general reasoning of LLMs, building [**AMO-Bench**](https://aclanthology.org/2026.findings-acl.101.pdf) and [**General365**](https://arxiv.org/pdf/2604.11778) for benchmarking. I also developed [**CRPO**](https://arxiv.org/pdf/2607.28026) and [**PCSD**](https://arxiv.org/pdf/2608.01837) for agentic RL via contrastive optimization and self-distillation, and [**ClawTrack**](https://arxiv.org/pdf/2607.28037) for trace-level agent evaluation.
   - Mentor: [**Shengnan An**](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [**Xuezhi Cao**](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ), [**Xunliang Cai**](https://scholar.google.com/citations?hl=zh-EN&user=ZEAfy1QAAAAJ).
  
 
