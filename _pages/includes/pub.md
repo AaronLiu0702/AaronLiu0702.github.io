@@ -118,7 +118,7 @@
   }
 
   .news-scroll {
-    max-height: 225px;      /* 盒子高度，超出部分滚动 */
+    max-height: 228px;      /* 盒子高度，超出部分滚动 */
     overflow-y: auto;
     padding: 10px 16px;
     border: 1px solid #eaeaea;
