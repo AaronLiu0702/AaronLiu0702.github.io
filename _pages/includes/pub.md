@@ -153,11 +153,6 @@
 
 # 💻 Internship Experience
 
-<!--
-- **2026.08 – Present｜ <img src="../images/icon/tencent-full.svg" alt="icon" style="height:16px; vertical-align:middle;">    Tencent, <img src="../images/icon/WeChat.png" alt="icon" style="height:20px; vertical-align:middle;"> WXG, WeLM Fundation LLM Team.**
-  - Research Intern on Agentic RL & MLLM Agent.
--->
-
 - **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team. <span style="color:red">(Ant-Star Plan-A Program)</span>**
   - Research Intern on Deep Research Agents & LLM Post-training.
   - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?hl=en&user=jhvR-JIAAAAJ), [**XingYu Lu**](https://scholar.google.com.hk/citations?hl=en&user=Dq9kHGwAAAAJ).
@@ -198,7 +193,7 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ACL 2026 (CCF-A)
       </div>
-      <a href="https://amo-bench.github.io/"><img src='images/AMO-Bench.png' alt="sym" width="100%"></a>
+      <a href="https://amo-bench.github.io/"><img src='images/paper_overview/AMO-Bench.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
