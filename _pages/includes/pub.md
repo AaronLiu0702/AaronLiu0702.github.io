@@ -151,7 +151,7 @@
 
 
 
-# 💻 Internship Experience (LLM Foundation Model)
+# 💻 Internship Experience
 
 <!--
 - **2026.08 – Present｜ <img src="../images/icon/tencent-full.svg" alt="icon" style="height:16px; vertical-align:middle;">    Tencent, <img src="../images/icon/WeChat.png" alt="icon" style="height:20px; vertical-align:middle;"> WXG, WeLM Fundation LLM Team.**
