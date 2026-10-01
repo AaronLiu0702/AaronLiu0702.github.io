@@ -155,23 +155,21 @@
 
 - **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team. <span style="color:red">(Ant-Star Plan-A Program)</span>**
   - Research Intern on Deep Research Agents & LLM Post-training.
-  
+  - I work on enhancing the agentic search capability of Ling series models, improving performance on deep research benchmarks such as Draco and WideSearch through data synthesis and reinforcement learning.
   - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?hl=en&user=jhvR-JIAAAAJ), [**XingYu Lu**](https://scholar.google.com.hk/citations?hl=en&user=Dq9kHGwAAAAJ).
 
 
 - **2026.04 – 2026.08｜ <img src="../images/ali.svg" alt="icon" style="height:18px; vertical-align:middle;">    Alibaba, <img src="../images/qwen.svg" alt="icon" style="height:25px; vertical-align:middle;"> Qwen Business Unit, MOS Lab.**
-  - Research Intern on Search Agents & LLM Post-training.
-  - I worked on agentic LLM post-training, developing [MAPD](https://arxiv.org/pdf/2607.24280) for on-policy multi-agent distillation in agentic search, [DecoEvo](https://arxiv.org/pdf/2607.25675) for co-evolution of solver and rubric-generator skills, and HarnessOpt for long-horizon harness self-improvement.
+  - I worked on search agents and LLM post-training, developing [**MAPD**](https://arxiv.org/pdf/2607.24280) for on-policy multi-agent distillation in agentic search, [**DecoEvo**](https://arxiv.org/pdf/2607.25675) for co-evolution of solver and rubric-generator skills, and HarnessOpt for long-horizon harness self-improvement.
   - Mentor: [**Bowen Zhang**](https://scholar.google.com.hk/citations?user=YLVZ7xUAAAAJ&hl=en), [**Yuan Shen**](https://openreview.net/profile?id=~Yuan_Shen10).
 
 - **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
-  - Research Intern on Mathematical & General Reasoning of LLMs.
-  - I worked on mathematical and general reasoning of LLMs, building [AMO-Bench](https://aclanthology.org/2026.findings-acl.101.pdf) and [General365](https://arxiv.org/pdf/2604.11778) for reasoning benchmarking, and developing [CRPO](https://arxiv.org/pdf/2607.28026) for contrastive agentic RL and [ClawTrack](https://arxiv.org/pdf/2607.28037) for trace-level agent evaluation.
+  - I worked on mathematical and general reasoning of LLMs, building [**AMO-Bench**](https://aclanthology.org/2026.findings-acl.101.pdf) and [**General365**](https://arxiv.org/pdf/2604.11778) for benchmarking, and developing [**CRPO**](https://arxiv.org/pdf/2607.28026) for contrastive agentic RL and [**ClawTrack**](https://arxiv.org/pdf/2607.28037) for trace-level agent evaluation.
   - Mentor: [**Shengnan An**](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [**Xuezhi Cao**](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ), [**Xunliang Cai**](https://scholar.google.com/citations?hl=zh-EN&user=ZEAfy1QAAAAJ).
  
 
 - **2025.07 - 2025.09｜ <img src="../images/baidu.png" alt="icon" style="height:20px; vertical-align:middle;">    Baidu, <img src="../images/wenxin.svg" alt="icon" style="height:25px; vertical-align:middle;"> ERNIE Foundation LLM Team.**
-  - Research Intern on Multimodal Evaluation & Post-training Data Engineering of LLMs.
+  - I worked on post-training data engineering and multimodal evaluation for foundation models.
   - Mentor: Dr.Xin Wang.
 
 <!--
