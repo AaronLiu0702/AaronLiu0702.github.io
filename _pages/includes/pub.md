@@ -429,6 +429,7 @@
 [Paper](https://arxiv.org/abs/2608.01837){:.btn-link .btn-paper}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2608.01837){:.btn-link .btn-hf}
 <a href="#" class="btn-link btn-bib" data-bib-key="lv2026pcsd">BIB</a>
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2608.01837.json)](https://arxiv.org/abs/2608.01837)
   </div>
 </div>
 
@@ -457,6 +458,7 @@
 [Paper](https://arxiv.org/abs/2607.28037){:.btn-link .btn-paper}
 [ProjectPage](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/){:.btn-link .btn-home}
 <a href="#" class="btn-link btn-bib" data-bib-key="wu2026clawtrack">BIB</a>
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.28037.json)](https://arxiv.org/abs/2607.28037)
   </div>
 </div>
 
@@ -544,6 +546,7 @@
 [Paper](https://arxiv.org/abs/2608.12996){:.btn-link .btn-paper}
 [Code](https://github.com/daxtar2/ATOBench){:.btn-link .btn-code}
 <a href="#" class="btn-link btn-bib" data-bib-key="chen2026atobench">BIB</a>
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2608.12996.json)](https://arxiv.org/abs/2608.12996)
   </div>
 </div>
 
@@ -572,6 +575,7 @@
 [Paper](https://arxiv.org/abs/2607.14327){:.btn-link .btn-paper}
 [Code](){:.btn-link .btn-code}
 <a href="#" class="btn-link btn-bib" data-bib-key="yu2026prem">BIB</a>
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.14327.json)](https://arxiv.org/abs/2607.14327)
   </div>
 </div>
 
