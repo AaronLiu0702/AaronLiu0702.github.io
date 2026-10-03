@@ -1,0 +1,39 @@
+name: Update Paper Citations
+
+on:
+  schedule:
+    # 每天 UTC 02:17（北京时间 10:17）运行
+    - cron: '17 2 * * *'
+  workflow_dispatch: # 支持在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update citation badge data
+        env:
+          # 可选：配置 SERPAPI_KEY 后使用真实的 Google Scholar 数据
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: python3 scripts/update_citations.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add badges/citations/
+          if git diff --cached --quiet; then
+            echo "No citation changes."
+          else
+            git commit -m "chore: update citation badges [skip ci]"
+            git push
+          fi

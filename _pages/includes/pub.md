@@ -217,7 +217,7 @@
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/AMO-Bench){:.btn-link .btn-hf}
   <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
-[![Citations](https://img.shields.io/badge/Citations-41-EBB215)](https://arxiv.org/abs/2510.26768)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2510.26768.json)](https://arxiv.org/abs/2510.26768)
   </div>
 </div>
 
@@ -249,7 +249,7 @@
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/General365_Public){:.btn-link .btn-hf}
 <a href="#" class="btn-link btn-bib" data-bib-key="liu2026general365">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
-[![Citations](https://img.shields.io/badge/Citations-6-EBB215)](https://arxiv.org/abs/2604.11778)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2604.11778.json)](https://arxiv.org/abs/2604.11778)
   </div>
 </div>
 
@@ -277,7 +277,7 @@
   </div>
 [Paper](https://arxiv.org/abs/2607.28026){:.btn-link .btn-paper}
 <a href="#" class="btn-link btn-bib" data-bib-key="wu2026contrastive">BIB</a>
-[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.28026)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.28026.json)](https://arxiv.org/abs/2607.28026)
   </div>
 </div>
 
@@ -315,7 +315,7 @@
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.24280){:.btn-link .btn-hf}
 <a href="#" class="btn-link btn-bib" data-bib-key="liu2026proprietary">BIB</a>
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
-[![Citations](https://img.shields.io/badge/Citations-5-EBB215)](https://arxiv.org/abs/2607.24280)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.24280.json)](https://arxiv.org/abs/2607.24280)
   </div>
 </div>
 
@@ -345,7 +345,7 @@
 [Paper](https://arxiv.org/abs/2607.25675){:.btn-link .btn-paper}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.25675){:.btn-link .btn-hf}
 <a href="#" class="btn-link btn-bib" data-bib-key="chen2026decoevo">BIB</a>
-[![Citations](https://img.shields.io/badge/Citations-2-EBB215)](https://arxiv.org/abs/2607.25675)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.25675.json)](https://arxiv.org/abs/2607.25675)
   </div>
 </div>
 
@@ -399,7 +399,7 @@
 [Paper](https://arxiv.org/abs/2605.23668){:.btn-link .btn-paper}
 [Code](https://github.com/ZBWpro/OnePred){:.btn-link .btn-code}
 <a href="#" class="btn-link btn-bib" data-bib-key="chen2026onepred">BIB</a>
-[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2605.23668)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2605.23668.json)](https://arxiv.org/abs/2605.23668)
   </div>
 </div>
 
@@ -516,7 +516,7 @@
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/collections/placeholder){:.btn-link .btn-hf}
 <a href="#" class="btn-link btn-bib" data-bib-key="jiang2026beyond">BIB</a>
 [![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
-[![Citations](https://img.shields.io/badge/Citations-1-EBB215)](https://arxiv.org/abs/2607.19747)
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.19747.json)](https://arxiv.org/abs/2607.19747)
   </div>
 </div>
 
