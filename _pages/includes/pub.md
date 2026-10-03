@@ -124,7 +124,7 @@
     border: 1px solid #eaeaea;
     border-radius: 12px;
     background: #f9f9f9;
-    box-shadow: ...;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.04);
     scrollbar-width: thin;  /* Firefox 适配 */
   }
   </style>
