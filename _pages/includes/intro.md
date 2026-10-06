@@ -140,7 +140,8 @@ My research interests include Reinforcement Learning, Large Language Models and 
         </div>
       </div>
       <p>
-          <a href="http://www.ia.cas.cn/" target="_blank">中国科学院大学 人工智能学院 (北京·2026.06)</a>
+          <a href="http://www.ia.cas.cn/" target="_blank">中国科学院大学 人工智能学院</a>
+          (北京·2026.06)
       </p>
     </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
