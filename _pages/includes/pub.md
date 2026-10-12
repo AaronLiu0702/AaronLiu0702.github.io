@@ -658,6 +658,32 @@
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
+        ACL 2027 (Under Review)
+      </div>
+      <a href=""><img src='images/paper_overview/AtomSD.png' alt="sym" width="100%"></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<img src="../images/icon/meituan.svg" alt="icon" style="height:22px; vertical-align:middle;"> AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents.**  
+  
+  🧑‍💻 Bohan Yu, Pengfei Cao, Kai Tian, Chen Han, Shi-Yang Li, Chenxi Zhou, <ins>**Junlin Liu**</ins>, Cao Liu, Ke Zeng, Jun Zhao, Kang Liu.
+  <br>
+  <div class="paper-topics">
+    <span class="paper-topic">LLM Agents</span>
+    <span class="paper-topic">On-Policy Self-Distillation</span>
+    <span class="paper-topic">Adaptive Reweighting</span>
+  </div>
+  </div>
+</div>
+
+
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
