@@ -439,7 +439,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        KDD 2027 (Under Review)
+        ACL 2027 (Under Review)
       </div>
       <a href="https://arxiv.org/abs/2607.28037"><img src='images/paper_overview/ClawTrack.png' alt="sym" width="100%"></a>
     </div>
