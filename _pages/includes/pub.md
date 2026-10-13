@@ -98,6 +98,13 @@
       margin-right: 0;                 /* 图标后没文字时不留空隙 */
   }
 
+  .btn-paper img,
+  .btn-code img,
+  .btn-home img,
+  .btn-bib img {
+      margin-right: 8px;
+  }
+
   /* BIB 悬停弹窗 */
   .bib-tooltip {
       position: absolute;
