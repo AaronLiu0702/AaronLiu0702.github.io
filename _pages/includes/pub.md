@@ -696,7 +696,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ICONIP 2026
+        ICONIP 2026 (Oral)
       </div>
       <a href="https://arxiv.org/abs/2609.11155"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
@@ -707,7 +707,7 @@
   
   🧑‍💻 <ins>**Junlin Liu**</ins>, Yang Gao, Chengwei Li, Hui Chang, Xinchen Zhang, Zhijun Zhao, Hao Zhao.
   <br>
-  🏛️ **<span style="color: rgb(165, 28, 48);">International Conference on Neural Information Processing, 2026.</span>**
+  🏛️ **<span style="color: rgb(165, 28, 48);">International Conference on Neural Information Processing, 2026. (Oral)</span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforcement Learning</span>
