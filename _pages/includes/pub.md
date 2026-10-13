@@ -601,7 +601,7 @@
   
   **<img src="../images/alibaba.svg" alt="icon" style="height:30px; vertical-align:middle;"> HalluAgent: Type-Conditioned Visual Evidence for Hallucination Mitigation in Large Vision-Language Models.**  
   
-  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, Tong Ji, <ins>**Junlin Liu**</ins>, Yuhao Shen, YiQiLiao, <br>Bailin Liang, Ruibo Duan.
+  🧑‍💻 Ruipeng Zhang, Zhangtianyi Chen, Zixuan Huang, <ins>**Junlin Liu**</ins>, Tong Ji, Ruibo Duan.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Multi-modal Agents</span>
