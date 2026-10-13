@@ -211,11 +211,11 @@
     <span class="paper-topic">LLM Evaluation</span>
   </div>
 
-  [Paper](https://aclanthology.org/2026.findings-acl.101/){:.btn-link .btn-paper}
-  [Code](https://github.com/meituan-longcat/AMO-Bench){:.btn-link .btn-code}
-  [ProjectPage](https://amo-bench.github.io/){:.btn-link .btn-home}
+  [<img src="images/icon/paper.svg" alt="">Paper](https://aclanthology.org/2026.findings-acl.101/){:.btn-link .btn-paper}
+  [<img src="images/icon/github.svg" alt="">Code](https://github.com/meituan-longcat/AMO-Bench){:.btn-link .btn-code}
+  [<img src="images/icon/link.svg" alt="">ProjectPage](https://amo-bench.github.io/){:.btn-link .btn-home}
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/AMO-Bench){:.btn-link .btn-hf}
-  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo">BIB</a>
+  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026amo"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/AMO-Bench?style=flat&label=Stars)](https://github.com/meituan-longcat/AMO-Bench)
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2510.26768.json)](https://arxiv.org/abs/2510.26768)
   </div>
@@ -243,11 +243,11 @@
     <span class="paper-topic">LLM Evaluation</span>
   </div>
   
-[Paper](https://arxiv.org/abs/2604.11778){:.btn-link .btn-paper}
-[Code](https://github.com/meituan-longcat/General365){:.btn-link .btn-code}
-[ProjectPage](https://general365.github.io/){:.btn-link .btn-home}
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2604.11778){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt="">Code](https://github.com/meituan-longcat/General365){:.btn-link .btn-code}
+[<img src="images/icon/link.svg" alt="">ProjectPage](https://general365.github.io/){:.btn-link .btn-home}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/datasets/meituan-longcat/General365_Public){:.btn-link .btn-hf}
-<a href="#" class="btn-link btn-bib" data-bib-key="liu2026general365">BIB</a>
+<a href="#" class="btn-link btn-bib" data-bib-key="liu2026general365"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Stars](https://img.shields.io/github/stars/meituan-longcat/General365?style=flat&label=Stars)](https://github.com/meituan-longcat/General365)
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2604.11778.json)](https://arxiv.org/abs/2604.11778)
   </div>
@@ -275,8 +275,8 @@
     <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Contrastive Policy Optimization</span>
   </div>
-[Paper](https://arxiv.org/abs/2607.28026){:.btn-link .btn-paper}
-<a href="#" class="btn-link btn-bib" data-bib-key="wu2026contrastive">BIB</a>
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2607.28026){:.btn-link .btn-paper}
+<a href="#" class="btn-link btn-bib" data-bib-key="wu2026contrastive"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.28026.json)](https://arxiv.org/abs/2607.28026)
   </div>
 </div>
@@ -310,10 +310,10 @@
     </a>
   </div>
   
-[Paper](https://arxiv.org/abs/2607.24280){:.btn-link .btn-paper}
-[Code](https://github.com/AaronLiu0702/MAPD){:.btn-link .btn-code}
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2607.24280){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt="">Code](https://github.com/AaronLiu0702/MAPD){:.btn-link .btn-code}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.24280){:.btn-link .btn-hf}
-<a href="#" class="btn-link btn-bib" data-bib-key="liu2026proprietary">BIB</a>
+<a href="#" class="btn-link btn-bib" data-bib-key="liu2026proprietary"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Stars](https://img.shields.io/github/stars/AaronLiu0702/MAPD?style=flat&label=Stars)](https://github.com/AaronLiu0702/MAPD)
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.24280.json)](https://arxiv.org/abs/2607.24280)
   </div>
@@ -342,9 +342,9 @@
     <span class="paper-topic">Skill and Rubric Learning</span>
   </div>
 
-[Paper](https://arxiv.org/abs/2607.25675){:.btn-link .btn-paper}
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2607.25675){:.btn-link .btn-paper}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2607.25675){:.btn-link .btn-hf}
-<a href="#" class="btn-link btn-bib" data-bib-key="chen2026decoevo">BIB</a>
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026decoevo"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.25675.json)](https://arxiv.org/abs/2607.25675)
   </div>
 </div>
@@ -396,9 +396,9 @@
     <span class="paper-topic">Next-Query Prediction</span>
   </div>
 
-[Paper](https://arxiv.org/abs/2605.23668){:.btn-link .btn-paper}
-[Code](https://github.com/ZBWpro/OnePred){:.btn-link .btn-code}
-<a href="#" class="btn-link btn-bib" data-bib-key="chen2026onepred">BIB</a>
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2605.23668){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt="">Code](https://github.com/ZBWpro/OnePred){:.btn-link .btn-code}
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026onepred"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2605.23668.json)](https://arxiv.org/abs/2605.23668)
   </div>
 </div>
@@ -426,9 +426,9 @@
     <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Adaptive Weighting</span>
   </div>
-[Paper](https://arxiv.org/abs/2608.01837){:.btn-link .btn-paper}
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2608.01837){:.btn-link .btn-paper}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2608.01837){:.btn-link .btn-hf}
-<a href="#" class="btn-link btn-bib" data-bib-key="lv2026pcsd">BIB</a>
+<a href="#" class="btn-link btn-bib" data-bib-key="lv2026pcsd"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2608.01837.json)](https://arxiv.org/abs/2608.01837)
   </div>
 </div>
@@ -453,11 +453,11 @@
   <div class="paper-topics">
     <span class="paper-topic">Agent Evaluation</span>
     <span class="paper-topic">Long-Horizon Agent</span>
-    <span class="paper-topic">Real-World interaction</span>
+    <span class="paper-topic">Real-World Interaction</span>
   </div>
-[Paper](https://arxiv.org/abs/2607.28037){:.btn-link .btn-paper}
-[ProjectPage](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/){:.btn-link .btn-home}
-<a href="#" class="btn-link btn-bib" data-bib-key="wu2026clawtrack">BIB</a>
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2607.28037){:.btn-link .btn-paper}
+[<img src="images/icon/link.svg" alt="">ProjectPage](https://1997-hank-wu.github.io/ClawTrack-Leaderboard/){:.btn-link .btn-home}
+<a href="#" class="btn-link btn-bib" data-bib-key="wu2026clawtrack"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.28037.json)](https://arxiv.org/abs/2607.28037)
   </div>
 </div>
@@ -483,7 +483,7 @@
   <div class="paper-topics">
     <span class="paper-topic">Agent Evaluation</span>
     <span class="paper-topic">Recursive Self-Improvement</span>
-    <span class="paper-topic">Real-World interaction</span>
+    <span class="paper-topic">Real-World Interaction</span>
   </div>
   </div>
 </div>
@@ -512,11 +512,11 @@
     <span class="paper-topic">Retrieval Evaluation</span>
     <span class="paper-topic">Rubric-Guided</span>
   </div>
-[Paper](https://arxiv.org/pdf/2607.19747){:.btn-link .btn-paper}
-[Code](https://github.com/Rubric4Setwise/Rubric4Setwise){:.btn-link .btn-code}
-[ProjectPage](https://rubric4setwise.github.io/){:.btn-link .btn-home}
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/pdf/2607.19747){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt="">Code](https://github.com/Rubric4Setwise/Rubric4Setwise){:.btn-link .btn-code}
+[<img src="images/icon/link.svg" alt="">ProjectPage](https://rubric4setwise.github.io/){:.btn-link .btn-home}
 [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/collections/placeholder){:.btn-link .btn-hf}
-<a href="#" class="btn-link btn-bib" data-bib-key="jiang2026beyond">BIB</a>
+<a href="#" class="btn-link btn-bib" data-bib-key="jiang2026beyond"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Stars](https://img.shields.io/github/stars/Rubric4Setwise/Rubric4Setwise?style=flat&label=Stars)](https://github.com/Rubric4Setwise/Rubric4Setwise)
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.19747.json)](https://arxiv.org/abs/2607.19747)
   </div>
@@ -543,9 +543,9 @@
     <span class="paper-topic">Penetration Testing</span>
     <span class="paper-topic">Agent Security</span>
   </div>
-[Paper](https://arxiv.org/abs/2608.12996){:.btn-link .btn-paper}
-[Code](https://github.com/daxtar2/ATOBench){:.btn-link .btn-code}
-<a href="#" class="btn-link btn-bib" data-bib-key="chen2026atobench">BIB</a>
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2608.12996){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt="">Code](https://github.com/daxtar2/ATOBench){:.btn-link .btn-code}
+<a href="#" class="btn-link btn-bib" data-bib-key="chen2026atobench"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2608.12996.json)](https://arxiv.org/abs/2608.12996)
   </div>
 </div>
@@ -572,9 +572,9 @@
     <span class="paper-topic">Context Compression</span>
     <span class="paper-topic">LLM Memory</span>
   </div>
-[Paper](https://arxiv.org/abs/2607.14327){:.btn-link .btn-paper}
-[Code](){:.btn-link .btn-code}
-<a href="#" class="btn-link btn-bib" data-bib-key="yu2026prem">BIB</a>
+[<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2607.14327){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt="">Code](){:.btn-link .btn-code}
+<a href="#" class="btn-link btn-bib" data-bib-key="yu2026prem"><img src="images/icon/bibtex.svg" alt="">BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2607.14327.json)](https://arxiv.org/abs/2607.14327)
   </div>
 </div>
@@ -703,13 +703,13 @@
   🏛️ **<span style="color: rgb(165, 28, 48);">International Conference on Neural Information Processing, 2026.</span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
-    <span class="paper-topic">Reinforce Learning</span>
+    <span class="paper-topic">Reinforcement Learning</span>
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
   </div>
-  [Paper](https://arxiv.org/abs/2609.11155){:.btn-link .btn-paper}
+  [<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2609.11155){:.btn-link .btn-paper}
   [<img src='images/icon/huggingface.svg' alt="">HF](https://huggingface.co/papers/2609.11155){:.btn-link .btn-hf}
-  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026drg">BIB</a>
+  <a href="#" class="btn-link btn-bib" data-bib-key="liu2026drg"><img src="images/icon/bibtex.svg" alt="">BIB</a>
   </div>
 </div>
 
@@ -732,12 +732,12 @@
   🏛️ **<span style="color: rgb(165, 28, 48);">International Joint Conference on Neural Networks, 2026.</span>**
   <div class="paper-topics">
     <span class="paper-topic">CCF-C</span>
-    <span class="paper-topic">Reinforce Learning</span>
+    <span class="paper-topic">Reinforcement Learning</span>
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
   </div>
-  [Paper](https://arxiv.org/abs/2605.25091){:.btn-link .btn-paper}
-  <a href="#" class="btn-link btn-bib" data-bib-key="li2026evolutionary">BIB</a>
+  [<img src="images/icon/paper.svg" alt="">Paper](https://arxiv.org/abs/2605.25091){:.btn-link .btn-paper}
+  <a href="#" class="btn-link btn-bib" data-bib-key="li2026evolutionary"><img src="images/icon/bibtex.svg" alt="">BIB</a>
   </div>
 </div>
 
