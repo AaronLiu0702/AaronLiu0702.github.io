@@ -676,7 +676,7 @@
   <div class="paper-topics">
     <span class="paper-topic">LLM Agents</span>
     <span class="paper-topic">On-Policy Self-Distillation</span>
-    <span class="paper-topic">Adaptive Reweighting</span>
+    <span class="paper-topic">Knowledge Atomization</span>
   </div>
   </div>
 </div>
