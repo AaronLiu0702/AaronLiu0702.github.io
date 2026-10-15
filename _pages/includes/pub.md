@@ -139,7 +139,7 @@
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
-  - **2026.09:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952) is released and open-sourced！I'm proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x}
+  - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952) is released and open-sourced！I'm proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x}
   - **2026.09:**  🥂  Invited to Bilibili **<span style="color:red">"B-UP" Talent Program</span>** Networking Event!
   - **2026.09:**  🌟  Joined the [**Ling Foundation LLM Team**](https://www.ant-ling.com/zh/) at 🐜 [**AntGroup**](https://www.antgroup.com/) as a Research Intern through the [**<span style="color:red">Ant-Star Plan-A Program</span>**](https://talent.antgroup.com/ant-star)!
   - **2026.08:**  🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
