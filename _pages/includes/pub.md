@@ -143,12 +143,12 @@
   - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952) (560B-A25B) is released! So proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x} [<img src='images/icon/huggingface.svg' alt=""> HF](https://huggingface.co/inclusionAI/Ling-3.1-flash){:.btn-link .btn-hf} [<img src='images/icon/modelscope.svg' alt=""> MS](https://modelscope.cn/models/inclusionAI/Ling-3.1-flash){:.btn-link .btn-ms}
   - **2026.09:**  🥂  Invited to Bilibili **<span style="color:red">"B-UP" Talent Program</span>** Networking Event!
   - **2026.09:**  🌟  Joined the [**Ling Foundation LLM Team**](https://www.ant-ling.com/zh/) at 🐜 [**AntGroup**](https://www.antgroup.com/) as a Research Intern through the [**<span style="color:red">Ant-Star Plan-A Program</span>**](https://talent.antgroup.com/ant-star)!
-  - **2026.08:**  🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
+  - **2026.08:**  🎉  One paper has been accepted by **ICONIP 2026**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
   - **2026.07:**  ✈️  I was honored to be invited to participate in the **<span style="color:red">Qingyun|UBIQuent|Apex Intelligence Talent Dinner</span>** at ICML 2026!
-  - **2026.05:**  ✈️  I was honored to be invited to participate in the **<span style="color:red">"AI Talent Corner"</span>** at VALSE 2026!
+  - **2026.05:**  ✈️  I was honored to be invited to participate in the **"AI Talent Corner"** at VALSE 2026!
   - **2026.04:**  🧩  We released [**General365**](https://general365.github.io/), advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
-  - **2026.04:**  🎉  One paper has been accepted by **<span style="color:red">ACL 2026</span>**! [**AMO-Bench**](https://amo-bench.github.io/)！See you in San Diego 🇺🇸!
-  - **2026.03:**  🎉  One paper has been accepted by **<span style="color:red">IJCNN 2026</span>**! [**ACE-MAPPO**](https://arxiv.org/abs/2605.25091v1)！See you in Maastricht 🇳🇱!
+  - **2026.04:**  🎉  One paper has been accepted by **ACL 2026**! [**AMO-Bench**](https://amo-bench.github.io/)！See you in San Diego 🇺🇸!
+  - **2026.03:**  🎉  One paper has been accepted by **IJCNN 2026**! [**ACE-MAPPO**](https://arxiv.org/abs/2605.25091v1)！See you in Maastricht 🇳🇱!
   - **2026.03:**  🥂  I was honored to be invited to participate in the **<span style="color:red">Tencent QingYun Talent Program</span>**! “Stars of the Future”
   - **2025.06:**  🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong style="color: red;">1<sup>st</sup>/198</strong> in overall GPA for three years (2022-2025) !  🌟🌟[**Student Spotlight**](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)🌟🌟
 </div>
