@@ -83,6 +83,7 @@
   .btn-code,  .btn-code:hover  { background: #E8EAED; color: #3C4043; }
   .btn-home,  .btn-home:hover  { background: #EDE7F6; color: #7B61C9; }
   .btn-hf,    .btn-hf:hover    { background: #FEEFE3; color: #B06000; }
+  .btn-ms,    .btn-ms:hover    { background: #F0EDFF; color: #624AFF; }
   .btn-bib,   .btn-bib:hover   { background: #E8EAF6; color: #3F51B5; cursor: pointer; }
 
   /* ===== 按钮内嵌图标（HF logo）===== */
@@ -139,7 +140,7 @@
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
-  - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952)(560B-A25B) is released and open-sourced! So proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x}
+  - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952)(560B-A25B) is released and open-sourced! So proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x} [<img src='images/icon/huggingface.svg' alt=""> HF](https://huggingface.co/inclusionAI/Ling-3.1-flash){:.btn-link .btn-hf} [<img src='images/icon/modelscope.svg' alt=""> MS](https://modelscope.cn/models/inclusionAI/Ling-3.1-flash){:.btn-link .btn-ms}
   - **2026.09:**  🥂  Invited to Bilibili **<span style="color:red">"B-UP" Talent Program</span>** Networking Event!
   - **2026.09:**  🌟  Joined the [**Ling Foundation LLM Team**](https://www.ant-ling.com/zh/) at 🐜 [**AntGroup**](https://www.antgroup.com/) as a Research Intern through the [**<span style="color:red">Ant-Star Plan-A Program</span>**](https://talent.antgroup.com/ant-star)!
   - **2026.08:**  🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
