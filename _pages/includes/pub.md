@@ -139,7 +139,7 @@
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
-  - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952) is released and open-sourced！I'm proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x}
+  - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952) is released and open-sourced！I'm proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x} [<img src='images/icon/huggingface.svg' alt=""> HF](https://huggingface.co/inclusionAI/Ling-3.1-flash){:.btn-link .btn-hf}
   - **2026.09:**  🥂  Invited to Bilibili **<span style="color:red">"B-UP" Talent Program</span>** Networking Event!
   - **2026.09:**  🌟  Joined the [**Ling Foundation LLM Team**](https://www.ant-ling.com/zh/) at 🐜 [**AntGroup**](https://www.antgroup.com/) as a Research Intern through the [**<span style="color:red">Ant-Star Plan-A Program</span>**](https://talent.antgroup.com/ant-star)!
   - **2026.08:**  🎉  One paper has been accepted by **<span style="color:red">ICONIP 2026</span>**! [**DRG-MAPPO**](https://arxiv.org/abs/2609.11155)！See you in Sydney 🇦🇺!
@@ -696,7 +696,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ICONIP 2026 (Oral)
+        ICONIP 2026
       </div>
       <a href="https://arxiv.org/abs/2609.11155"><img src='images/DRG-MAPPO.png' alt="sym" width="100%"></a>
     </div>
@@ -709,7 +709,6 @@
   <br>
   🏛️ **<span style="color: rgb(165, 28, 48);">International Conference on Neural Information Processing, 2026. (Oral)</span>**
   <div class="paper-topics">
-    <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforcement Learning</span>
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
@@ -738,7 +737,6 @@
   <br>
   🏛️ **<span style="color: rgb(165, 28, 48);">International Joint Conference on Neural Networks, 2026.</span>**
   <div class="paper-topics">
-    <span class="paper-topic">CCF-C</span>
     <span class="paper-topic">Reinforcement Learning</span>
     <span class="paper-topic">Multi-Agent System</span>
     <span class="paper-topic">Agent Collaboration and Game</span>
