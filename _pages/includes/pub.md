@@ -86,6 +86,17 @@
   .btn-ms,    .btn-ms:hover    { background: #F0EDFF; color: #624AFF; }
   .btn-bib,   .btn-bib:hover   { background: #E8EAF6; color: #3F51B5; cursor: pointer; }
 
+  .model-release-label {
+      background: #E6F4F1;
+      color: #0F766E;
+      margin-right: 6px;
+      white-space: nowrap;
+  }
+
+  .model-release-label:hover {
+      filter: none;
+  }
+
   /* ===== 按钮内嵌图标（HF logo）===== */
   .btn-link img {
       height: 1.05em;
@@ -165,7 +176,7 @@
 
 - **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team. <span style="color:red">(Ant-Star Plan-A Program)</span>**
   - I work on enhancing the agentic search capability of Ling series models, improving performance on benchmarks such as [**Draco**](https://arxiv.org/pdf/2602.11685) and [**WideSearch**](https://arxiv.org/pdf/2508.07999) through data synthesis, supervised fine-tuning and agentic RL.
-  - 🚀 Model releases: [**Ling-3.1-Flash**](https://huggingface.co/inclusionAI/Ling-3.1-flash).
+  - <span class="btn-link model-release-label"><img src="images/icon/rocket.svg" alt=""> Model releases</span> [**Ling-3.1-Flash**](https://huggingface.co/inclusionAI/Ling-3.1-flash).
   - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?hl=en&user=jhvR-JIAAAAJ), [**XingYu Lu**](https://scholar.google.com.hk/citations?hl=en&user=Dq9kHGwAAAAJ).
 
 
@@ -175,7 +186,7 @@
 
 - **2025.09 – 2026.04｜ <img src="../images/meituan.png" alt="icon" style="height:20px; vertical-align:middle;">    Meituan, <img src="../images/longcat.svg" alt="icon" style="height:25px; vertical-align:middle;"> LongCat Foundation LLM Team.**
   - I worked on mathematical and general reasoning of LLMs, building [**AMO-Bench**](https://aclanthology.org/2026.findings-acl.101.pdf) and [**General365**](https://arxiv.org/pdf/2604.11778) for benchmarking. I also developed [**CRPO**](https://arxiv.org/pdf/2607.28026) and [**PCSD**](https://arxiv.org/pdf/2608.01837) for agentic RL via contrastive optimization and self-distillation, and [**ClawTrack**](https://arxiv.org/pdf/2607.28037) for trace-level agent evaluation.
-  - 🚀 Model releases: [**LongCat-Flash-Thinking-2601**](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601), [**LongCat-Flash-Prover**](https://huggingface.co/meituan-longcat/LongCat-Flash-Prover).
+  - <span class="btn-link model-release-label"><img src="images/icon/rocket.svg" alt=""> Model releases</span> [**LongCat-Flash-Thinking-2601**](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601), [**LongCat-Flash-Prover**](https://huggingface.co/meituan-longcat/LongCat-Flash-Prover).
   - Mentor: [**Shengnan An**](https://scholar.google.com.hk/citations?hl=en-CN&user=oPiRHWMAAAAJ), [**Xuezhi Cao**](https://scholar.google.com.hk/citations?hl=en&user=lqXw00MAAAAJ), [**Xunliang Cai**](https://scholar.google.com/citations?hl=zh-EN&user=ZEAfy1QAAAAJ).
  
 
