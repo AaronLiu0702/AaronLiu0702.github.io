@@ -701,6 +701,7 @@
   </div>
 
 [<img src="images/icon/paper.svg" alt=""> Paper](https://arxiv.org/abs/2610.26926){:.btn-link .btn-paper}
+[<img src="images/icon/github.svg" alt=""> Code](https://github.com/SharkSpicy-NLP/AtomSD){:.btn-link .btn-code}
 <a href="#" class="btn-link btn-bib" data-bib-key="yu2026atomsdproceduralatomguidedselfdistillation"><img src="images/icon/bibtex.svg" alt=""> BIB</a>
 [![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2610.26926.json)](https://arxiv.org/abs/2610.26926)
   </div>
