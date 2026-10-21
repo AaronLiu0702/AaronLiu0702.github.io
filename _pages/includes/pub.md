@@ -685,7 +685,7 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         ACL 2027 (Under Review)
       </div>
-      <a href=""><img src='images/paper_overview/AtomSD.png' alt="sym" width="100%"></a>
+      <a href="https://arxiv.org/abs/2610.26926"><img src='images/paper_overview/AtomSD.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -699,6 +699,10 @@
     <span class="paper-topic">On-Policy Self-Distillation</span>
     <span class="paper-topic">Knowledge Atomization</span>
   </div>
+
+[<img src="images/icon/paper.svg" alt=""> Paper](https://arxiv.org/abs/2610.26926){:.btn-link .btn-paper}
+<a href="#" class="btn-link btn-bib" data-bib-key="yu2026atomsdproceduralatomguidedselfdistillation"><img src="images/icon/bibtex.svg" alt=""> BIB</a>
+[![Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AaronLiu0702/AaronLiu0702.github.io/main/badges/citations/2610.26926.json)](https://arxiv.org/abs/2610.26926)
   </div>
 </div>
 

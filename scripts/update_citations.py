@@ -32,6 +32,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PUB_MD = REPO_ROOT / "_pages" / "includes" / "pub.md"
+BIB_FILE = REPO_ROOT / "files" / "papers.bib"
 CONFIG_YML = REPO_ROOT / "_config.yml"
 OUT_DIR = REPO_ROOT / "badges" / "citations"
 BADGE_COLOR = "EBB215"
@@ -84,6 +85,24 @@ def fetch_semantic_scholar(arxiv_ids):
 
 def norm_title(t):
     return re.sub(r"[^a-z0-9]+", " ", (t or "").lower()).strip()
+
+
+def bib_titles_by_arxiv():
+    """Keep Scholar title matching available before Semantic Scholar indexes a paper."""
+    if not BIB_FILE.exists():
+        return {}
+    titles = {}
+    entries = re.split(r"(?m)^\s*@\w+\s*\{", BIB_FILE.read_text(encoding="utf-8"))[1:]
+    for entry in entries:
+        title = re.search(r"\btitle\s*=\s*\{(.+?)\}\s*,", entry, re.I | re.S)
+        aid = re.search(
+            r"(?:\beprint\s*=\s*\{\s*|arxiv(?:\.org/abs/|:\s*))(\d+\.\d+)",
+            entry,
+            re.I,
+        )
+        if title and aid:
+            titles[aid.group(1)] = re.sub(r"\s+", " ", title.group(1)).strip()
+    return titles
 
 
 def scholar_author_id():
@@ -149,6 +168,7 @@ def main():
         return
     print(f"Found {len(arxiv_ids)} citation badge(s): {', '.join(arxiv_ids)}")
 
+    titles = bib_titles_by_arxiv()
     s2 = fetch_semantic_scholar(arxiv_ids)
 
     gs = {}
@@ -164,7 +184,7 @@ def main():
     for aid in arxiv_ids:
         info = s2.get(aid, {})
         value, source = None, ""
-        gs_val = match_gs_citations(gs, info.get("title", ""))
+        gs_val = match_gs_citations(gs, info.get("title") or titles.get(aid, ""))
         s2_val = info.get("citations")
         candidates = [v for v in (gs_val, s2_val) if v is not None]
         if candidates:
