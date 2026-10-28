@@ -161,7 +161,7 @@
   - **2026.04:**  🎉  One paper has been accepted by **ACL 2026**! [**AMO-Bench**](https://amo-bench.github.io/)！See you in San Diego 🇺🇸!
   - **2026.03:**  🎉  One paper has been accepted by **IJCNN 2026**! [**ACE-MAPPO**](https://arxiv.org/abs/2605.25091v1)！See you in Maastricht 🇳🇱!
   - **2026.03:**  🥂  I was honored to be invited to participate in the **<span style="color:red">Tencent QingYun Talent Program</span>**! “Stars of the Future”
-  - **2025.06:**  🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong style="color: red;">1<sup>st</sup>/198</strong> in overall GPA for three years (2022-2025) !  [<img src="images/icon/WeChat.png" alt=""> Student Spotlight](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w){:.btn-link .btn-blog}
+  - **2025.06:**  🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking <strong style="color: red;">1<sup>st</sup>/198</strong> in overall GPA for three years (2022-2025) !  🌟🌟[<img src="images/icon/WeChat.png" alt=""> Student Spotlight](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w){:.btn-link .btn-blog}🌟🌟
 </div>
 
 
