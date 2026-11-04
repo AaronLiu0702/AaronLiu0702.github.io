@@ -176,7 +176,7 @@
 
 - **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team. <span style="color:red">(Ant-Star Plan-A Program)</span>**
   - I work on enhancing the agentic search capability of Ling series models, improving performance on benchmarks such as [**Draco**](https://arxiv.org/pdf/2602.11685) and [**WideSearch**](https://arxiv.org/pdf/2508.07999) through data synthesis and distillation, supervised fine-tuning, and agentic RL.
-  - <a href="https://huggingface.co/inclusionAI" class="btn-link model-release-label">🚀 Model Releases</a> [**Ling-3.1-Flash**](https://huggingface.co/inclusionAI/Ling-3.1-flash).
+  - <a href="https://huggingface.co/inclusionAI" class="btn-link model-release-label">🚀 Model Releases</a> [**Ling-3.1-Flash**](https://huggingface.co/inclusionAI/Ling-3.1-flash), [**Ling-3.1-Flash-1019**](https://huggingface.co/inclusionAI/Ling-3.1-flash-1019).
   - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?hl=en&user=jhvR-JIAAAAJ), [**XingYu Lu**](https://scholar.google.com.hk/citations?hl=en&user=Dq9kHGwAAAAJ).
 
 
