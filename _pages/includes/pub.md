@@ -151,7 +151,7 @@
 # 🔥 News
 
 <div class="news-scroll" markdown="1">
-  - **2026.11:**  🚀  [**Ling-3.2-Flash**](https://x.com/AntLingAGI/status/2118428246664761379) (560B-A25B), a native multimodal model, is out! [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2118428246664761379){:.btn-link .btn-x}
+  - **2026.11:**  🚀  [**Ling-3.2-Flash**](https://x.com/AntLingAGI/status/2118428246664761379) (560B-A25B, a native multimodal model) is out! So proud to have contributed to it! [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2118428246664761379){:.btn-link .btn-x}
   - **2026.10:**  🚀  [**Ling-3.1-Flash**](https://x.com/AntLingAGI/status/2110390124743970952) (560B-A25B) is released! So proud to have contributed to it! [<img src="images/icon/WeChat.png" alt=""> Blog](https://mp.weixin.qq.com/s/TX7sgK4Fe6951UJ2qWjCug){:.btn-link .btn-blog} [<img src="images/icon/x.svg" alt="">](https://x.com/AntLingAGI/status/2110390124743970952){:.btn-link .btn-x} [<img src='images/icon/huggingface.svg' alt=""> HF](https://huggingface.co/inclusionAI/Ling-3.1-flash){:.btn-link .btn-hf} [<img src='images/icon/modelscope.svg' alt=""> MS](https://modelscope.cn/models/inclusionAI/Ling-3.1-flash){:.btn-link .btn-ms}
   - **2026.09:**  🥂  Invited to Bilibili **<span style="color:red">"B-UP" Talent Program</span>** Networking Event!
   - **2026.09:**  🌟  Joined the [**Ling Foundation LLM Team**](https://www.ant-ling.com/zh/) at 🐜 [**AntGroup**](https://www.antgroup.com/) as a Research Intern through the [**<span style="color:red">Ant-Star Plan-A Program</span>**](https://talent.antgroup.com/ant-star)!
@@ -177,7 +177,7 @@
 
 - **2026.09 – Present｜ <img src="../images/icon/antgroup-full.svg" alt="icon" style="height:30px; vertical-align:middle;">   AntGroup, <img src="../images/icon/ling.svg" alt="icon" style="height:25px; vertical-align:middle;"> Ling Foundation LLM Team. <span style="color:red">(Ant-Star Plan-A Program)</span>**
   - I work on enhancing the agentic search capability of Ling series models, improving performance on benchmarks such as [**Draco**](https://arxiv.org/pdf/2602.11685) and [**WideSearch**](https://arxiv.org/pdf/2508.07999) through data synthesis and distillation, supervised fine-tuning, and agentic RL.
-  - <a href="https://huggingface.co/inclusionAI" class="btn-link model-release-label">🚀 Model Releases</a> [**Ling-3.1-Flash**](https://huggingface.co/inclusionAI/Ling-3.1-flash), [**Ling-3.1-Flash-1019**](https://huggingface.co/inclusionAI/Ling-3.1-flash-1019).
+  - <a href="https://huggingface.co/inclusionAI" class="btn-link model-release-label">🚀 Model Releases</a> [**Ling-3.1-Flash**](https://huggingface.co/inclusionAI/Ling-3.1-flash), [**Ling-3.1-Flash-1019**](https://huggingface.co/inclusionAI/Ling-3.1-flash-1019), [**Ling-3.2-Flash**](https://x.com/AntLingAGI/status/2118428246664761379).
   - Mentor: [**YangYang Hou**](https://scholar.google.com.hk/citations?hl=en&user=jhvR-JIAAAAJ), [**XingYu Lu**](https://scholar.google.com.hk/citations?hl=en&user=Dq9kHGwAAAAJ).
 
 
