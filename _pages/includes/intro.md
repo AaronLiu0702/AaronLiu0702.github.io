@@ -101,6 +101,13 @@ My research interests include Reinforcement Learning, Large Language Models and 
 
 <div class="activities-scroll">
   <div class="activities-container">
+    <div class="activities-item">
+      <img src="../images/activities/AntStar2611.jpg" alt="蚂蚁星开放日">
+      <p>
+        <a href="https://mp.weixin.qq.com/s/xPxo9nRcGWBc4fnpLWCx0g" target="_blank">蚂蚁星开放日</a>
+        (北京·2026.11)
+      </p>
+    </div>
     <!-- ② 轮播卡片：2 张图（纯 CSS 来回切） -->
     <div class="activities-item">
       <div class="slide-view" data-count="2">
