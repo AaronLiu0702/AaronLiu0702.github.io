@@ -13,8 +13,9 @@ complete number):
        otherwise parsed from _config.yml). Free tier = 100 searches/month;
        this script uses ONE search per run, so daily updates fit easily.
   2. Semantic Scholar Graph API  - free, no key, reliable from CI.
-If one source misses a paper, the other one is used; if both fail,
-the previous value is kept so badges never break.
+If one source misses a paper, the other one can increase its badge but
+cannot lower a previous count. Decreases require valid counts from both
+sources. If both fail, the previous value is kept so badges never break.
 
 For every paper a shields.io "endpoint" JSON is written to
 badges/citations/<arxiv_id>.json. If a lookup fails, the previous value
@@ -70,21 +71,40 @@ def http_json(url, data=None, retries=2):
             return None
 
 
-def fetch_semantic_scholar(arxiv_ids):
+def fetch_semantic_scholar(arxiv_ids, diagnostics=None):
     """One batch request for all papers -> {arxiv_id: {'title':..., 'citations':...}}"""
     url = "https://api.semanticscholar.org/graph/v1/paper/batch?fields=title,citationCount"
+    diagnostics = {} if diagnostics is None else diagnostics
+    diagnostics["s2"] = "request failed or invalid batch response"
     data = http_json(url, data={"ids": [f"arXiv:{a}" for a in arxiv_ids]})
     if not isinstance(data, list):
         return {}
     out = {}
     for aid, item in zip(arxiv_ids, data):
-        if item:
-            out[aid] = {"title": item.get("title") or "", "citations": item.get("citationCount")}
+        if isinstance(item, dict):
+            out[aid] = {
+                "title": item.get("title") or "",
+                "citations": citation_count(item.get("citationCount")),
+            }
+    valid = sum(item["citations"] is not None for item in out.values())
+    diagnostics["s2"] = f"batch returned {len(data)}/{len(arxiv_ids)} entries; {valid} valid counts"
     return out
 
 
+def citation_count(value):
+    """Accept non-negative integers, including the badge JSON's numeric strings."""
+    if isinstance(value, int) and not isinstance(value, bool):
+        return value if value >= 0 else None
+    if isinstance(value, str) and re.fullmatch(r"[0-9]+", value.strip()):
+        try:
+            return int(value)
+        except ValueError:
+            return None
+    return None
+
+
 def norm_title(t):
-    return re.sub(r"[^a-z0-9]+", " ", (t or "").lower()).strip()
+    return re.sub(r"[^a-z0-9]+", " ", t.lower()).strip() if isinstance(t, str) else ""
 
 
 def bib_titles_by_arxiv():
@@ -115,20 +135,37 @@ def scholar_author_id():
     return None
 
 
-def fetch_google_scholar_serpapi(author_id, api_key):
+def fetch_google_scholar_serpapi(author_id, api_key, diagnostics=None):
     """Author profile -> {normalized_title: citations}. One API call per run."""
     url = (
         "https://serpapi.com/search.json?engine=google_scholar_author"
         f"&author_id={author_id}&api_key={api_key}&num=100&hl=en&sort=pubdate"
     )
+    diagnostics = {} if diagnostics is None else diagnostics
+    diagnostics["gs"] = "request failed or invalid response"
     data = http_json(url)
     if not isinstance(data, dict):
         return {}
+    metadata = data.get("search_metadata")
+    if data.get("error") or (isinstance(metadata, dict) and metadata.get("status") == "Error"):
+        diagnostics["gs"] = "provider reported an error"
+        return {}
+    if not isinstance(data.get("articles"), list):
+        diagnostics["gs"] = "response has no article list"
+        return {}
     out = {}
-    for art in data.get("articles", []):
+    for art in data["articles"]:
+        if not isinstance(art, dict):
+            continue
         cited = art.get("cited_by")
-        value = cited.get("value") if isinstance(cited, dict) else 0
-        out[norm_title(art.get("title"))] = value or 0
+        value = citation_count(cited.get("value")) if isinstance(cited, dict) else None
+        title = norm_title(art.get("title"))
+        if title and value is not None:
+            out[title] = max(out.get(title, value), value)
+    diagnostics["gs"] = (
+        f"profile returned {len(data['articles'])} articles; {len(out)} usable titles"
+        if data["articles"] else "empty profile result"
+    )
     return out
 
 
@@ -153,8 +190,8 @@ def read_previous(arxiv_id):
     path = OUT_DIR / f"{arxiv_id}.json"
     if path.exists():
         try:
-            return int(json.loads(path.read_text(encoding="utf-8"))["message"])
-        except (ValueError, KeyError, json.JSONDecodeError):
+            return citation_count(json.loads(path.read_text(encoding="utf-8"))["message"])
+        except (ValueError, KeyError, TypeError, json.JSONDecodeError):
             return None
     return None
 
@@ -169,44 +206,76 @@ def main():
     print(f"Found {len(arxiv_ids)} citation badge(s): {', '.join(arxiv_ids)}")
 
     titles = bib_titles_by_arxiv()
-    s2 = fetch_semantic_scholar(arxiv_ids)
+    diagnostics = {}
+    s2 = fetch_semantic_scholar(arxiv_ids, diagnostics)
+    print(f"Semantic Scholar lookup: {diagnostics['s2']}")
 
     gs = {}
     api_key, author_id = os.environ.get("SERPAPI_KEY"), scholar_author_id()
     if api_key and author_id:
-        gs = fetch_google_scholar_serpapi(author_id, api_key)
+        gs = fetch_google_scholar_serpapi(author_id, api_key, diagnostics)
         print(f"Google Scholar (SerpAPI): {len(gs)} article(s) on profile {author_id}")
     else:
-        print("SERPAPI_KEY not set, using Semantic Scholar numbers only")
+        missing = "SERPAPI_KEY" if not api_key else "Google Scholar author ID"
+        diagnostics["gs"] = f"not configured ({missing} missing)"
+    print(f"Google Scholar lookup: {diagnostics['gs']}")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     updated = 0
+    summary = [
+        "### Citation badge update",
+        "",
+        f"- Google Scholar: {diagnostics['gs']}",
+        f"- Semantic Scholar: {diagnostics['s2']}",
+        "- `None` means no valid matched count; it does not mean zero.",
+        "",
+        "| arXiv | Google Scholar | Semantic Scholar | Previous | Selected | Decision |",
+        "| --- | ---: | ---: | ---: | ---: | --- |",
+    ]
     for aid in arxiv_ids:
         info = s2.get(aid, {})
-        value, source = None, ""
-        gs_val = match_gs_citations(gs, info.get("title") or titles.get(aid, ""))
-        s2_val = info.get("citations")
+        previous = read_previous(aid)
+        value, source = None, "no data; badge left untouched"
+        gs_matches = [
+            citation_count(match_gs_citations(gs, title))
+            for title in (info.get("title"), titles.get(aid))
+        ]
+        gs_val = max((count for count in gs_matches if count is not None), default=None)
+        s2_val = citation_count(info.get("citations"))
         candidates = [v for v in (gs_val, s2_val) if v is not None]
         if candidates:
             value = max(candidates)
-            source = f"max(gs={gs_val}, s2={s2_val})"
+            source = "max of current sources"
+            if len(candidates) < 2:
+                source = "single available source"
+                if previous is not None and value < previous:
+                    value = previous
+                    source = "partial-source decrease blocked"
         else:
-            prev = read_previous(aid)
-            if prev is not None:
-                value, source = prev, "previous"
+            if previous is not None:
+                value, source = previous, "previous; no current source count"
             elif aid in seeds:
                 value, source = seeds[aid], "pub.md-seed"
+        summary.append(
+            f"| {aid} | {gs_val} | {s2_val} | {previous} | {value} | {source} |"
+        )
+        print(f"  {aid}: {value} (gs={gs_val}, s2={s2_val}, previous={previous}; {source})")
         if value is None:
-            print(f"  [warn] {aid}: no data from any source, badge left untouched")
             continue
 
         path = OUT_DIR / f"{aid}.json"
         payload = {"schemaVersion": 1, "label": "Citations", "message": str(value), "color": BADGE_COLOR}
-        if read_previous(aid) != value:
+        if previous != value:
             path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
             updated += 1
-        print(f"  {aid}: {value} ({source})")
     print(f"Done. {updated} badge file(s) changed.")
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        try:
+            with Path(summary_path).open("a", encoding="utf-8") as stream:
+                stream.write("\n".join(summary) + "\n")
+        except OSError as error:
+            print(f"[warn] could not write Actions step summary: {error}")
 
 
 if __name__ == "__main__":
