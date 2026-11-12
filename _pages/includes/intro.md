@@ -102,9 +102,14 @@ My research interests include Reinforcement Learning, Large Language Models and 
 <div class="activities-scroll">
   <div class="activities-container">
     <div class="activities-item">
-      <img src="../images/activities/AntStar2611.jpg?v=cbc94ca5" alt="蚂蚁星学术开放日">
+      <div class="slide-view" data-count="2">
+        <div class="slide-track">
+          <img src="../images/activities/AntStar2611.jpg?v=cbc94ca5" alt="蚂蚁星学术开放日">
+          <img src="../images/activities/AntStar2611_2.png" alt="蚂蚁星学术开放日现场">
+        </div>
+      </div>
       <p>
-        <a href="https://mp.weixin.qq.com/s/xPxo9nRcGWBc4fnpLWCx0g" target="_blank">蚂蚁星学术开放日</a>
+        <a href="https://mp.weixin.qq.com/s/mb67NROUDAmB0QtQtRm80A" target="_blank">蚂蚁星学术开放日</a>
         (北京·2026.11)
       </p>
     </div>
