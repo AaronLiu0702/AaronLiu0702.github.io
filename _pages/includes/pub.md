@@ -660,7 +660,7 @@
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
         CVPR 2027 (Under Review)
       </div>
-      <a href="https://openreview.net/forum?id=6y53bRbqDT"><img src='images/paper_overview/SAW.png' alt="sym" width="100%"></a>
+      <img src='images/paper_overview/SAW.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -674,8 +674,6 @@
     <span class="paper-topic">Multimodal RL</span>
     <span class="paper-topic">Adaptive Reweighting</span>
   </div>
-
-[<img src="images/icon/paper.svg" alt=""> Paper](https://openreview.net/forum?id=6y53bRbqDT){:.btn-link .btn-paper}
   </div>
 </div>
 
