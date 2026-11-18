@@ -658,22 +658,24 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: rgb(231, 77, 60); color: white; font-weight: bold;">
-        ICLR 2027 (Under Review)
+        CVPR 2027 (Under Review)
       </div>
-      <a href=""><img src='images/paper_overview/SAW.png' alt="sym" width="100%"></a>
+      <a href="https://openreview.net/forum?id=6y53bRbqDT"><img src='images/paper_overview/SAW.png' alt="sym" width="100%"></a>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **<img src="../images/icon/meituan.svg" alt="icon" style="height:22px; vertical-align:middle;"> SAW: Sink-Aware Weighting for Effective Video Reasoning.**  
+  **<img src="../images/icon/meituan.svg" alt="icon" style="height:22px; vertical-align:middle;"> EATW: Entropy-Adaptive Token Weighting for Mitigating Frame-Level Attention Sinks in Video Reasoning.**
   
-  🧑‍💻 Gengyuan Liu, Shaoxiang Chen, Qinwen Wu, Jiajun Dong, Zhenhao Wang, Hong Wang, Haiyang Xin, Junxuan Du, <ins>**Junlin Liu**</ins>, jixv, Jiacong Wang.
+  🧑‍💻 Gengyuan Liu, Shaoxiang Chen, Qinwen Wu, Jiajun Dong, Zhenhao Wang, Junxuan Du, <ins>**Junlin Liu**</ins>, Xu Ji, Jiacong Wang.
   <br>
   <div class="paper-topics">
     <span class="paper-topic">Video Reasoning</span>
     <span class="paper-topic">Multimodal RL</span>
     <span class="paper-topic">Adaptive Reweighting</span>
   </div>
+
+[<img src="images/icon/paper.svg" alt=""> Paper](https://openreview.net/forum?id=6y53bRbqDT){:.btn-link .btn-paper}
   </div>
 </div>
 
